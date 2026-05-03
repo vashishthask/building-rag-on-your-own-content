@@ -1,0 +1,59 @@
+TITLE: Moving Beyond Developer, Tester Roles &#8211; The Era of a Learning Person
+URL: https://www.agilebuddha.in/agile/moving-beyond-developer-tester-roles-the-era-of-a-learning-person/
+---
+
+More teams I work with, I face almost similar kind of challenge wherein team members want to remain confined to their roles. They continue to work solo. No pair programming, swarming or mobbing.
+
+Why?
+Because their skill sets don’t match. One such team have two iOS developers, 2 pythons developers and one tester. They can divide the PBIs into subtasks but they’ll continue to work solo as their skills don’t match.
+It seemed like a valid point to me at first.
+But then I thought a little deeper. Why exactly do we have developer or tester role to begin with? Aren’t they actually skills?
+Considering myself a developer, do I need to be a developer only throughout my life? Can’t I test as well? Of course I can.
+Similarly if I am a Python or a backend developer, nobody really constrain me to remain a backend developer throughout my life.
+But then these roles seem to be embedded in our mindset. Ever thought why?
+
+You see, traditional waterfall had well defined phases and so brought out well defined roles as well. People with these roles had enough work for themselves in different phases.
+But then in Scrum, you don’t work like Waterfall, i.e. in phases. You do everything all the time. Testing is not the last line of defence anymore. Everybody tests and should test. Quality becomes a primary goal from day 1 for everyone.
+Testing also is a skill which everyone can learn. Similarly backend developers can also learn how to develop in front-end. Again no big deal these days.
+Then why do we have Waterfall roles so deep-rooted in our mindset?
+Although, from Scrum standpoint, it is sufficient for a team to have all the talent necessary to deliver Done functionality, shouldn’t we move beyond?
+TPS moved from 1 person per machine to 1 person handling multiple machines. For further improvement, they moved towards work cell and one-piece flow concepts.
+Why should We Even Care?
+Some readers may still be confused, why am I so hell bent in having multiple skills in a person.
+There are many reasons. If a team has 2 front-end developers and 3 backend developers, a PO must find work for everyone, no matter what.
+But that creates trouble from business standpoint for cases where PO requires 4 front-end developers in a sprint.
+He has to survive with 2 front-end developers only or has to hire more. At the same time, he should be able to create enough work for 3 backend developers, otherwise they’ll sit idle.
+Another reason is – TPS researches have established that the best possible way to do work is through One Piece Flow requiring minimal or no handoffs. That helps in saving a lot of waste and is lot more efficient as well.
+How Does A Learning Person Look Like?
+Throughout past few years, there has been a lot of attention on shaping T shaped person.
+T-shaped individual has a specialty (backend, frontend, or a particular technology stack) but is comfortable doing a wide range of development work and/or product management, design thinking etc.
+Teams built with T-shaped individuals tend to adapt to the challenges ahead easier.
+The idea is – in a team, for each core competency, there should be one expert and one alternate. The alternate needs only to be competent as a developer.
+John’s key competency is Spring but he is competent in AngularJS as well. He is hardly an expert in AngularJS. He has to have a book in hand if he’s going to do anything adventurous. But he is a learning person. Such adaptability is at the heart of agile development.
+John knows nothing about ReactJS or about 100 other of the new cute technologies out there. But if you were to put him on a project using ReactJS, he could become competent in couple of weeks and proficient in couple of months. A learning person would accommodate the need.
+That’s a big mindset shift compared to existing “I am Java developer or a front-end or a backend developer”, siloed mindset. 
+Caveat
+T-shaping works great within a profession. For instance, it’s easy for a developer to help a tester or for a Java developer to learn Python.
+However in a team of an Electrical Engineer, a Mechanical Engineer, a physicist, a software person, it doesn’t make sense teaching the programmer enough about physics to be able to know the flow equations. If such a team went looking for T-shaped individuals, they would need forever to hire a team.
+How People Become T-Shaped in a Scrum team?
+Step 1
+First and foremost, for a team it’s important to be truly cross-functional. That way, the team covers its bases and is able to work on and create end-to-end functionality.
+Step 2
+The second step is to do enough cross-training to get to the expert / standby position. This is a risk mitigation strategy. If you lose a team member, either permanently or temporarily, it doesn’t stop the team dead in its tracks.
+Also, if a team is supposed to work together for 6 months or for a year, it certainly makes sense to learn the rest as secondary skills. This works just because we are still talking about software development. It will not work for a software developer and a construction engineer.
+In order to learn secondary skills, people have been using online hands-on courses like PluralSight or Udemy to get the jump start on the new technologies. The quality of many such courses is also pretty good.
+With this base and a good reference book or resources in hand, people learn further through pair programming with fellow developers. In my experience, pair programming works really well to learn new stuff. 
+Some orgs ask the people on bench OR the technology experts to create a full day hands-on workshop for colleagues.
+Step 3
+As a third step, it is important to deepen individuals’ knowledge in what they do know. These folks can make snap judgements, and snap judgements are extremely valuable because they avoid wasting time — and they’re usually right.
+How should we Hire?
+We should hire on the basis of a person’s ability to learn new stuff. The main contributing factors are aptitude for learning and attitude. Secondary factors include experience (decades dealing with systems) and breadth of exposure to different projects. This contributes to people’s ability to integrate and generalize.
+Conclusion
+I sincerely feel that we should move beyond the Waterfall mindset of categorising roles and forming teams with mini silos wherever possible. It’s enough to have a role called team-member who may have multiple skills under her belt.
+
+The last word relates to professionalism. Software is a specialization. If people count themselves “software engineers” or programmers because they stand on one given technology, then they are not, in my opinion, professionals.
+If a software person is lacking in database, or testing, or Ruby, or computational complexity, they haven’t yet attained the level of being a professional: they’re still just a hacker.
+– Cope
+
+Acknowledgements
+This piece wouldn’t have been possible without kind inputs from James Coplien.

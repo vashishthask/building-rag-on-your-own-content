@@ -1,0 +1,33 @@
+TITLE: Appraisals in an Agile Company &#8211; Part 1
+URL: https://www.agilebuddha.in/agile/appraisals-in-an-agile-company-part-1/
+---
+
+Appraisals! How many of you dread this word? This is the only time in the year that you get to bargain for salary increments, everyone end-up negotiating to their best. Appraisals are closely connected with salary raise/increments, bonus payouts and it’s feedback intent takes the backseat.
+
+There are three major issues with traditional approach to appraisal:
+
+Measuring and rewarding individual behaviors and contributions OVER team based measurements.
+Long appraisal cycle(mostly once a year) discussing both salary increments and feedback.
+Feedback process – Filling long appraisals forms with least discussions between reviewers about reviewee.
+
+For now let’s focus on the first problem. Let’s discuss about rest two points in the upcoming posts.
+We all agree that agile team/organizations rely on team behaviors Over individual behaviors. But very traditional appraisal approach does not supporting this thinking.
+One of the approach teams can take is to break performance measures into two parts.
+
+Team Measures : with X%(say 50%) weight-age. These measures are common to all the team members
+Individual Measures : with Y%(say 50%) weight age. These measures are specific to each team member
+
+Note: 50% weight-age for team measures is the least I would advise to go for.
+Under team measure, a balanced score approach can be taken to measure team performance. Some of the measures can be:
+1. Client happiness – X% (say 20%) weight-age – Feedback collected from product management and stakeholders
+2. Team financial contribution – Y% (say 10%) weight-age. If budget/cost are managed by the team, it empowers them on financial decision making too
+3. Process followed to build the product – Z% (say 20%) weight-age.  Define few business, process and quality metrics in tune with organization maturity.
+Note: Most metrics likely should come and go when the indicators they provide are no longer valuable as org gets more matured. So be careful about what you measure. Please find my earlier post on what to measure – Metrics to Build Great Agile Teams
+Individual measures, can have following categories:
+
+Self development goals set-up by the individual in consultation with peers/SM/Manager – say 10% weight-age
+Organization and community contribution(outside of project) – say 10% weight-age
+360 deg feedback – 30% weight-age
+
+Weight-age given to each measure is something you need to figure out as per the organization agile maturity, culture etc.
+Good luck with your appraisals! Sometimes I wonder – can we remove appraisals all together 🙂

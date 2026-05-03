@@ -1,0 +1,30 @@
+TITLE: How To Do Effective Capacity Planning on The Scrum Team
+URL: https://www.agilebuddha.in/agile/how-to-do-effective-capacity-planning-on-the-scrum-team/
+---
+
+During sprint planning, scrum teams often face this challenge of sprint commitments. How many stories can we commit in this sprint? How to plan for the team capacity?
+I ask teams to do commitment driven planning during early stages of scrum adoption.  For you to commit to a sprint goal, you need to know current team capacity. Team capacity is calculated as per people availability in that sprint.
+
+Let’s take an example.
+
+Say team is of 5 people, then total capacity assuming 8 hour day, 2 weeks sprint(10 days) is = 5*8*10 = 400 hours. Planning for this total capacity will be disaster. It will lead to team working over time, rushing towards the end, quality cuts and low team morale.
+Then to what capacity team can commit for? How can team make this sprint planning effective?
+I prefer to use Focus Factor (F.F) on this total capacity to arrive at real capacity for sprint commitments/forecasting. This factor lies in the range 0.6 – 0.8.
+So what is focus factor then?
+Traditionally, project managers used 6-6.5 hours as planned hours in a day for project execution. Focus factor is teams ability to remain focussed on the sprint goals without any other distractions. After multiplying total capacity with focus factor you get real capacity against which you can make sprint commitments or forecasting.  This is the effective hours you can expect from the team.
+In this example, applying focus factor say 0.6, then this team real capacity will be 400*0.6 = 240 hours.
+Now this 240 hours of work is what the team can take up in the current sprint. Teams take top priority stories from the backlog as per ordering done by PO. Divide those stories into tasks as shown below and estimate each task for hours. Team will take on the stories till the time all the tasks sum to not more than 240 hours(in this example).
+
+I use lesser focus factor(say 0.6) on the following situations:
+
+When team is starting new on a project
+Team is using scrum for the first time
+Team is working on a complex product or new to technology domain
+Team is less matured, needs lot of handholding and so on…
+
+I prefer to start a team on successful note(improves morale). Using lesser focus factor when you start fresh and then if team meets sprint goals early, then they can take up more in the current sprint. Retrospect on this in coming sprints to see if you want to increase focus factor marginally and fine tune, iterate this factor as you go, to reach sustainable pace/Flow. Going beyond 0.8 can be risky and can derail teams too.
+If organisation or product development is very chaotic then this factor will remain on extreme left like 0.6 or may be below. Chaotic organisations have lot of unplanned meetings, pre-sales urgency, hiring team coming to the project team at a last minute with a interview request, not having defined core working hours, lesser clarity sprint backlog, wrong team structures(read too much inter-dependency) and list goes on… To summarise –  no rhythm.
+This factor takes care of all the team distractions(SM effectiveness), time taken by the team to do scrum ceremonies, team meetings facilitation effectiveness, organisational efficiency and more.  During the retrospectives, analyse WHY and put action items to fix them.
+Tip 1: Please don’t use buffering at task level as FF will take care of it at sprint level. Use ideal time(actual effort if there is no distraction) for task estimation in hours.
+Tip 2: One major factor that drags focus factor is people being allocated to multiple projects, overhead of task switching comes to play. Try to minimise this if you can not avoid.
+References and Recommendations

@@ -1,0 +1,29 @@
+TITLE: The Essence of Agile
+URL: https://www.agilebuddha.in/agile/the-essence-of-agile/
+---
+
+A question, “What exactly is Agile?”, keeps troubling people.
+They either make reference to the manifesto or map it with Scrum and then get circled in its events and practices.
+Though Agile movement started as a better way of developing software, it has moved beyond software development.
+Agility has evolved into a way of thinking, permeated to organizational work culture, experimentations, better ways of doing business, product development and servicing customers.
+It started in the context of and in reaction to the Waterfall approach initially. Now it doesn’t have anything specific to compare to. It’s ever-evolving.
+That’s the reason, even though the movement began with Agile manifesto, the manifesto in itself didn’t remain a constraint in making further improvements ever. In the last few years, people have evolved and embraced Modern Agile concepts, Lean thinking, Lean Startup and Design Thinking approaches for the same reason.
+Definition
+If you look at the online dictionary, ‘agile’ means “able to move quickly and easily” with an emphasis on changing direction. Taking a cue from its dictionary meaning – ‘agile’ is the ability to create and respond to change, quickly and with ease in order to succeed in an uncertain and turbulent environment.
+From the software development perspective, in the late 1990’s, several software development frameworks emphasized close collaboration between the development team and business stakeholders; frequent delivery of business value, self-organizing teams; and smart ways to craft, confirm, and deliver code.
+In early 2001, 17 software development practitioners gathered in Utah to discuss their shared ideas and various approaches to software development.
+ ‘Agile’ is an ordinary word in English, it means “able to move quickly and easily” (online dictionary), with an emphasis on changing direction. It was for that reason we chose the word to match the sense of the way we wanted to work, when discussing our approach to software development back in 2001.
+— Alistair Cockburn
+Once these practitioners had the word in place, they had to decide what it meant to them for the purpose of writing software. They chose 4 values to centre themselves in the world while working and added 12 principles.
+Question: There may be innumerable practices suited to, or may evolve in a context. How to ensure if those are acceptable in Agile methods?
+Answer: Agile methods are based on common sense. As long as a method or practice is in line with the intent of agility and with Agile values and principles, you are fine.
+For instance, a team realized that distributed retrospective along with the customer team was not helping them in solving local problems. They decided to have a local retrospective as well and it worked pretty well for them. Similarly, though the definition of Ready is not essential in the Scrum guide, it is tremendously useful in the context of distributed teams working in opposite time zones.
+Summary
+Essentially, agile is about:
+
+Are we able to create change and respond to changes, quickly and with ease in an uncertain and turbulent environment?
+Do we center ourselves on manifesto’s four values and principles?
+
+References
+
+Alistair Cockburn’s Interview

@@ -1,0 +1,15 @@
+TITLE: Webinar: How to Deal with Emergencies in a Lean/Scrum Team
+URL: https://www.agilebuddha.in/agile/webinar-how-to-deal-with-emergencies-in-a-leanscrum-team/
+---
+
+Every Agile team has to deal with different emergencies next to their regular work. Every team dream of achieving sustainable pace comes with nightmares of production emergencies/defects, support and maintenance tasks within a sprint which takes focus completely off the sprint goals. The goal of this webinar is to see different approaches team can take to absorb a reasonable amount of uncertainty, striking balance between robustness and speed within the sprint.
+Also we will discuss about how to deal with “Pivot” in lean product development. In this state, product has to go through a course correction in terms of vision, market segment and features. This is almost an emergency on business side. In webinar, we will see how engineering teams need to do course correction in their approach too.
+Audience will learn:
+
+How to plan for production emergencies during a sprint
+
+How to apply strategic and tactical thinking to handle changes
+How engineering team needs to deal with development when product is in Pivot
+
+If this sounds interesting to you, please register for the webinar here. Do share with others too!
+Webinar Timings: Wed, May 13, 2015 9:30 PM – 10:30 PM IST

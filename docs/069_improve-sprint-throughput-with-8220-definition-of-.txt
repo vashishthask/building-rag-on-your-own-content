@@ -1,0 +1,55 @@
+TITLE: Improve Sprint Throughput with &#8220;Definition of Ready&#8221;
+URL: https://www.agilebuddha.in/agile/improve-sprint-throughput-with-definition-of-ready/
+---
+
+Teams are obsessive towards better customer satisfaction and rightly so.
+High team value throughput is one of the important ingredients towards better customer satisfaction. Before we move further, let’s look at what throughput means in business context. According to Wikipedia:
+Throughput can be best described as the rate at which a system generates its products / services per unit of time.
+In order to achieve better throughput, it’s implicit to look inwards, within the development team. However some improvement areas may lie in other quarters.
+Product Ownership is one such area which may have a massive impact on a team’s throughput. In this post we’ll look at throughput impact and will discuss how it can then be solved through “Definition of READY”.
+
+Context
+For lots of Scrum teams, the Product Backlot Items (PBIs) may not have sufficient clarity before moving to a sprint. For cases in which the Product Owner and rest of the stakeholders are sitting next to the development team and easily accessible, the Scrum team can work together to get the required clarity during the sprint.
+However in lots of other cases:
+
+the Product Owner may not be able to spend enough time in shaping the product backlog. He’s also not able to spend time with the development teams in clarifying their doubts on the Product Backlog. This can happen because of various reasons.
+the Product Owner and rest of the stakeholders may be sitting in different parts of the world. They may not be easily accessible because of time-zone differences and lots of handoffs, and each-one having their own priorities.
+
+All these scenarios almost immediately impact the sprint execution.
+As Product Backlot Items (PBIs) are not clear enough, the team begins with half baked information.
+In such cases, something which could be finished within 2 hours (if all information readily available), may take a week to complete while clarifying those questions in between.
+This resultant lack of sufficient information impacts the team throughput. The development team on their own can’t do much in such a context.
+However, it would help the development team a lot, if they could have a definition similar to Definition of Done on the PBI level as well. That way only those PBIs which have sufficient information available for the development move to a sprint. That definition is “Definition of Ready”.
+What is Definition of Ready
+The Definition of Ready is similar to the Definition of DONE, but with the following differences.
+In case of Definition of Done, the Scrum development team creates a DONE increment for the customer.
+For the case of Definition of Ready,  it’s the Product Owner who is accountable in shaping READY PBIs for the development team.
+In other words, any PBI coming inside Sprint backlog has to be READY and any PBI moving out of Sprint must be DONE.
+In order to come up with “READY to play” PBIs, the team conducts regular backlog refinement sessions with the Product Owner.
+The simplistic “Definition of Ready” looks something like this.
+
+When is a PBI Ready?
+In general, a PBI is ready when following conditions are satisfied
+
+The Product Backlog Item (PBI) has value.
+The PBI is immediately actionable by the team. The team is clear on the functional as well as non-functional understanding of the PBI.
+There is no outstanding question/dependency remaining that could stop the team from working on the card, be it test/dev or whatever.
+The PBI has acceptance criteria and it has been discussed along with the team during backlog refinement conversation.
+The Scrum team has discussed it together.
+The PBI is sized (in story points/ t-shirt sizing etc)
+The PBI is small
+
+In general it’s the team which decides whether the PBI is ready or not.
+Only ready PBIs become the candidate of the sprint planning
+The Readiness of Product Backlog
+A Product Backlog is “Ready” if it has enough Product Backlog Items at its top, meeting these criteria, to fill a Sprint.
+Note that all PBI in the Product Backlog do not have to be Ready, though as they move up the Product Backlog, they should progress toward becoming Ready.
+Definition of Ready is Mandatory in a Multi Time-zone Distributed Agile
+
+It’s quite common to see completely opposite views from Agile purists on Definition of Ready as they believe that it is not required at all.
+That may be true to some extent for collocated teams supported by dedicated Product Owners available when required for clarification in the same time zone.
+However, distributed Agile in different time-zones is a different beast altogether. It’s quite common for such teams to work with customers in opposite time-zones. Distributed communication in such cases introduces delays.
+So the clarification which you receive in minutes face-to-face with the collocated Product Owner may require multiple iterations of distributed communication. Multiple iterations sometimes mean multiple days.
+So a READY PBI which could be finished in 2 hours now may take days to complete because-of to and fro communication between distributed team-members to resolve unresolved queries.
+The difference in such cases is all about between holding cost and transaction cost. In distributed multi time-zones teams, the transaction cost of distributed communication for getting questions answers through a Product Owner tends to be high. That’s the reason, the team tends to keep (hold) a bunch of PBIs ready for the planning purposes so that sprint time doesn’t go waste in to and fro communication but the team is able to focus on getting things done.
+Definition of Ready in such cases helps in bringing clarity and helps in keeping team members and the product owner on the same page. Any absence of clarity essentially introduces long delays and impacts the throughput of a sprint.

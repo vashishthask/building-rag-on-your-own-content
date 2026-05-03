@@ -1,0 +1,20 @@
+TITLE: Story Point Mapping with Hours – Key Ingredient to Burnouts?
+URL: https://www.agilebuddha.in/agile/story-point-mapping-with-hours-key-ingredient-to-burnouts/
+---
+
+This is based on a true story of a project I was involved in and that was also the first ever Agile projects I worked on. As I came from straight from waterfall background and didn’t have enough Agile experience, it made a lot of sense to us to map a story point with number of hours for obvious reasons. We mapped story point with ideal hours. Initially things went well. However after a few months, we started getting into difficult waters because of following problems:
+We began to witness clashes among developers over estimations. As story point was mapped with number of hours, it directly mapped with the skill of a developer. For instance, a senior developer could finish a user-story in 2 hours. Another not-so-skilled developer or new-in-the-team developer could finish the same user-story in say 8 hours. That started causing planning meetings with clashes, disagreements and also spurts of indirect bullying from senior guys. As a result, not so experienced developers started spelling similar smaller estimates even though it caused them to work longer hours. As it was a distributed augmented team, we also started witnessing lack of trust within team because of those reasons.
+Also customer didn’t see any significant change in team velocity even though productivity improved multi-fold. “YOU ARE NOT PRODUCTIVE GUYS…”
+
+That put immediate pressure on the team and in order to improve so-called productivity, vicious cycle of long hours and impending burnout continued.
+“Customer didn’t see any significant change in team velocity…” is an important and interesting statement. What exactly does that mean?
+To understand that a bit, let’s take an example:
+Let’s say in the first sprint as team was not that much experienced in the project, to complete X amount of work, team estimated 10 story points. As team mapped 1 story point with 8 ideal hours, total estimated hours meant 80 hours.
+After some sprints (let’s say 8), as team had a very good hang on the project, the work which they could finish in 8 hours in first sprint, now could be finished in 4 hours only. So productivity improved but velocity didn’t. Really? Why??
+Let’s look back to the work of sprint 1 at the end of sprint 8. Team now could finish that same work in 40 hours instead of in 80 hours. But as 8 hours is mapped to 1 story point, team velocity turned out to be only 5 story points instead of 10 points.
+So irrespective of how much productive the team is – velocity will not change significantly and that will put continued pressure on the team. If team spends extra hours to improve that vague sense of productivity, you see the end result will be total burnout of the team.
+
+Conclusion
+That’s the one of the basic reasons why we try to map a story point with amount of work involved instead of hours. To complete a story, the amount of work remains same irrespective of the seniority or experience of team-members. That means no more team-clashes or spurts of heroism during estimation or planning meeting. At the same time, in true sense, customer will be able to see the change in velocity or productivity.
+More on Story Points and Agile Estimation
+This post is a part of a blog post series on story points and agile estimation. To read rest of the posts on the subject, please navigate to All About Story Points and Agile Estimation Series.

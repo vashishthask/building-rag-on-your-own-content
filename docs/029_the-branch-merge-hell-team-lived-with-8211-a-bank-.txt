@@ -1,0 +1,48 @@
+TITLE: The Branch Merge Hell Team Lived With &#8211; A Bank Agile Case Study 1/n
+URL: https://www.agilebuddha.in/agile/the-horribleness-the-teams-lived-with-a-bank-agile-case-study-1-n/
+---
+
+Lots of organizations are desperately trying to bring agility in their enterprise IT. In such cases,  enterprise IT stands on the worn pillars of traditional Waterfall process and legacy products.
+The business in such orgs sees IT as a black hole where no business need can escape from inside it. The reason being, traditional process, and legacy systems take months of cycle time to deliver almost any business need.
+This results in a frustrated and desperate stakeholders who threaten to try anything or everything under the sun to get tangible outcomes.
+This case-study is a story of a bank which was almost on the verge of outsourcing its entire IT. The bank since has moved on to become one of the pioneers in banking innovation space. It focuses to serve its customers every day with innovation and agility in a faster paced competitive ecosystem.
+
+Introduction
+Banking IT is one of the prime examples where the concepts like Continuous Delivery,  #noprojects, and feature teams are highly effective. For those unfamiliar with banking IT, banks have several core IT applications, e.g. payments, loans, and e-banking.
+These applications are continuously extended to meet changing business needs and new initiatives. For instance, a new credit card launch may touch all these applications.
+The IT department of this bank had silos. The IT sub-division structure was around its core applications.
+For any new banking business initiative, the IT division would create a new project. Every application team involved in would deliver their own scope of work.
+At regular intervals, these teams would integrate their applications to create a final product to meet the business case.
+As core applications worked in silos and integrated infrequently, that resulted in huge cycle time, at the range of 6 months to a year.
+To make matters worse from the process standpoint, the bank was in the middle of an Agile transformation. Some projects used traditional waterfall approach while some had started using Agile approaches.
+A Bit on Version Control
+To understand the case-study better, it will be important to know the role of a Version Control.
+Version control is a system that records changes to a file or set of files over time. That helps in tracking versions and recall specific file-versions.
+When teams “branch” a set of files, they create copies of the original files. That enables in making parallel changes along both branches.
+
+Along the same lines, a Trunk or Mainline is the unique line of development which is not a branch. It is sometimes also called Baseline or Master.
+Software industry uses different kinds of version control systems. The bank in question used Mercurial.
+The Branch Merge Hell Team Lived With
+This case study focuses on an e-banking team. This team was responsible for delivering multiple projects using both Waterfall and Agile methods. In doing so, the e-banking team would create a separate code branch for each project.
+The theory was that project specific branches would facilitate parallel development. That would translate into the ability to work on multiple work streams/projects at the same time in parallel.
+At the beginning of the project, a team would create a code-branch. It would work on it until the time of delivery. The code-branch would get merged with the Mainline at the end of development cycle.
+As projects used to take a good amount of time to develop, the team would merge the final code to mainline at the end. Merging a huge amount of code developed in months would cause merge-hell.  The reason being – the same developers who developed the code might not do this big-bang merge.
+To handle this, the project with the most number of changes would work in the trunk to minimize the merge complexity.
+Other projects, working in parallel, would work on an old revision in a secondary branch for months.
+Each project branch was completely independent and existed in blissful ignorance of the others. Different projects had different timelines. Integration was often postponed and it gave a false sense of security.
+When mostly complete, a release branch got created to make room for the next project.  The team had to merge the changes from even release branch to trunk as there would be changes there.
+And don’t forget production support; teams would have to create new branches, off the release branch, to make fixes. These production fixes would have to be merged back into to all of the release branches and the main trunk. The team managed the complexity internally.
+
+Traditional Software Development Scenario with branches
+Branch Creation After Effects
+Branch creation was simple. However, the after-effects were not so good.
+The e-banking team faced numerous technical challenges while working in such an environment. For example:
+
+Integration and Merging Hell – Just think about the complexity of merging something developed for the last 3-4 months in the trunk. That too when the whole team wasn’t involved in the merging. Also, the person doing it might not be the same person who wrote the code in the first place.They had to merge something for which they had no direct experience on. They also needed to have detailed discussion with the right person.If that person had left the company, merging and testing meant lots of assumptions. That compounded as the team was not creating automated unit tests as well. Automated tests, in general, serves as live documentation for the running code.With late merging, integration was obviously painful and resulted in a lot of regression bugs. One branch of code could potentially break another.
+Merging Production Fixes – Whenever the team made a fix in production code, it would merge the fix with all underlying in-progress branches.
+Separate Environments for Separate Branch – In order to test your code the team needed a new environment. This meant the creation of separate infrastructure and machines for different projects. It was difficult to create and manage so many environments. It would become worse for end-to-end testing scenarios.
+IT as a black hole – Time to market became steep as regression testing became highly complex and time-consuming. These long cycles had a direct impact on business outcomes. The business started thinking IT as a black hole. The requirements would go in with no predictability of coming as deliverables.
+Any production release required a lot of coordination at the end to consider all existing projects and their branches.
+
+It’s evident that the decision to use project-specific branches was to postpone the small pain with much larger, and difficult-to-deal-with, pain.
+The team worked on multiple options and finally resolved the challenges mentioned above. How? We’ll see that in the next part of the article.

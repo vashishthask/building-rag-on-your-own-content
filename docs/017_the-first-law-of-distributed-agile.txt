@@ -1,0 +1,32 @@
+TITLE: The First Law of Distributed Agile
+URL: https://www.agilebuddha.in/agile/the-first-law-of-distributed-agile/
+---
+
+With the advent of communication revolution, people looking for nomad life and orgs looking for skilled knowledge works irrespective of geographical boundaries, distribution of teams has become a norm rather than exception.
+However, distribution of teams has a lot more pitfalls than many people realize, especially when people do them just because they can or it’s convenient.
+This article is about putting team distribution in a perspective and show why every possible distribution is no fun.
+Once, I was working with a distributed team which had half of its team members working from  Bangalore and the other half from CA, USA.
+While speaking to the team members, I came to know that team members were struggling to work in distributed mode as they had to collaborate with their distributed partners in a completely opposite timezone (12 hours of time difference).
+It had started affecting their personal lives as they used to take their meetings to their home as well.
+Apart from conducting their distributed daily Scrum in the night, Bangalore team-members had to have a call in the morning too when CA based folks used to hand-over the work to their counter parts in India. Other sprint events as well used to happen in this time period.
+Team tried different ideas coming from their retrospectives to make it work. But the situation didn’t improve.
+During one such conversations, I asked if it’s possible to have two separate geographical teams working on independent features and collaborate on integration points. Essentially one team in CA focuses on one set of features and other team in Bangalore focuses on other set of features.
+It turned out that it was certainly possible but the option was never thought through before.
+The work could certainly be distributed without distributing the team geographically. That’s how we get to The First Law of Distributed Agile
+Don’t Distribute Your Team in the First Place
+Irrespective of the available tools and remote communication channels, face to face communication is much more powerful than its remote counterpart.
+Remote communication by default brings a bunch of overheads along. Because of high transaction cost associated with remote communication, people start hoarding the inventory in form of working on only READY stories and in turn introducing waste.
+Face-to-face interactions on the other hand speed up building the high-trust environment leading towards self-organized teams.
+In a given context, it’s recommended to form a collocated team. Sometimes, it may not be possible to form a collocated team considering some constraints. But we should be keep going to the First Law and try to make it happen.
+One such example was a case of a Scrum team in a large bank. Most of its developers were working from India but testers were working from Malaysia. In short term, it was not possible to form a collocated team considering the testing team-members working from Malaysia only had relevant domain knowledge.
+However in the long term, the domain knowledge could be transferred to development team based in India. Eventually the leadership helped in resolving this problem and it became a completely collocated team.
+Summary
+
+First law of Distributed Agile – don’t distribute if you can avoid distributing in the first place.
+If you really need to distribute, prefer forming local cross-functional teams and let the representatives from a number of individual Scrum teams collaborate through Scrum of Scrums.
+
+References
+
+The First Law of Distributed Objects Design
+Co-location still matters
+Why “Definition of Ready” is Mandatory in Distributed Agile?

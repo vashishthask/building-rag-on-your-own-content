@@ -1,0 +1,31 @@
+TITLE: Story Mapping and/vs Process Maps
+URL: https://www.agilebuddha.in/agile/story-mapping-andvs-process-maps/
+---
+
+One of the key philosophies of Agile software development is to have information radiators visible on the wall so that the progress of the team as well as what team currently is working on gets clearly visible to anybody who visits to the team area. That includes stakeholders, project managers, team or anybody from the organisation.
+However, haven’t you observed that many times, as you look at the card-wall (Scrum Board), things are not very clear to you. Card wall may look like the mesh of user-stories with statuses in To Do, In Progress or Done. However some of the bigger questions are not clearly answered by just looking at user-stories.
+ For instance:
+
+What part of business process, team is working on in the current iteration? The whole business flow may contain multiple user-stories and epics. By just looking at the card-wall, business flow itself may not be clear.
+How much solutioning is done for a business flow and how much is remaining?
+
+How about having a pictorial view of whole business flow as a process-map, identifying the user-stories (work to be done) in it? Take a look at a process flow below and you find some numbers mentioned on it. They are user-story ids.
+
+If you take a closer look, you will find that some of the user-stories like story 2 are common to multiple business flows.
+By looking at process map you find some immediate answers:
+
+What all user stories need to be implemented for a particular business flow.
+What all business flows are impacted by a user-story? For instance in above process map, user-story 2 impacts two different business flows.
+Where are we in the implementation of a particular business flow? In above process-map some user-stories are colored with Green which indicates they are DONE.
+Along with above mentioned benefits, process flows provide a shared and common place to have conversation on business flow within team and with Product Owner and stakeholders.
+
+While looking at process maps, I realized that Story Mapping concept coined by Jeff Petton deals with similar issues.
+Let me provide a brief overview of story-mapping.
+The idea of story-mapping is to groom Product Backlog in such a way that you have “big stories” (termed as “user activities”, epics or features also) at the top of map. These big stories are divided further into user tasks (something that someone does to reach a goal).
+For example for an email system I might have an activity such as “managing email” which then can further broken down in user-tasks or smaller user-stories like “send message,” “read message”, “delete message” etc.
+
+Big stories are captured on the top in horizontal fashion and smaller stories are captured underneath of each big stories.
+Story maps are great information radiators. However they may require big space to capture stories of entire release. Also story-mapping doesn’t necessarily provide information on the linkage between stories or how those epics/user-stories are orchestrated together to reach a business goal. For instance at what place of the process, a particular epic is applicable and why. It’s obvious from email example as everybody knows about it anyway. However it may be difficult to decipher for domain specific user-stories.
+Process maps help in solving these issues. Instead of having all stories on board, you instead put a big poster of process map embedding the user-story identifiers in it. Process-map in itself is also a narrative and helps people to come on the same page.
+Though based on above discussion, it may look like that process maps and story maps are completely different concepts to solve the same problem but they are not. They are tools to bring more clarity on the board. Depending on the context, they can be used to complement each other. I personally have used process maps to come up with story maps. Eventually the combination of both looks like following which is great as you have narrative of business process and at the same time you know the functional chunks/features/epics and user-stories of the solution with story maps.
+Please note that above picture is just a representation of how process-map and story-map looks together. You don’t need to go to the details of which process-map step maps to which story as that’s not the intention of this image.

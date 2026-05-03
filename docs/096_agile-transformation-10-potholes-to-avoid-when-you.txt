@@ -1,0 +1,32 @@
+TITLE: Agile Transformation:10 Potholes to Avoid When You Drive an Agile Car
+URL: https://www.agilebuddha.in/agile/agile-transformation-10-mistakes-to-avoid/
+---
+
+Transforming your organization towards agile is like moving your organization to a new country with new culture and language with clear differences from how you work today.  No amount of training will help you in dealing with different situations. I am compiling some common challenges &amp; scenarios organization sees when they are new to agile. We all have to work proactively to sense these indicators or situations.
+
+1. Lack of Discipline
+Although it may seem counter intuitive, Agile is an extremely disciplined approach to working.  Agile teams work in rhythm to attain sustainable pace. This is mantra of success for agile teams. It is like doing Yoga. Read my earlier article Agile is Like Doing Yoga. Agile does not equal sloppiness.  Hence most people will have a difficult time adjusting to this.
+Tracking stories to closure, sticking to ‘definition-of-done’ come what may, coming to stand-up on-time and able to finish in-time, estimation tracking, getting ready for decent demo etc– these are all things where every team will slip up the first few iterations. Without discipline Agile will not work.
+2. Business is not as usual
+The business stakeholders involved must understand and inculcate agile as it is very different for them. Often overlooked or avoided because the delivery team may also be ramping up on the methodology and hence feel uncomfortable teaching it to others. If this group is not brought into the fold there will be major disconnects in terminology, approach to situations, handling slippages, commitments etc.
+The business also needs to clearly understand expectations of the team; that they are available to the team and easily reachable whenever team needs them. If not teams will end up with unfinished work, unmatched expectations and other issues that are often comes due to long breaks between business reviews.
+3. Iterative death
+People mis-interpret the term ‘iterative’ to mean that there is unlimited ability to revisit scope. In fact, agile success hinges on incremental completion of scope throughout the project. Teams that do not effectively define their “acceptance criteria” for each story will never get real closure on work in progress. This leads to endless cycles of revisions that are really scope changes but which are not labelled so because of the mis-perception, causing
+delays, overruns, and a demoralized team.
+4. Blame game
+Agile can be a scapegoat for initiatives gone wrong, because Agile is very good at surfacing issues very early in a project.  Inculcating agile thinking and scrum framework cannot be done overnight. An experience coach can come very handy here who can do root cause analysis to mitigate this challenge.
+5. Playing without a coach
+In a typical project the pressures of understanding the business, learning and addressing technology, business, and team personality issues; will very quickly overwhelm even the most prepared person. Adding upon this a major change in delivery methodology (even if only in certain areas) will lead one to revert to known approaches. The volume of information is simply too huge. The new techniques and thinking will be dropped and mis-interpreted.  A major mitigation here is training and more importantly, effective support from someone with actual experience in the field.
+6. Working style
+Developers used to working in a solo mode will find difficult when working in small teams to complete stories. This can manifest itself in stalled work, as communication reverts to inefficient mechanisms such as email (instead of sitting together, or picking up the phone).
+7. Testing undervalued
+Often the need to do continuous QA on an application is not appreciated, and the initial releases will see not enough emphasis on testing. An effective test plan must be created, and things like data creation, environment setup, etc., must all be addressed very early in the project(some teams use sprint zero to do initial kick-off which includes such activities).
+If these steps are not taken, then it becomes essentially impossible to execute and hence the stories cannot be completed and delivered. This undermines the entire premise of incremental delivery causing most of the benefits of agile to be lost.
+8. Lack of automation testing
+Automated testing is fundamental to quality, short delivery cycles, and hence the agile model. Yet, there are many barriers: taking on a legacy application with no existing test suites; lack of tools for many aspects of an application; lack of team knowledge on how to do this. People will want to revert to more comfortable manual testing approaches.
+As the product gets bigger, then teams unable to finish all the manual testing within the sprint and quality issues starts creeping in. Hence investing on test automation early in the project makes lot of business sense.
+9. Multi-skilled team
+Teams working in a much focused environment within a larger project may find themselves struggling within a short iteration to get involved in a much broader range of skills: estimation, design, development, testing, and finally demonstrating functionality to the business. This has tremendous upside in terms of learning new skills, etc. but can be very stressful if NOT managed (facilitated) well.
+10. Agile tools over mindset
+Teams get hung up with tools while moving to agile. Yeah you definitely need to track few metrics like velocity, burn-down, estimates. But you don’t need fancy tools while you are starting. Even excel would work fine. Teams should focus on Agility and Scrum framework first and then on tools.
+To avoid such pitfalls real time constant monitoring and analysis to find root cause will go a long way. Check my article on “How to Apply 5 WHYs Technique” to find a root cause.

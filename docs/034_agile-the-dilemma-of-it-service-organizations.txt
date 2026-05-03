@@ -1,0 +1,15 @@
+TITLE: Agile : The Dilemma of IT Service Organizations
+URL: https://www.agilebuddha.in/agile/agile-the-dilemma-of-it-service-organizations/
+---
+
+I spent a big amount of my IT journey in working with IT Service organizations which Product organizations call as vendors.
+While product organizations can decide how exactly they would want to work, teams from service organizations are mere extension from a customer enterprise IT strategy standpoint. Whether to work in Agile or not, Agile or AgileBut, all that is driven by the customer. If customer continues to work in Waterfall, you may not use Agile in isolation.
+For service organizations, money comes from the headcount and the billing rate. As long as that’s improving while keeping the status quo, sometimes management may not see any specific value add in focusing on things which are not burning. That includes innovation, adopting Agile, TDD or focus on long term quality.
+In short, customer drives the show. If customer is quality conscious, vendor follows the suit. Otherwise maybe not.
+Service organizations play the software development service provider role in the enterprise development value stream. They focus on optimizing what they essentially work upon from Agile and DevOps standpoint which translates to improvising technical practices, automation and some DevOps technical practices.
+While doing so, the trouble is – they don’t get the awareness of the whole, the whole enterprise landscape. That perspective is important for enterprises implicitly but not necessarily out of question for service organizations. It’s not easy to get such awareness. That’s the reason it becomes easy to miss.
+In some Indian Agile conferences, where audience are majorly from service organizations, sometimes, people find anything beyond their technical scope as less useful. There, it seems like, automation and DevOps technical practices are the panacea of software development world. These practices are easy to talk about, difficult to implement and are definitely not the low hanging fruit for any enterprise.
+There may be many other low hanging fruits which bring a lot of value add and reduces the cycle time without spending a lot of time, money and resources.
+I understand the dilemma, however without understanding the whole or the big elephant, it becomes difficult to provide the real value add to the customer.
+Good people in such orgs who really want to work in Agile environment find themselves helpless unless that’s the part of customer IT strategy. Employees may then get frustrated because of lack of opportunities.
+What if service organizations are ahead of the curve and help customers in looking ahead? That requires spending on innovation and research which not many orgs do as of now. But you see, the focus on innovation has become important for survival these days.

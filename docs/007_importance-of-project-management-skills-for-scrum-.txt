@@ -1,0 +1,27 @@
+TITLE: Importance of Project Management Skills for Scrum Master Role?
+URL: https://www.agilebuddha.in/agile-leadership/importance-of-project-management-for-scrum-master-role/
+---
+
+Product development continues to remain the primary focus of Agile software development methods.
+While we focus on product development and in turn on product development companies, a big segment of software development eco-system, IT service companies, isn’t talked about that much.
+People working in IT service companies can vouch for the struggle they deal with on daily basis. But their stories don’t get enough attention.
+When it comes to software implementations, IT services companies work for a client organisation and that client organisation may have its own set of processes which may or may not align with the Agile culture.
+So each engagement they work with, they may have to deal with different kind of work culture and probably different processes as well.
+IT services companies actually work in a very volatile world and deal with lots of uncertainties, dependencies and risks on which they seem to have no control.
+
+These IT service companies have to keep aligning themselves with client’s processes, culture and uncertainties. Many such client organisations have low Agile maturity and service companies have to align with that reality, and they can not run away from this reality. Unless a client organisation moves up in terms of Agile maturity, it becomes difficult for service companies to move on their own for that engagement.
+So you see, IT service companies work in continuous uncertainty coming from client’s end.
+As a result, a Scrum Master in a IT service company has to deal with the following additional aspects in addition to what may be applicable to a relatively leaner product organisation.
+
+Lots of client organisations continue to work in project delivery thinking (instead of product development thinking) with the service companies. So a Scrum Master in service companies in general has associated mandatory project management responsibilities as well. Similar case is applicable to lots of product companies as well.
+They work in a continuously uncertain environment.
+
+Someone who just finished 2 days xCM workshop and starts working as a Scrum Master may find herself in a chaos and in situations which are difficult to deal with, without necessary project management experience.
+Based on working with multiple service based organisations and in product companies, I personally feel every SM must have project management skills and experience, apart from being a people person, a good listener, a servant leader, having good communication skills, and coming from a good problem solving background.
+Many people want to become a Scrum Master because of various reasons and find themselves in a difficult situation when they either don’t get the opportunities based on just 2 days workshop credentials. Or when they get one, they are not able to perform to the hilt.
+Unfortunately for some reasons, Project Manager has become a taboo word in Agile circles. This has to do with the command and control legacy of project management in traditional working environments. In traditional working environments, the Project Manager controls the decision making on behalf of a team. Yes, there are good PMs even in traditional environment providing some sense of autonomy to team and are agile by nature. However, the industry is full of PMs who are associated “command and control” way of working.
+So you see, people essentially hate command and control legacy of Project Manager.
+If you take out command and control thought process, project management skills are a great value add for a Scrum Master (working in a servant leader mindset) in VUCA world. It turns out that there are many project management nuances which can help and are helping a Scrum Master to deal with continuous uncertainty.
+The Agile community can learn a lot from the PM community. PMs know Stuff and a great PM can be more agile than a Scrum Master with nothing to show but certification any day.
+Conclusion
+Any xSM certified workshop or certification in itself may be a beginning but not definitely not enough to become a good Scrum Master. This person can’t be compared with someone having experience day in day out with reality. While working in VUCA world, it generally helps a Scrum Master to have project management skills and experience, apart from having a good Scrum foundation, being a people person, a good listener, a servant leader, having good communication skills, and coming from a good problem solving and facilitation background.

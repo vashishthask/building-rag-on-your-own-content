@@ -1,0 +1,12 @@
+TITLE: Story Points for Bugs or Defects
+URL: https://www.agilebuddha.in/agile/story-points-for-bugs-or-defects/
+---
+
+Generally, a sprint backlog contains bugs as well apart from user stories. In these situations, a common question is should we assign story points to the bugs.
+If the team does not assign a story point value to this work, velocity will show the amount of *potential* business value the team is delivering in each sprint. This way, it becomes evident that team is going more slowly through the work than it could if legacy bugs were not there.
+If the team assigns points to the bug-fixing effort, the team shows its true capacity to accomplish work. This way, it shows both *potential* business value delivered and effort gone in bug fixing part.
+
+When a team gets a load of legacy bugs to fix in its backlog, it makes a lot of sense to assign the story points to the bug fixing effort.
+On the other hand, for bugs found in the current user story /functionality it doesn’t help to assign story points to these bugs. Some of these teams fix the critical/high/medium priority bugs in order to move the story to DONE. Rest of the unresolved low priority bugs move to the Product backlog or to the next sprint based on the prioritisation from Product Owner. These bugs don’t get any story points.
+More on Story Points and Agile Estimation
+📖 If this series sparked your curiosity, you’ll love my book Agile Estimation Distilled — everything about Agile estimation in one place.

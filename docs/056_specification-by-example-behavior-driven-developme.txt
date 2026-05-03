@@ -1,0 +1,18 @@
+TITLE: Specification by Example | Behavior Driven Development | ATDD – A Google Hangout Interview
+URL: https://www.agilebuddha.in/agile/specification-by-example-behavior-driven-development-atdd-a-google-hangout-interview/
+---
+
+Recently I got interviewed by DiscussAgile on a topic known by several names, i.e. Specification by Example, Behavior Driven Development or Acceptance Test Driven Development.
+Here’s the Google Hangout recording available on YouTube.
+
+Following topics got discussed as part of interview:
+
+Why to do ATTD?
+How to do it?
+What skills are needed to do it?
+Who should do it?
+How it relates with Test Driven Development?
+Tools to BDD/ATDD.
+How to start?
+
+Enjoy and provide your feedback.

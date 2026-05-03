@@ -1,0 +1,24 @@
+TITLE: Use Planning Board for Product Backlog Grooming 
+URL: https://www.agilebuddha.in/agile/use-planning-board-for-product-backlog-grooming/
+---
+
+In our earlier post – Improve sprint throughput we had discussed about how important it is to have stories ready for play before team picks it as part of the sprint. In short, if half-cooked stories are pushed to sprints for execution, then team will spend lot of time analysing, re-working and this eventually reduces team throughput. To address this challenge, few of my teams thought of creating a separate planning board in Jira to track planning readiness. This board was used by PO primarily to keep a tab on the backlog and also by team members during backlog grooming session.
+Team was using Atlasssian Jira, I will show here how we modified the workflow and boards within Jira. Some of the issues teams had faced with the backlog not being ready were:
+
+Insufficient scenario analysis in user stories
+Lack of functional and technical impact analysis
+Not much details/mocks within the story
+Team doing sizing estimate during sprint planning – this was the first time team was seeing those stories and hence made sprint planning long and inefficient
+
+Hence a workflow was designed to address above issues. Take a look at the workflow below(pasting it from Jira).
+
+Cross Section of the flow you see from Raw to Ready-to-Play was configured to be part of planning board. We will talk about the need of different UAT statuses(show in green) in next post. For this post lets focus on blue boxes.
+As you see in the workflow, all new stories are created in “Raw” state. Prioritised stories are picked for planning and placed in “Selected for Planning” column. Then PO picks these stories and start writing different business scenarios after talking to stakeholders – “Scenario Analysis” state. From here stories are taken up for impact analysis (functional and technical). At this point you need to involve some senior dev/technical lead to help you with analysing technical impact. Once this is done you will pull-in all your team members once or twice in a 2 week sprint to estimate these stories in story points(planning poker). Post estimation exercise PO might chose to re-order some priority and then the tickets are moved to “Ready to Play” state.
+Note: Sometimes if it is a new product/application you are building, then you might have to estimate stories in Raw state too as you will not have time to deep dive. Then you can go for Affinity estimation or Cone sizing approach to arrive at quick estimates which gives a ball park range for your project budget, which might get re-estimated in later stages of the project when you have more data points/knowledge.
+For planning, team used kanban.  Take a look at the kanban board below. 
+
+All the stories in the estimation column might need one more round of prioritisation before they are pushed to – Ready-To-Play” on the board.
+ You can use control charts to measure the predictability of planning, to improve cycle time of stories from “Selected for Planning” to “Ready to Play” state. You might infer lot of planning behaviours from this chart. 
+
+With good product owners in the team, tickets should move from selected for planning till estimate sooner as you mostly need PO and Technical lead between these workflow states. But might sit in estimate column sometime as you might pull-in your entire team only when few stories are ready to estimate. With busy or sometimes with indecisive PO’s/stakeholders you see stories rushing through entire workflow only during later stages. You can see many more patterns. 
+These teams saw immense improvements in the quality of stories and hence team throughput after they started using planning board approach.

@@ -1,0 +1,70 @@
+TITLE: Distributed Agile:10 Good Practices of Successful Teams
+URL: https://www.agilebuddha.in/agile/distributed-agile10-good-practices-of-successful-teams/
+---
+
+Distributed agile teams can exist in different forms like.
+
+Product Owner is onshore, Team is offshore
+Team split between two or more locations
+A complex model like product owner not with onshore team and development team distributed across time zones
+
+I would like to share top 10 good practices that are implemented by successful distributed agile teams.
+
+Meeting face-to-face is the only way to build trust
+
+Budget-in recurring face-to-face meetings between your customer, local team, and offshore team
+Having strong communication infrastructure like Skype, Video Conf, Phones, high bandwidth, big screens to facilitate virtual team etc
+Seed visits in frequent intervals across the length of the project
+Both offshore and onshore teams sitting, working and partying together is a must to ignite relations and build strong trust
+The highest performing teams are those based on trust
+
+Establish a shared project vision
+
+Participation in this activity by whole team emphasizes ownership of the project results
+Use collocation travel as best opportunity to build this
+Doing release planning, sprint planning and daily scrum together by team builds similar shared vision
+
+Establish continuous integration (CI) with high test coverage across all teams
+
+CI is important because it detects build issues immediately
+Avoids the classic “big bang integration” at the end of projects which in my experience is the #1 reason for schedule slip
+Teams striving towards build-state always green, reduces waiting/debug time between teams and hence build trust between them.
+
+Establish a synchronization and communication plan
+
+Define how customer, local team, and offshore team will communicate and maintain synchronization
+Define daily and distributed stand-ups, retrospectives and sprint review time
+
+Establish a rigorous Norming and Chartering plan to achieve high quality
+
+Set of activities the team will perform to absolutely insure and maintain high-quality software
+Define consensus based design,  Coding standards, Code reviews, Scrum-of-Scrums, Pair Programming, Source control philosophy, Defect tracking mechanism, Definition of “Ready” and “Done” and more.
+You can read this excellent post on Norming and Chartering
+
+Use short sprints
+
+It is not wise to coin a big project and hand it to offshore team in expectation of results after 6 months
+Short iterations insure that you see what the offshore team is doing on a regular basis. You can give quick feedback and redirect the team quickly
+Read my earlier post on When is Good Day to Start a Sprint 
+
+ScrumMaster at both locations
+
+Most impediments will need to be worked within the context and environment of each sub-team
+
+Execute 3-4 sprints with entire team at local site
+
+When project starts it is wise to have offshore team travel to customer site and work together with onshore team
+It takes 3-4 sprints of 2 weeks each at-least to build relations
+Use this to have discussions and formalize Norming and Chartering together and also doing sprint zero activities together like setting up frameworks, initial architecture &amp; design etc.
+Offshore team will get to build relation directly with client and get to hear requirements directly.
+
+Involve full team in release planning, iteration planning, review, and retrospectives
+
+Everyone on the team participates in the sprint planning meetings, sprint reviews with your customer, and retrospectives
+If sub-team do their own retrospective, then share results with others teams
+
+Go for features teams over component or layer teams
+
+This would reduce integration time, improves quality, team morale and builds knowledge redundancy
+
+There are few more practices and patterns noticed in different distributed teams. In my corporate agile and scrum in-depth workshops you get to understand 30+ good practices that are applied by successful distributed teams and also some successful patterns and team structures to make it successful.

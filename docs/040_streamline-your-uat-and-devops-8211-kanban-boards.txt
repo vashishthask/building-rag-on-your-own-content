@@ -1,0 +1,13 @@
+TITLE: Streamline Your UAT and DevOps &#8211; Kanban Boards
+URL: https://www.agilebuddha.in/agile/streamline-your-uat-and-devops-kanban-boards/
+---
+
+In my earlier post, we discussed using planning boards to improve your backlog planning and eventually to improve your planning flow. Main project workflow remained same.
+Note: People landing on this post directly, please read earlier post to get context of the problem.
+This team was using 2 week sprint model for execution. Often stories got completed(tested), but left on the scrum board UAT pending. All real users were on-field consultants, hence not easily available for UAT. This reduced team throughput(velocity). Team decided to change their approach and modify their definition-of-done. They decided to have a done column before UAT. Post demos relevant stories were moved to done. In-fact they did multiple demos to product owner all through out the sprint as stories got completed. They configured their execution scrum board as shown below.
+
+All the states from To-Do to Done from overall workflow were configured as part of this execution board. In-fact, team started with UAT state as part of each sprint initially, but due to unavailability of users, team improvised the flow to reflect business realities. By having DONE column before UAT they were able to close sprints on-time.
+To address UAT challenges, separate UAT board was created.
+
+All the Stories which were moved to DONE(once it passes through dev, testing and demo) were pushed to UAT(board). This board gave complete view to end users to see all the things they have to test and gave visibility to DevOps to push UAT completed tickets to Live. PO worked really hard to work with users to get the testing done sooner to keep the queue small. As you see Team used Kanban flow and used control charts to measure cycle time aka business folks availability and PO’s leadership to move things from UAT to Live!
+This was a specific use case. You can configure these boards and workflow as per your needs to provide visibility and to streamline your approach to attain FLOW.

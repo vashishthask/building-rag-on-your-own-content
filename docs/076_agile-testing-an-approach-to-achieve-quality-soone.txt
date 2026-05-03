@@ -1,0 +1,24 @@
+TITLE: Agile Testing: An Approach to Achieve Quality Sooner
+URL: https://www.agilebuddha.in/agile/agile-testing-an-approach-to-achieve-quality-sooner/
+---
+
+Often I hear from testing folks one question. How can I apply Agile for testing? Local optimisation has been the bane of software development – viewing it from his/her activity perspective and not just as a whole. Let’s see how agile principles can be seen through testing angle?
+
+Image Source: www.testobsessed.com
+
+One major change is to see it as an activity rather than a phase. An activity done by everyone on the team and NOT just designated testers. Instead of throwing the code over the wall to testing department, here developers and testers will work in tandem to build defect free product.
+Tester(s) provide early feedback to the developers by building automation scripts and also testing manually so that as a team they can meet sprint goals with near production ready code.
+Agile testing is an approach to product development in which we reach high quality product sooner in the cycle and everyone involved contribute towards quality. Some examples are:
+
+Product and Business analysts writing good quality user stories sticking to INVEST principles so that the team(developers, testers etc..) and stakeholders understand it well and is easy enough to prioritise and sequence in the development.
+Product Owner(PO) working with the team to write crisp and clear acceptance criteria for each user story
+Developers writing high quality code, good unit tests and then to test against acceptance criteria written by PO helps to achieve the state of DONE sooner. This reduces defect induction rate and hence reduces test and fix cycle(which is one of the major wastes in software development)
+
+Testers taking early and right approach towards automation can benefit immensely by early returns of their effort. Test automation approach suggested by by Mike Cohn can help teams to find right balance in their automation efforts.  Team ability to write easily maintainable  automation test scripts can give more time towards manual testing and hence contribute towards high quality product.
+Automation testing is necessity now than a luxury as it was earlier. This leads to more often than not hiring testers with programming abilities – QA Programmers or training in-house talent to build and maintain automation frameworks. There is a need to address skill gaps, mindset issues of “testing and development team not working together” and  breaking them vs us attitude.
+Traditional thinking of testers being there to find defects is obsolete. You look at the testing differently. Your goal is to build quality into the code from start, not test it later. You don’t focus on putting defects into a tracking system; you avoid creating defects in the first place.
+According to Shigeo Shingo,
+“There are two kinds of inspection: inspection after defects occur and inspection to prevent defects. If you really want quality, you don’t inspect after the fact, you control conditions so as not to allow defects in the first place. If this is not possible, then you inspect the product after each small step, so that defects are caught immediately after they occur“
+See earlier post on how Pair Testing  – developers and testers  working in tandem can reduce defect life-cycle.
+Agile testers see defect tracking system as queue of partially done work or queues of rework. Pair testing approach helps to find defects at the earliest and hence save considerable overhead of defect logging, tracking, triaging etc.
+So, it’s time we revisit our goals for testing. It’s no more about defect finding or how many defects found by whom or rewarding defect of a day. This does not fit into agile principle. Newer measurements which drives higher quality and drives team behaviour need to be put in place. In earlier post Metrics to measure influence, not control, I have shared few examples which can help in setting up good agile teams.

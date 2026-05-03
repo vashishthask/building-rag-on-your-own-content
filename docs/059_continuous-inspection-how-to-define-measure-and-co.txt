@@ -1,0 +1,58 @@
+TITLE: Continuous Inspection : How to Define, Measure and Continuously Improve Code Quality?
+URL: https://www.agilebuddha.in/continuous-inspection/continuous-inspection-how-to-define-measure-and-continuously-improve-code-quality/
+---
+
+One of the basic but important customer expectations is – the software product should be of very good quality. That makes sense as well. However, what exactly “good quality” means? 
+
+Here are characteristics of good quality software:
+
+Software should be able to able to perform all its functionality as expected (defined in acceptance criteria).
+Software should meet all non-functional “ilities” (like scalability, reliability etc).
+Code quality should be great with minimal technical debt.
+
+When it comes to code-quality, people in software world have different perceptions and interpretation around it. All these interpretations are abstract mostly and do not define code-quality term in measurable terms.
+So before we move any further, let’s define what code quality exactly means.
+“Code quality is an indicator of how quickly a developer can add business value to a software system”
+Great, now as we know what “code quality” means, next relevant question is – how to measure it and how to get the sense of it in real time? 
+It is measured (rather lack of it) in form of ‘seven sins of code quality’.
+
+Bugs and Potential Bugs – Bugs and Potential Bugs is the most urgent sin as it shows what’s wrong in your code currently and what can go wrong tomorrow, e.g. NullPointerException.
+Coding Standards Breach
+Transgressors are too lazy to learn and follow your team’s standards about whether or not to use spaces in if statements. More serious example of this type of sin is the failure to follow naming conventions.
+Duplications
+It doesn’t seem like a big deal but it’s not efficient in the long run. Similar to Murphy’s Law,  the more places a chunk of logic has been duplicated into, the more likely it is that it will need to be changed, probably with a high level of urgency or criticality
+Lack of Unit Tests
+Unit tests help keep bugs and regressions from slipping into production code. And when you make a change to existing code, they help you know that you didn’t break it. 
+Bad Distribution of Complexity
+It’s okay for a program to have some complex files and methods. But if you have too many of those, then the next coder who has to work on the application will have a hard time understanding what’s going on in the code. And if she has a hard time understanding it, she’ll have an even harder time successfully modifying it.
+Not Enough or Too Many Comments
+This is a measure of maintainability. It looks at how often you make the caller of your method look at the internal details (code) to understand what’s happening, versus reading intentional documentation that (ideally) explains what should be passed in, what will be returned, and perhaps even what will happen in between.
+Comments are measured because they’re part of what makes a system easy (or not) to work on. 
+Spaghetti Design
+This is like having high complexity at the project architecture level, rather than in a single method or file. New developers on the team will have a hard time understanding how the project is organized, and where new code should be put.
+
+So now as we know different metrics for measuring code quality, let’s see how to measure them.
+How to measure Code Quality?
+Code quality needs to be measured in form of density. Abstract numbers are useless. For instance 400 potential bugs as a number in itself doesn’t tell the severity of the issue. 
+However when one talks about it in form of potential bug density, you get to know better picture. Also it’s important to observe the trend of code quality through a period of time.
+There are tools which measure code quality and provide real time code-quality snapshot through reports.
+Great. But reports are not actionable and are rather reactive.
+It makes much more sense if a developer gets to know the error as soon as he makes one. Without fixing the error, system doesn’t allow him to move further. That sounds more proactive, doesn’t it?
+In next section, let’s see how to apply code quality checks in proactive way.
+Proactive code quality
+
+Step 1 – Use IDEs with necessary code quality plugins (for Java FindBugs, Checkstyle, PMD, CPD-CPD)  installed so that you catch the problem as you type the code in IDE.
+You can move a bit more further if you want. Using Puppet and Chef, a consistent developer environment can be installed on each developer machine so that there is no question remains around which IDE plugins got installed or not installed, who uses which versions of application softwares and tools etc.
+
+In above image snapshot, FindBugs eclipse plugin catches the problems within IDE itself.
+Step 2 – In your automated build scripts, install code quality plugins and run them as part of automated build. Apart from creating reports, these plugins should break the build if quality metrics goes below defined threshold. 
+For instance, if the test coverage goes below 75%, build should fail. Similarly if FindBugs plugin catch some severe issue, build should fail again.
+
+Step 3 – Run these code quality plugins (FindBugs, Jacoco etc) with each code commit on Continuous Integration (CI) environment. 
+If quality threshold get broken, build should fail and appropriate notification (e.g. email) should go the relevant stakeholders. Team should stop the line and fix the build immediately. 
+It’s fairly easy to install CI plugins on Jenkins for instance for FindBugs, Checkstyle, PMD, PMD-CPD, Jacoco etc so that you can see the trend on quality at any point of time.
+Here is a snapshot of quality results with different quality plugins on Jenkins
+Quality trend (CheckStyle, PMD and FindBugs plugins) with each CI build
+
+Conclusion
+Code quality measurement and continuous improvement is not about reactively generating reports and making plans to improve it. Instead of fixing quality issue when they already raise their heads in reports, it’s all about proactively not let them happen at the very first place. Apart from quality plugins used with automated build, IDE plugins and CI plugins help a lot in achieving the holistic agenda of clean code.

@@ -1,0 +1,23 @@
+TITLE: User Stories: Lack of Big Picture Leads to Blind Man Product
+URL: https://www.agilebuddha.in/agile/user-stories-lack-of-big-picture-leads-to-blind-man-product/
+---
+
+One of the Scrum values is “Focus”. It can make or mar a product. It brings direction to the development of a product – from start to finish; and is the back-bone of an effective business strategy.
+Having said that, overdo it and the tables are turned. Fret too much over ‘focus’ and what could have been a blessing may become your curse.
+Here’s why:
+
+Analyse this picture. Highly focused teams (teams seeing project from sprint to sprint) may well become blind to the big picture perspective.
+
+Tangled in their ‘focus’, they start thinking like what sight-less (blind) people are doing in this picture. These people without sight are touching different parts of the elephant – trying to comprehend/visualize the object. They would be able to place/figure the ‘bits’ or the ‘parts’ with ease if they knew the ‘context’, which is – an Elephant.
+If the blind man knew the big picture is Elephant, he would interprete the tail to be ‘tail’ and not ‘rope’. The Big Picture need not be very well defined always like is it an African or an Asian Elephant. It’ll suffice to know that you are building an Elephant.
+These are the different user stories that you see in the product backlog. Being too focused on each sprint may help you do an excellent job within THAT specific sprint; your user stories may be well detailed; they may pass all 3C’s and INVEST criteria. BUT, your product may still fail. Because, each of these stories was comprehended in a different context. Phew!
+The team never got a chance to grasp the overall goal or the big picture. There are a few reasons why this happens:
+
+Myopic view of the team
+Lack of visibility about the overall product itself – what are we making, why, for whom etc
+Product owner himself is unaware of product vision and roadmap
+Product owner is aware of the big picture but did not consider worth sharing with the team
+
+This is a dangerous situation any team should not get into – if they do not want to build a wrong product.
+At the earliest signs of such a scenario, it’s critical for a team to ask all the right questions and raise red flags – so as to gain understanding of the larger context or the big picture.
+Have you faced such a blind man situation on your projects? Please share your story. And, if you can throw light on how you won over it.

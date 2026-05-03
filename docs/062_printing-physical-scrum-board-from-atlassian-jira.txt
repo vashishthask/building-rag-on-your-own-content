@@ -1,0 +1,22 @@
+TITLE: Printing Physical Scrum Board From Atlassian Jira
+URL: https://www.agilebuddha.in/agile/printing-physical-scrum-board-from-atlassian-jira/
+---
+
+It’s well known fact that physical Scrum Boards provide many benefits over their electronic counterpart. 
+With physical boards current sprint state is transparently visible to anybody in the team and to the stakeholders. As a team member you no longer are required to explain someone what exactly the team is focusing on right now as anyone can look at physical board at any point of time. Also, during standup, story-card and sprint progress get more attention than individual progress. You can setup your physical board the way you want and you don’t have to work around the limitation of any electronic tool.
+
+If I continue listing the advantages of physical Scrum Board, I need entire post just for doing that. However that’s not the motive of this one. In India, many people may want to setup physical Scrum boards but they encounter practical issues.
+
+ Availability of right stationary for index cards. That becomes a blocker more than one can imagine.
+ Team hesitate to hand-write the cards. Also, not everyone’s hand-writing is legible.
+
+While working towards a practical as well as cheaper solution, I thought of using A4 size color papers and print index cards on them automatically through Jira excel export of the sprint backlog and Windows-Word mail-merge feature. The result is awesome as shown in below picture.
+
+Take a look at the video below on how to make it work.
+
+Some observations
+
+Index cards printing happens at the beginning of the sprint only. In case you encounter new subtasks or bugs, team-members hand-write and paste them.
+Team may think that now they have to maintain two boards (electronic as well as physical) simultaneously. That’s not the case as updation of physical cards happen during standup only which shouldn’t be an issue to anybody
+Depending upon your needs you can use whatever index card template you want
+For pasting the paper index cards, we use Blu-Tack which is available almost everywhere.

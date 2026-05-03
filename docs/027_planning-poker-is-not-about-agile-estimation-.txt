@@ -1,0 +1,26 @@
+TITLE: Planning Poker is NOT about Agile Estimation!
+URL: https://www.agilebuddha.in/agile/planning-poker-is-not-about-agile-estimation/
+---
+
+One of the popular mechanisms to estimate story points as a team is planning poker exercise.
+It’s an awesome technique but it may become a challenge for some teams. For instance, a team estimates story points separately as developers and testers. Later, they add up those points to arrive at resultant estimates.
+Some teams get into endless discussions to ascertain if the estimate should have been 2 or 3, 5 or 8 or maybe 7.
+It looks like, the primary goal of planning poker exercise is to arrive at the correct estimate.
+But that’s not the point!
+
+Before we understand why, let’s know a bit more about user-stories.
+What are user stories?
+A user-story doesn’t become user-story just because you write them in a particular format (“As a…I want…so that”). It’s also not about to write them on 4×6 index cards or placing them in tools like Jira.
+User stories are all about “Requirement by Collaboration”. Hand-overs between business stakeholders and development team or even within the team are replaced by frequent involvement and discussions.
+In enterprises, domain and technical knowledge are often spread among different people. A discussion among all these people often leads to good questions, options, and product ideas.
+If requirements are just written down and handed over, this discussion does not happen. Similarly, if developers and testers estimate them separately, this discussion doesn’t happen.
+Without conversations, a user story can never be considered a user-story. Period.
+Planning Poker and Conversation
+Planning poker helps team-members in having a conversation on the requirement without getting influenced by peers. That’s the reason, each estimator privately selects a Planning Poker card representing his or her agile estimation.
+In case, estimates vary, people explain their reasons. With this conversation, people understand the requirement a bit more and come on the same page.
+Developers, testers, business analysts or UX designers have varied perspectives. If they estimate in isolation, they’ll never get to know the perspective of others. That way, they might lose the opportunity to understand the requirement in totality.
+So as you play planning poker, the goal is not to come up with perfect estimation.
+The idea is to understand the requirement in totality.
+Story point as a number is just a side-effect of planning poker exercise.
+More on Story Points and Agile Estimation
+This post is a part of a blog post series on story points and agile estimation. To read rest of the posts on the subject, please navigate to All About Story Points and Agile Estimation Series.

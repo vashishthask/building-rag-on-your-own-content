@@ -1,0 +1,19 @@
+TITLE: Kanban Mythbusters: Limiting WIP is NOT the Goal
+URL: https://www.agilebuddha.in/kanban/kanban-mythbusters-limiting-wip-is-not-the-goal/
+---
+
+Kanban comes with the least prescriptions but then you find lots of fake implementations. Kanban talks about visualising the workflow. These workflow steps are columns in Kanban visual.
+
+In many fake implementations these columns become the siloed boundaries of the individuals working there. They maintain the WIP for their workflow step and just keep working within that boundary.
+In software development for instance, developers may keep working within their WIP limit and may just want to limit work-scope to keep on development. Other workflow steps may become outside of their preview.
+The WIP limit in such cases becomes static.
+But such implementation of Kanban doesn’t help anyone.
+Everything may be happening by the book, i.e. visualization of the workflow and limiting WIP. But still it may not help anyone just because visualisation and limiting WIP is not the goal. Limiting WIP is mere a mean to manage flow. In this story, people may be limiting WIP but if flow keeps stopping or keeps getting delayed at different workflow steps, it will not help anybody.
+A workflow with lots of delays or bottlenecks
+One may need to change WIP limits further to optimise flow and have a tab on the flow on continual basis.
+The goal is not limiting the WIP. The goal is to have optimized flow.
+Kanban Mythbusters Series
+There are other posts on Kanban Mythbusters series which you may find interesting
+
+If You Need Kanban in Scrum, You’re Probably Doing it All Wrong!!!
+Kanban Mythbusters: When to Use Scrum and When to Use Kanban?

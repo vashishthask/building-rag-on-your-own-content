@@ -1,0 +1,30 @@
+TITLE: Agile Offshore: Create Effective and Decisive Product Owner Proxy to Offshore Team
+URL: https://www.agilebuddha.in/agile/agile-offshore-create-effective-and-decisive-product-owner-proxy-to-offshore-team/
+---
+
+Off-shoring in current market is a global economic and strategic need. Building Agile Offshore teams across boundaries and time zones is a different ball game. It has its fair share of challenges to work with. I shared few of those challenges and a possible approach to take in my earlier articles.
+1. How to Address People and Communication Challenges
+2.Distributed Agile:10 Best Practices of Successful Teams
+3. Distributed Scrum: A Day In The Life Of A Distributed Team
+
+You need to make few changes along your way to your normal routine to make it work. One challenge I often see is integration of offshore team with onshore team and to project/business vision.
+Lack of proximity to business is a big challenge. You could address this by making people travel, meet face to face, video conferencing etc. Your Product Owner may be very flexible, takes part in every daily stand-up, he is there during his core hours and ready to stretch some times. Let’s assume you have all of this, but still not having business representative at your disposal is an inhibitor to offshore team success.
+How do we address this?
+Creating a proxy business representative i.e Proxy Product Owner can be a secret sauce to address this gap.
+
+Assign an offshore team member preferably with business analysis skills as proxy product owner. This person is responsible for comprehending requirements and knows reasoning behind current prioritization of requirements.
+He works with offshore team to convey and clarify business requirements during offshore team core hours.
+He works very closely with product owner and meets face-to-face periodically(say once a quarter).
+If you have distributed team with less or no overlapping hours, PO proxy becomes very important. He will present stories to the team during sprint planning and for all practical reasons this person becomes product owner to local team.
+
+This is also a big risk to the team as it may lead to some miscommunication. There could be instances where-in PO proxy may not be aware of big picture and hence unable to answer team questions with authority.
+Backlog grooming or refinement session can address this. Scrum teams must have this meeting as part of their scrum ceremonies.  In this session, entire team, product owner and proxy product owner come together to discuss new and upcoming requirements of product backlog.  This gives offshore team to hear and connect with actual product owner directly.
+Two anti-patterns to watch for…..
+
+I see often, MAKING Under-powered,  Indecisive person as PO Proxy for offshore team. This will create more confusion, conflicts and miscommunication. This eventually leads to slowdown in decision making and a decrease in productivity and morale. Watch-out for this pattern. [pullquote]Just calling business analyst as Proxy product owner is not a solution. Proxy PO is given free hands to make decisions.[/pullquote]
+Second anti-pattern which is observed is supplementing low bandwidth busy Product Owner with a so called Proxy PO to help him. This is solving a wrong problem. You need to balance actual product owner time at the first place.
+
+Concluding thoughts…
+Going for Proxy PO has some risks.  It adds up another extra layer in decision making which is not ideal.
+I favor going for proxy PO for addressing vast time zone differences. Additionally,  having business person on offshore side, helps in building big picture, domain expertise, alignment towards business vision and also makes wonders to offshore team confidence and morale. Offshore teams work as business partner rather than implementation partner.
+Please share your story of how are you managing lack of business proximity issue with offshore teams?

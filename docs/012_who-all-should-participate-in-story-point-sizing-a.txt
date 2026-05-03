@@ -1,0 +1,19 @@
+TITLE: Who all should Participate in Story Point Sizing Activity?
+URL: https://www.agilebuddha.in/agile/who-all-should-participate-in-story-point-sizing-activity/
+---
+
+There are folks who may be moving from waterfall to agile approach.
+They in general divide the estimates in terms of development estimates and testing estimates. These estimates are separately done by the representatives of developers and testers. These representatives are either not part of the team or may not be doing that work.
+In Agile teams, the story point sizing activity is done by the whole development team.
+Just to reiterate again, all cross-functional team-members participate in the sizing activity. Also, there are no separate story points for development and testing activities which could potentially enable the team members to estimate them separately and combine them together to come up with the resultant size of a story.
+
+The story is always sized as a whole.
+What’s wrong in developers and testers estimating their own testing activities separately?
+The whole idea of story point estimation for a team is to have a shared understanding in the team around a user story.
+Before coming up with the shared understanding, people may think that they know everything about the user-story. However, when they really discuss they find the flaws in their understanding and are happy to come up on the same page.
+
+Every person in a cross-functional team may potentially come from a different background. That person brings her distinctive perspective in conversations during planning poker.
+For instance, it may happen that for a 1 liner code change, a week of manual regression work is required. Similarly while discussing some testing scenarios, a developer may come out of a suggestion to automate that part to do it quickly.
+If all such people remain isolated, they are not able to help each other and also may not have shared understanding.
+More on Story Points and Agile Estimation
+📖 If this series sparked your curiosity, you’ll love my book Agile Estimation Distilled — everything about Agile estimation in one place.

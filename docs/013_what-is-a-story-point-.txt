@@ -1,0 +1,47 @@
+TITLE: What is a Story Point?
+URL: https://www.agilebuddha.in/agile/what-is-a-story-point/
+---
+
+Story point is a unit of measure of estimation for the overall size of the work that will be required to fully implement a user story.
+Story point has no direct relation with time even though people may get tempted to map it with time in order to get an hourly estimate to complete a user story.
+To understand story point concept better, it’ll help to take an analogy with distance.
+
+Whenever we speak about a distance, let’s say the nearest gas station is 3 kms from my place, nobody will have any question or conflict about this statement.
+However as soon as we talk about the time taken to reach there, it may be different from person to person depending on the kind of vehicle they use apart from traffic conditions.
+In normal traffic conditions for instance, a car will take much less time compared to a cycle.
+
+Now as we move back to the software world, the story point is analogous to the distance unit and has no relation with time. Though unlike distance, a story point is dependent on multiple factors, i.e. amount of the work involved in the user story, complexity and uncertainty/risk.
+
+Story Point (i.e. size of the work) depends on :
+
+Amount of the work involved
+Complexity
+Uncertainty/risk
+
+Story points have no relation with any individual. For the same story size, the whole team may plan to work together using swarming or mob programming.
+Let’s analyse how multiple factors mentioned above affect the story point.
+Amount of the work involved
+The amount of the work involved is the work associated in a story.
+A team asks some of the following questions when they start sizing. These questions are mere examples and can be different for different contexts.
+
+Design: What will we have to learn before we can start work on this story?
+Coding which include tests: How much code will need to be written for this story? Have we written similar code before?
+Acceptance Testing: How much work is involved in testing and automating the acceptance tests for this story?
+Integration Points: Does this story have external dependencies?
+Expertise: Did any of us complete similar story before?
+
+This amount of the work involved will not be different from person to person. Irrespective of the team members involved, the work required to complete a story will remain same, doesn’t matter if she’s a senior or junior person.
+Complexity
+The team needs to assess if it’s a straightforward story or it includes additional complexity either from business logic perspective or from technical perspective.
+For instance, if a team has no prior experience in doing credit card payment integration, there may be an associated learning curve and complexity involved for the first credit card (Visa/Mastercard) integration.
+However after completion of this major work, the work required (story points) to integrate other credit cards (e.g. Amex) or other payment channels will be simpler and will have low complexity.
+Uncertainty/Risk:
+A story point also depends on how certain we are in getting the required data or dependency/information in time.
+Lots of times, for instance an external service we may be integrating with may not work as expected. Also when it fails, it’s difficult to know why it failed. That results in uncertainty/risk.
+On some other times, we may be expecting a service to be available to complete our work. Based on our past experience, we may see a possibility of either that service not getting ready in time or not working as expected. In such cases, we may need to add such uncertainty/risk as additional points to the overall story points of the user story.
+Difference of Opinion During Story Point Estimation Exercise is Healthy for the Team
+
+As story point is all about size of overall work involved, any difference of opinion from any team member either helps in getting another perspective on the story, or helps in aligning team members and bring them to have a shared understanding on the story.
+The story point conversations are all about arriving towards a shared understanding around a user story among the team members. People with different functional backgrounds (BA, tester, developers) will have important perspectives to share around it based on where they come from. Resultant story points are mere side effect of the overall exercise.
+More on Story Points and Agile Estimation
+📖 If this series sparked your curiosity, you’ll love my book Agile Estimation Distilled — everything about Agile estimation in one place.

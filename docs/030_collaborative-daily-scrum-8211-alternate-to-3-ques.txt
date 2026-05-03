@@ -1,0 +1,55 @@
+TITLE: Collaborative Daily Scrum &#8211; Alternate to 3 Questions Based Daily Scrum
+URL: https://www.agilebuddha.in/agile/collaborative-daily-scrum-an-alternate-to-3-questions-based-daily-scrum/
+---
+
+Scrum is inspired by Rugby Scrum. The entire development team works collaboratively towards one Sprint Goal.
+Pretty obvious but still spelling out – Rugby Scrum can never be played individually in a team.
+Working solo or without collaboration  (read pair programming, swarming or mob-programming) is not even a choice in Scrum/XP.
+With this background in mind, let’s focus on Daily Scrum.
+Daily Scrum
+Daily Scrum is a sprint planning in small. You replan the sprint every day.   – James Coplien
+A lot of Scrum teams use 3 questions based daily scrum. On the surface, it looks good but it comes with some inherent problems:
+
+For a team working solo on each task, the replan gets decided based on the answers to the 3 questions on individual contribution. That makes it difficult to get the overall progress on a Product Backlog Item (PBI) for which multiple people work unless all relevant folks speak in tandem.
+For a team pairing up or swarming on a PBI, answering 3 questions for everyone becomes repeated and redundant if they speak as their turn comes.
+As this type of daily scrum doesn’t mandate collaboration (working in pairs, swarms or using mob programming), many teams pick one PBI for each team member. As a result they may have many user stories in progress but very few or none moving to DONE.
+Working this way helps (each person keeping multiple tasks in progress) in building internal silos within the team. People continue to focus on their individual activities (e.g. my work as a developer is over and I can move to other story) rather than PBI completion.
+Effectively such meetings become status update meetings as individuals talk about their updates instead of replanning on how to move towards Sprint Goal as a team.
+
+The 3 questions based Daily Scrum, unfortunately, doesn’t require collaboration as a mandatory prerequisite. Without mandatory collaboration, no team becomes self-organized, and the Development Team continue to remain dependent on someone like Scrum Master to organize them as a team.
+
+Just to make sure, the three questions are just one input to the Daily Scrum discussion. They are still valuable as part of the Daily Scrum. The questions were partially deprecated because too many people think that the purpose of the Daily Scrum is to answer the questions rather than to replan. The questions still have value. But they are not the only way to drive to the necessary information about progress and impediments, so they are no longer mandatory. They are still a good starting point.
+
+In such a context, what could be the alternative mechanics of Daily Scrum?
+Walk the Wall Stand-up Meeting
+“Walk the Wall Stand-Up Meeting” provides a bit better alternative in which the sequence of the stand-up meeting is determined by Scrum Board. Each item on the wall gets discussed taking into account the 3 questions.
+The whole idea is to “Focus on the Backlog” instead of on individuals.
+Walk the wall has some inherent advantages:
+
+The focus here is on the PBI rather than on individuals. That helps in bringing more important questions to get answered:
+What got achieved? How long do we think it’ll take the PBI to finish now?
+Do we need anything from anyone here in order to proceed?
+It allows more than one team member to talk about a card and the focus is on the card completion rather than individual activities. If developers realize that maybe the PBI will take longer, they may ask for help to get more people as part of replan.
+
+With all inherent advantages, Walk the Wall doesn’t necessarily account working in collaborative fashion.
+The improved version of Walk the Wall Daily Scrum is Collaborative Daily Scrum. Let’s see how that works.
+Collaborative Daily Scrum
+In Collaborative Daily Scrum, the focus is on finishing the PBIs, as many as possible by the end of the Sprint working as a team in a collaborative way (pairing, mob-programming or swarming) and move towards sprint goal.
+Just to make sure, the objective of the Daily Scrum is to re-plan to achieve the Sprint Goal first and PBIs second. The primary objective is the Sprint Goal and not the PBIs.
+Instead of answering 3 questions, the team looks at the Scrum board, identifies how long a PBI is going to take and accordingly sees how it could be finished collaboratively. Smaller stories may take a pair and bigger stories may take a group of team-members swarming together and pairing on individual tasks.
+Team members, in general, have the idea of what all it’ll take to work on a PBI from sub-tasking activity as part of Sprint Planning event to collaboratively understand how sprint backlog could be implemented. That helps in knowledge sharing among team members, design discussions and coming out with small tasks which could be finished quickly in less than a day.
+One of the good things about the 3 questions based Daily Scrum is that everyone gets to say something, which empowers and therefore motivates them. The facilitator can perhaps ask direct questions sometimes. Also, she can ask to switch people working on a PBI to speak in next Daily Scrum.
+Example
+Note: The example mentioned here is just one of the ways to self-organize collaboratively during daily scrum. There can be so many different ways which work for you. So please treat it as an example and not a prescription.
+Let’s take a look what all happens on the first day of sprint after planning meeting.
+Collaborative Daily Scrum on First Day of Sprint
+As scrum-board is ordered, the Development Team looks at the first backlog item and discusses if the task is small or big. Based on the time it’s going to take, the team decides the number of people required to finish the PBI quickly (within a day or two).
+Theoretically, it’s possible for an entire team to swarm, pair-up or mob-program on a single PBI. However, in practice, it may happen that team takes max 2-3 stories at a time based on the PBI’s size.
+Collaborative Daily Scrum on Subsequent Days of Sprint
+Next day, some stories are finished and some may be in progress. The basic guidelines for people finishing a PBI are to see if they can help the sub-group to finish the “In Progress” PBI. If not, they plan for new PBI and answer the same question – how many people are required to finish the next PBI and accordingly create a small group to collaborate.
+How to collaborate as pairs with 3 people? What if…
+It may be difficult to define all permutation and combinations of collaboration. However, overall, there is one simple underlying tenet of the collaborative way of working:
+Let’s learn how to work well together.
+It can be pair-programming, swarming or Mob Programming. However, the point isn’t techniques or practices, or some sort of methodology or set of rules – it is that if we dedicate ourselves to learning to work well together then good things will come of that.
+Acknowledgements
+This piece wouldn’t have been possible without kind inputs from James Coplien.

@@ -1,0 +1,17 @@
+TITLE: Why to Use Relative Sizing?
+URL: https://www.agilebuddha.in/agile/why-to-use-relative-sizing/
+---
+
+If you draw a straight line on a white board and ask people how long the line is, different people will have different answers.
+
+However if you ask the same folks around how long the line B is in comparison to line A, almost unanimously you’ll get the same reply, i.e. “double the size of line A”
+The reason – we humans are visual people. We struggle quantifying something in absolute terms but it’s not that difficult to compare one quantity with another.
+
+So if someone asks how much effort one PBI item in absolute terms, e.g. 15 hours and then the second one may take 20 hours. Coming out with these numbers is not that easy. However, comparing the amount of work relative to other one is far easier.
+Relative sizing is quicker as well. As it’s just an estimation, it doesn’t have to be true in absolute terms.
+There are many ways to do relative sizing in Agile software development, e.g. T-shirt sizing (small, medium, large, extra large), story points (fibonacci series 0, ½, 1, 2, 3, 5, 8, 20…), affinity mapping (for large backlogs) etc
+Sizing should be Done by People Who Are Going to Work on It
+Previously we had sizing techniques like Function Point Analysis, but it was tough to understand/implement by everyone and hence was restricted to experts ONLY.
+But estimation is an activity to be done by people who are going to work on it. Hence a simpler sizing technique was needed so that everyone(developers, testers) can understand and use it easily. And relative sizing fits the bill there.
+More on Story Points and Agile Estimation
+📖 If this series sparked your curiosity, you’ll love my book Agile Estimation Distilled — everything about Agile estimation in one place.

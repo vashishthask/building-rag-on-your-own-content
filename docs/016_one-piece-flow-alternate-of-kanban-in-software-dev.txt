@@ -1,0 +1,79 @@
+TITLE: One Piece Flow – Alternate of Kanban in Software Development
+URL: https://www.agilebuddha.in/kanban/one-piece-flow-alternate-of-kanban-in-software-development/
+---
+
+Kanban process is based on 6 basic practices
+
+Visualise
+Limit work in progress.
+Manage flow.
+Make policies explicit.
+Implement feedback loops.
+Improve collaboratively, evolve experimentally.
+
+If you reflect on these principles the premise essentially is to optimize the flow. Limiting WIP is a way to do that. There are no right or wrong numbers around what exactly should be the WIP limit of each column. All these numbers are bound to change dynamically and organically until the flow has been optimized.
+
+The whole flow concept is based on Little’s law which explores queueing theory.
+
+In this formula, “L” represents the number of items inside the queueing system being examined – also known as “WIP”
+On a traffic jam, “L” tells us that there will be more wait time if there are more cars (queue length) on the road as the average processing rate or throughput doesn’t change.
+In other words, the wait time will be less if the number of cars on the road is lower.
+If we translate it in software development, the time to finish a story or a feature will be small considering a lower WIP (small number of items in progress) and a constant process rate.
+That’s the basic idea behind WIP limits on a Kanban board. Limiting WIP helps in optimizing flow, but brings its own set of inherent problems:
+
+Creates Silo: Multiple columns on a board may appear to some people that analyze, dev and test are separate responsibilities for different people. It may give the impression that the collaboration between dev, test and analyze happens when there is a bottleneck in the flow. Instead of thinking that the story completion is the goal for each individual, responsibilities may appear attached to different individuals. Also collaborative approach (swarming, mobbing) is not a necessary mechanism to work on a task.
+Numeric WIP and Maturity of the Team: Whether a numeric WIP limit will work or not depends on how disciplined and effective the team is on optimizing the flow. In many teams adopting Kanban, the maturity is very low and they generally fake the Kanban process in following ways:
+
+Many people think they are using Kanban when they just follow the first Kanban method practice “Visualise the workflow”. They don’t maintain any WIP limit anywhere. As a result a physical board may look shiny artefact but doesn’t help the team.
+Many teams keep WIP limits in individual columns but then keep them static forever even if that results in non-optimised flow. Even if they change, they keep these limits so high that they again are of no use and don’t help them in their continuous improvement. By definition, “if you are not continuously improving, you’re missing the point of Kanban”.
+
+Improving Processing Rate: Kanban talks about limiting WIP which helps in shortening the queue length but it doesn’t focus upon improving the processing rate. The processing rate may not improve in manufacturing because of machine limitations.
+
+On the other hand, in software development, processing rate can be improved based on collaborative effort. Instead of one person picking one story at a time, multiple people may work on it at the same time and finish work much earlier.
+Kanban vs Assembly Line Model
+In manufacturing, within the Assembly-line model – one worker works at one station. The pieces move from station to station, whereas the workers don’t.
+When one worker gets assigned to one station, the workflow results in hand-offs and inventory build-up on each station which causes delays.
+Kanban WIP limits may help in reducing the inventory build-up but doesn’t eliminate it.
+In the following image, each DONE column is an inventory build-up place for the next DOING column. The build-up inventory stays there till the WIP limit of DEV or TEST allows a ticket to move forward.
+Work Cell
+In manufacturing, workers move around machines so that one person can take the work in process from multiple machines.
+If machines are put together serially, few multi-skilled people can potentially handle more machines than their own count. This can be further optimised with a U-shaped work-cell mentioned below.
+
+In the work cells, workers move with the work in process through the entire work cell or maybe a few workers do through the entire work cell.
+The work-cell reduces the number of handoffs, which reduces the amount of inventory you are building between the steps and results in improved flow.
+We arranged machines in parallel lines or in L shape and tried having one worker operate 3-4 machines along the processing route…Our craftsmen didn’t like the new arrangement requiring them to function as multi-skilled operators.
+— Taiichi Ohno (Toyota Way)
+One Piece Flow
+One-piece flow means only one piece at a time moves through one stage to the next stage during production of a product.
+So there is a maximum of one item at any given stage of the process. Multiple items can be in the process as a whole, but nothing has to queue up and take space from the moment it starts until the moment it’s complete.
+If we take one piece at a time and work in a work-cell structure, we’ll have optimal flow.
+Work Cell in IT
+Many people in IT these days don’t stay limited with one skill only these days. Some are full-stack developers. Some have an understanding of multiple applications, domains which benefits feature teams.
+Developers are able to do the end-to-end development. The testing in itself becomes an embedded skill of developers and quality is owned by the whole team.
+Working solo or without collaboration (read pair programming, swarming or mob-programming) is not even a choice in Scrum/XP.
+— Jim Coplien (Cope)
+As part of software development, multiple people take a feature from a To Do list and collaborate (swarm or mob) on it, deploy it before moving to the next feature.
+In such a scenario, the entire team may be working on a couple of features at most.
+When they work in such a fashion, throughput increases compared to a scenario when an individual works on a task. That helps in reducing wait time further:
+
+Let’s take an example. A team of three mob-programmed or swarms and finishes a feature in 3 days which otherwise would have taken 5 days for an individual.
+
+The WIP in this case is 1 (lower) which otherwise would have been 3 in case every individual would have picked one task.
+As this mob picks and finishes one-task at a time, at any point of time, they will have at most 1 unfinished task compared to probable 3 unfinished tasks if all 3 people would have worked on individual tasks. This improves overall throughput.
+
+Reducing WIP here reduces leakage because neither of the 3 developers may deliver anything even though they are 90% done, whereas having everyone work together raises the chances that they will deliver at least the first two.
+Also when solo individuals work on a PBI, they may have hand-offs with other developers and in turn will have delays. As solo individuals have to design and code at the same time, the amount of focus and concentration is comparatively less compared to a mob in which the mob thinks and a driver codes. A mob can go into a zone at any point of time.
+All these factors help in improving throughput.
+With reduced WIP and improved throughput the wait time decreases even more.
+Applying One Piece Flow to Software Development
+We have seen how one-piece flow works wonders for the team and why it helps, let’s see how to apply the same to software development in simple steps.
+
+Take a list of To Do items
+Pick one or couple of items based on the order of To Do list
+Collaboratively work on them as a team
+As the item gets DONE, pick up another one.
+
+As the work item gets deployed to production from In Progress, it moves to the DONE column which may be candidates for the release on demand.
+Acknowledgements
+Lots of agile practitioners and experts around the world have provided the feedback to this post. Thank you so much.
+I’d like to especially thank Cope (James Coplien), Tim Ottinger, Michael Küsters and Dave Smith for their inputs, review efforts and valuable time.

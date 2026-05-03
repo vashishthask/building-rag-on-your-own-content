@@ -1,0 +1,13 @@
+TITLE: Distributed Scrum Teams: Never End a Sprint on Friday
+URL: https://www.agilebuddha.in/agile/distributed-scrum-teams-never-end-a-sprint-on-friday/
+---
+
+Scrum team members know that things get very busy near the end of an iteration. The coding and quality activities need to be wrapped up, demo preparation occurs, the sprint review is held, the sprint retrospective is held, and the next sprint planning meeting is held.
+
+If the onsite team team prefers to end iterations on Friday, they might naturally assume they have all day Friday until evening for these activities.
+However, look at what that would do to a remote sub-team in India – it would mean working until early hours on Saturday morning. A better practice is to split the end of sprint activities across two days, ideally during the overlap time dedicated for sub-team synchronization. This insures minimal impact to normal working hours at the end of each sprint.
+
+It is even more ideal if some of the end-of-sprint activities can be grouped and run back to back during the overlap period. Sprint review and next sprint pre-planning can be done during overlapping hours. Then teams can do retros during their core hours.
+Backlog grooming or backlog refinement meeting becomes a must for distributed team. Since you have very less overlapping hours, you need sufficient preparation before hand to finish sprint planning meeting on time.
+Ending on Friday is not what I suggest for co-located teams too. You could read my earlier post “When is a Good Day to Start a Sprint?” to know more on this.
+If Friday is working for you, they don’t need to change. Points I have mentioned here and in my earlier article are inputs to the team and possible anti-patterns team would observe. At the end decision making is with the team to find what works best for them.

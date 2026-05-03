@@ -1,0 +1,16 @@
+TITLE: Scrum Team Dependency on User Experience/Wireframes
+URL: https://www.agilebuddha.in/scrum/scrum-team-dependency-on-user-experiencewireframes/
+---
+
+Dependency management is a key aspect in Scrum. Dependencies between Scrum team members, between User Stories, between core and extended team, between team and product owner – all have an impact on the efficiency and effectiveness of the team.
+I often see Scrum teams having dependencies on User Experience/Web Developers. This is because PO has defined requirements for new sprint, and UI/Web-Developers who are part of development scrum team start working on this now. Wire-frames are yet to be created as per these requirements.
+
+Developers get delayed in starting new stories:
+•	Due to lack of wire-frames and HTML
+•	Unapproved wire-frames
+•	Wire-frames undergoing changes frequently within the sprint
+This breaks the flow of scrum team; creates lot of re-work and team fight to finish by end of sprint. This leads to sprint deliverable being low on quality and not tested by end of sprint.
+You have to be careful about this pattern while coining new teams. I strongly feel team structures play a very important role in making Scrum a success in the organisations. Scrum teams have to bring this issue on the table and work a solution to reduce unwanted delays.
+One way to solve this is by creating a Product Owner team with Product Owner, User Experience and Web Developers. This team runs their own sprints which are couple of sprints ahead of development sprint. They deliver prioritized user stories (detailed enough) as their sprint deliverables and all wire-frames approved with final touch. These deliverables would feed into Development team sprints.
+Organizations have to come out of traditional thinking to evaluate different team structure which breathes Agility.
+Have you come across similar situations? or Please do share other situations where you have made team changes quite different from traditional structure.

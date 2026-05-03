@@ -1,0 +1,31 @@
+TITLE: Scrum Teams: Slow Down, to Go Fast Later
+URL: https://www.agilebuddha.in/agile/scrum-teams-slow-down-to-go-fast-later/
+---
+
+Being two months away from my passion – agile coaching, I was exploring my other interests like un-schooling my kid, learning by traveling, and spent time experiencing natural birth. I was wondering if I should share this experience on this blog which is focussed only on Agile. But being agile is about doing different experiments and never stopping, hence I thought its worthwhile to mention it here.
+It was great spiritual learning for me to prepare and experience natural(spiritual) birthing. It really taught us how different is our body than we actually perceive. To trust our own body instincts to take its own course of action rather than relying on systems(hospitals) which was built to address emergency scenarios and not normal or natural phenomenon like birthing.
+This decision to slow down or cutting myself completely helped me to understands different facets of me. Slowing down helped me reassess my priorities and how I need to take my life forward. My schooling system has taught me how to make a living, NOT a life! Pity.
+
+I was recently connecting with few teams and I saw teams “racing to the goal post” with NO goals scored often. Seeing such teams I feel we are used to speed in every aspect of life. Not sparing a thought to slow down to see how are we doing? And, even if we do that, we’re unable to bring any noticeable changes.
+
+How many  times have you seen teams facing this? I say often. Then how do we deal with it? Why are teams unable to deal with excessive speed leading to crashes often?
+Unable to achieve sustainable pace has many reasons as we discussed in my earlier article.
+Few major reasons for frequent crashes:
+
+Not taking enough time out to comprehend and analyse the situation
+Even if we do it, no action items from retro gets implemented.
+
+We discuss same items every time and no one owns it to completion as we are all very busy with sprint delivery.
+Treating symptoms rather than the root causes
+
+Again planning for the full capacity/utilisation of the team within the sprint. Not learning from the mistakes.
+
+Slow Down! This is the only Mantra!
+
+Make your retros super effective! Followed by clear actions driven to completion
+Ask powerful questions, 5 Whys can come very helpful in identifying root causes
+Prioritise top 2-3 items or even one and put action item and owner who will drive this with the team. Review the results in the next retrospective
+Take less(capacity planning) in the current sprint to fix top priority items from the retrospectives, which was slowing you down or making you ineffective.
+
+To achieve speed you need to slow down, fix bottlenecks/top issues and automate few things which are manual.
+We will talk about how to do effective capacity planning and fine tuning it in the upcoming post.

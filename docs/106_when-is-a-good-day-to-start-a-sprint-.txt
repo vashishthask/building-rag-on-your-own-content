@@ -1,0 +1,17 @@
+TITLE: When is a Good Day to Start a Sprint?
+URL: https://www.agilebuddha.in/agile/when-is-a-good-day-to-start-a-sprint/
+---
+
+My first reaction would be Monday! Week is just starting and definitely good day to start something new. You are right! But my suggestion would be to rather focus on sprint ending day then starting. Ending on a Friday is not I have seen worked very well for many teams.
+Let’s check out few reasons for the same:
+
+Friday being last day of the week and team is quite tired by then. Hence chances of making a mistake in rush to complete a sprint is higher
+Many times last few changes go untested before Monday demo which is a high risk
+I have seen team working over weekends to finish and push last minute changes to code repository. This is absolute NO, as I want my team to relax and also these changes are not known to rest of the team and it is not tested. This breaks Scrum philosophy.
+Most important thing, people get freedom to take long weekends as they would not miss Sprint Review and Sprint Planning which I feel are two most important Scrum team ceremony where we want everyone on team to be there.
+Lot of Public Holidays falling on Monday or Friday would not disrupt the team much.
+
+Hence my suggestion to the team I have worked with is to go for starting mid week and ending mid week. Even if you have to stretch a bit to finish some tasks, team would not hesistate to do it during mid week and also keep in mind as per research Wednesday and Thursday are most productive days of the week too!
+Teams moving to this schedule have seen reduction in defects, increase in quality of code and also quality of demo improved substantially. Above all this I have seen team being less stressed and hence better productivity.
+In addition to this if teams are working in distributed agile set-up(say Product Owner is in US west coast) and team is in India, then starting sprint on Monday may pose few challenges like Product Owner being available for sprint planning on his Sunday evening!
+So do consider your team set-up, how they are structured, their maturity, Product Owner &amp; Stakeholder availability etc to see what day suits well for you. But don’t stop experimenting around this!

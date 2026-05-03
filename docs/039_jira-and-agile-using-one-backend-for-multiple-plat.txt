@@ -1,0 +1,23 @@
+TITLE: Jira and Agile : Using One Backend for Multiple Platforms
+URL: https://www.agilebuddha.in/agile/jira-and-agile-using-one-backend-for-multiple-platforms/
+---
+
+It’s common to have applications available for multiple platforms (web, Android and iOS) these days. In most cases, common backend services are used irrespective of the interface.
+In such cases, it is tempting to have separate teams for backend and front-end interfaces. Unfortunately temptation in this case doesn’t help the business. It becomes very difficult to see the functional progress while having separate backend and frontend teams. On the surface, it looks like everyone is busy but in reality, the outcome can be frustrating with no production ready features.
+The solution is to have functional cross-functional teams which could work on a vertical slice end-to-end. For instance, it’s ideal to have a team focused on iOS platform comprising both iOS and backend developers.
+Makes sense, but then how to handle the redundancies as the same service may be useful for web as well?
+
+Along with the user-stories (vertical slices), we require common backlog for backend services if same backend developers work for all platforms.
+From process stand-point that makes sense but how to handle it using Atlassian Jira as that was the exact case we had recently. Here’s what we did:
+We created three separate Jira projects (one for each platform) and one separate backend board. Let’s take a look how those boards work and their mechanism in the rest of the post.
+Mobile or Web boards : Resolving Backend Dependencies
+Web or mobile stories were linked with independent backend tasks (created in a separate board). That way, when we look at a web or mobile story in Jira, we’ll know the status of corresponding backend task as well.
+For instance if Android task is in progress and backend API hasn’t even started, that means trouble.
+
+It’s possible to show linked issues on Jira board. That way, we know which backend task is linked to the story on board:
+
+Backend Board : Mapping Backend Task to Web or Mobile Stories
+We mapped each backend task with corresponding labels and links. For each backend task the labels were iOS, android, web. If there is no such label, it’s not mapped. If it’s mapped, there should be a link to the web or mobile task
+
+If any task is not mapped, that raises a question if it should be there on the board at all.
+That way it’s easy to know which Mobile or web story a backend task supports.

@@ -1,0 +1,61 @@
+TITLE: What Stops Scrum Teams from Self Organizing?
+URL: https://www.agilebuddha.in/agile/what-stops-scrum-teams-from-self-organizing/
+---
+
+One of the key indicators to know whether Scrum is working in a team comes from the fact if the team is self-organizing or not.
+Before getting into the reasons on what stops teams to self-organize, let’s see the life without self-organization.
+
+Life Without Self-Organisation
+Some of such teams are merely a bunch of individuals working in a group. Each team member picks up a PBI (Product Backlog Item) and works solo. As a result, you see no effective knowledge sharing and no T-shaped (cross-skilled) team members.
+As cross-skilling is rare, people pick tasks based on their limited skills and not necessarily based on the backlog priority.
+For such teams, it’s not unusual to find many PBIs in progress and very few items in DONE column.
+
+The only person who cares about the sprint goal in such teams is probably Scrum Master who resorts to make daily Scrum as status meetings and keep more focus on time-logging in electronic tools like JIRA to get a sense of control.
+What Stops Self-organisation?
+Scrum Team Not Doing Scrum?
+Scrum is inspired by Rugby Scrum and is all about everyone does everything all the time. In rugby, everyone works everywhere (unlike Soccer), collaborating with each other towards the team goal.
+
+Unfortunately, a whole lot of software teams use dysfunctional “swim-lane Scrum” concept. Each team member picks up a PBI to work on and independently works on it till it’s completed from the coding perspective. That translates into tester getting nothing for a couple of days or more and then getting a batch of user-stories to test.
+As most of the daily Scrum meetings are geared towards 3 questions, daily Scrum becomes a status update meeting to the Scrum Master. In such meetings, each one of the developers talks about what she is up to.
+During such meetings, it’s not unusual to find few team-members thinking what they are going to say when their turn comes. Some team members are not at all interested in what other one is speaking.
+Working in this way helps in building internal silos within the team. Instead of considering sprint goal as “our work”, people start treating it as my work or her work.
+That’s the reason, while a person speaks about her plan in a daily Scrum, other people may not be interested, as she is focused on her piece of work. As a result, one can see all symptoms of a dysfunctional team.
+Interesting. Isn’t it? So what’s missing?
+It’s quite obvious that team is not working like Rugby team. Instead of taking one team goal at a time and working together to meet that and then take another, they work as a bunch of individuals.
+Instead what if a team takes one PBI at a time, collaborates to finish it first before taking another one. Agreed that a team of 7±2 team members can take a couple but not more.
+So if a team is not doing swarming and pairing, it’s hard to find any symptom of team collaboration and henceforth any kind of self-organisation.
+Utilisation Oriented Organisation Culture
+Though orgs are moving towards Agile, they somehow continue to focus on 100% “resource” utilization. In almost 90% organizations I have worked with, pair-programming is still seen with a frown and suspicion.
+“What are you talking about? Two or more people working on the same task? Will they still be able to complete the sprint backlog in time?” are some of the usual comments.
+People are somehow still not able to understand that it’s not just typing but in fact is the knowledge work which gets a lot of help from brain-storming, improved focus as a pair, inherent knowledge sharing, and inherent self-organization.
+Such orgs somehow fail to understand that with collaborative techniques, developers still do multiple programmers’ worth of work. They’re just doing it together rather than individually.
+3 Questions Based Daily Scrum
+I personally don’t like 3 questions based daily Scrum. Somehow it seems people try to justify their time spent and providing the status update to the Scrum Master.
+[pullquote “class=“left”]The ‘replan‘ word here is not used in its literal sense but in a context. It definitely doesn’t mean sprint planning every day.
+Let’s take an example. Some ants swarm for the day. Next day instead of continuing that way, they discuss during daily Scrum, “Folks, this is where we are based on the effort we put yesterday. How should we handle the remaining work as a group? Should we regroup and do we need to change any strategy based on yesterday’s learning?”.
+The point is to question the status quo every day during daily Scrum. This is termed as daily replan.[/pullquote]
+Daily Scrum is a sync-up to know where the team is on the sprint goal (not just on the PBIs) so that the team could plan its day accordingly.
+Daily Scrum is a sprint planning in the small. You replan the sprint every day. @ James Coplien
+It’s the team coming together and saying, “We have a problem here. How are we going to fix This? How are we going to change? How are we doing things in order to achieve sprint goal?
+When each team-member work on individual PBI, daily Scrum inherently becomes very mechanical status update with no almost no collaboration. Even if Scrum Master intends to just facilitate and move aside, still it remains status update :-).
+In such teams, it’s difficult to find the avenues of self-organization.
+Command and Control Organisational Culture
+In some orgs, management still feels the need to force roles along with thick boundaries of what they can and can’t work on around those roles.
+The BA shall do only BA work, QA shall do only QA work and the devs shall only do dev work. Heaven forbids if the BA does QA work or vice versa, heads will roll.
+There is no hope for the team to become self-organizing in this environment.
+No Autonomy or No Trust in the Team
+With some Scrum Masters coming from the traditional background, when I discuss providing autonomy to the team, instead of looking at positives, they immediately wear the devil’s hat.
+“What if a team takes undue advantages of autonomy”, “I don’t think they will be able to deliver in this way”, “In true Agile, we could probably do that but we are living in a real environment where it may not be possible” are some of the knee-jerk reactions.
+In such situations, I counter with something like, “Let’s at least try to see it at least for a week. If it’s doesn’t work, moving back to square one is not a big deal”. In some cases, these SMs relent and sometimes they don’t.
+In such orgs, Scrum training is mostly for the teams but not for leadership. Such executives lack the understanding of Scrum. They also don’t understand what their role is in implementing Agile.
+Such executives, coming from the traditional background, never seem to trust in the team.
+Hierarchical Mindset
+In some of the hierarchical cultures, people are conditioned to follow commands from the very beginning of their life. Someone tells them what to do and they just follow the instructions.
+In such cases, when someone says, “Team, please self-organize”, the first reaction is not knowing what to do with a clean slate. Also, they are not very sure if the change is for real and permanent.
+Can they really open up and make mistakes and learn or those mistakes will be remembered as part of the annual appraisal are some of the apprehensions.
+So if an organization really wants to do this, it has to show the commitment to consistent implementation.
+References
+
+A discussion on the LinkedIn on Self-Organisation
+Inputs from Tim Ottinger, Andre Simones and Puneet Duneja
+An Alternative to Kanban: One-Piece Continuous Flow

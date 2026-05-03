@@ -1,0 +1,43 @@
+TITLE: FAQ: Why Story points? Why not map story points with time? What’s the issue?
+URL: https://www.agilebuddha.in/agile/faq-why-story-points-why-not-map-story-points-with-time-whats-the-issue/
+---
+
+As long as customer isn’t interested in throughput or customer trusts the team, whatever way you size or estimate doesn’t really matter. But that doesn’t happen very often. Whenever customer questions about team throughput, it becomes challenging to answer using hour-based estimation as time taken to complete any particular task deflates over time.
+Some teams follow capacity based estimation technique where they identify the number of hours available in a team for the entire sprint duration. Based on that they pick up stories in a sprint. Again here as well, there is absolutely no way to know any change in team throughput as size for which capacity is defined isn’t defined.
+
+Now if we move towards story point estimation (relative sizing) technique, it’s important not to map with time.
+Here is why:
+
+For instance, in Sprint 1 team decided to map 1 story point with 1 day.
+At that time, team estimated 5 story points for story A which translates to 5 days.
+By the time team moves to Sprint 10, they are experienced from technology and domain point of view.
+Now similar story like story A takes 3 days due to their experience which translates to 3 story points now.
+So you see though productivity improved, number of story points decreased. Instead of 5 we show 3 now.
+So though team performs well, that doesn’t translate into better velocity.
+
+Keep in mind, velocity improves up to a certain point. After that the curve flattens. So project management should have appropriate expectation management with the customer.
+Another important point, we shouldn’t get stuck with story points or no story points. The idea is of relative sizing which can be implemented using T-Shirt sizing approach or with number of similar sized stories.
+Question – Story points is about effort. Estimation something other than effort may be helpful, but we can’t use it to answer questions about when a project can be delivered. When we are using abstract story points, we can get real value of an estimation – is the discussion going on inside the team, in order to become clear about what the customer is truly asking for, how it can be delivered most effectively and where the road bumps maybe. When we are using “working hours”, very soon topic of the discussion inside the team may switch to how to spend them.
+Answer – Story point is about relative sizing and not about relative effort. Effort varies from person to person. One senior guy can finish a task in an hour and junior or inexperienced guy may take a full day to complete task.
+Irrespective of the team members involved, the work required to complete a task (size – for instance, change in UI, service, creating new method/class, DB change etc) will be same, doesn’t matter if he’s senior or junior guy. That’s the reason, planning poker based on story point (relative sizing) doesn’t have that much conflicts between people compared to time based estimation.
+A majority of projects these days are executed in time-and-material (T&amp;M) mode. In T&amp;M mode, during sprint 1, entire team guess – how many story points they can complete during that sprint. Say they guessed 20 points for sprint 1. If they finish early they can pull more work from backlog. If they don’t, that’s okay.
+In this scenarios say, during sprint 1, team completed 15 points. That guesstimate continue in second and third sprint as well. Say, team completed 20 and 18 points during sprint 2 and 3. Now the average story points (team velocity) completed during 3 sprints is 18. Now say, you have 198 points for a release. Based on 18 point velocity, the team may take 11 sprints to complete the release backlog.
+In fixed bid projects as well, you may want to do something similar. Instead of experimenting for 3 sprints, team can guess how many stories they can take in sprint 1, 2 and 3. Based on the average velocity and release backlog they can calculate the time taken to complete the backlog.
+Working hours and spending them may be good as long as customer doesn’t question around team throughput. As and when customer questions that team is not productive enough, it becomes very difficult to provide factual justification to that perception.
+Story point mapped with time deflates the estimation as we move from sprint to sprint. In sprint 1, the size was 10 points but now in sprint 10 it’s 8 as now we take less time to complete. So you see productivity increased as we are taking less time but story points calculated become less (8). That gives a perception team is churning less story points now. The perception as you see is wrong.
+On the other hand, story point based on size does not change with time. So we don’t say that during sprint 1 the size was 10 points but now it’s 8. The size (amount of work involved) doesn’t change.
+Question – I am little confused here. Say sprint X — user-story 1 — 10 points; sprint Z — user-story 2 (similar to user story 1) — 8 points (as we already know in and out of the implementation). But why would this give wrong impression, as overall we would be targeting on same or higher team velocity (say 10 or Higher) by picking a story of 2 pointer may be?
+Answer: It depends. So for instance, while working on user-story 1, team came up with a design and code which could be reused in the user-story 2, then definitely the size of work got reduced and you may have lesser story points for second story.
+However there may be cases where it looks like similar work but all the steps need to be performed again. That time size will be same even though we now are more aware about how it needs to be done. But anyways, all those steps still need to be performed. Size hasn’t reduced at all. That time story point will remain same.
+So in your scenario, even though you are doing additional work of 2 pointer in the same time-frame, your velocity continues to remains 10. Though you completed 12 story point worth of work.
+Question – In the intial Sprint we baseline story points for a minor feature and estimate other features relatively. We continue to use this baseline for following Sprints as well. I have few questions here.
+
+Does it makes sense to revisit the baseline after few Sprints as the team matures?
+If we decide to re-baseline, the velocity cannot be compared/equated for sprints before &amp; after re-baselining. How do we deal with this?
+What is the best way to showcase throughput improvements to the customer(esp one with relatively less agile exposure)?
+
+Answer – Size doesn’t change over the sprints or does it? If a story requires front-end change, a new class, some unit tests and testing to complete it, that will be remain same irrespective of the sprints. Isn’t it? So it doesn’t make sense to revisit the story points in the baseline cards.
+However, you may want to add more story cards to base-line group as over the time, new people find difficult to relate with old cards or don’t understand what that old card involves.
+Best way to show throughput improvement is to show velocity changes over the sprints. Keep in mind velocity doesn’t improve forever. After some sprints you reach to the optimal stage and that’s where it stays.
+Any further questions story point estimation? Feel free to ask in comments section!
+Do you like the post? Share it with your friends!

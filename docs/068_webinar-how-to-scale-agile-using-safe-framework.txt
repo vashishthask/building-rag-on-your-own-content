@@ -1,0 +1,16 @@
+TITLE: Webinar: How to Scale Agile using SAFe Framework
+URL: https://www.agilebuddha.in/agile/webinar-how-to-scale-agile-using-safe-framework/
+---
+
+Scrum and XP have been working well for small teams. That works fabulously for small organizations. However implementing the same for large project portfolios, having teams with 100+ developers has remained very challenging from organization perspective.
+There are many challenges while working with large teams like:
+
+Breaking silos/departments in large organizations
+Requirements focused on changes in enterprise architecture
+Ability to work on highest business value features for program portfolio instead of for a project
+Eliminate waste and reduce cycle time for the whole value chain
+..and more
+
+They can be mitigated by seeing scrum as organization design framework and using lean principles. In this session Shrikant will share his thoughts on how Scaled Agile Framework (SAFe) is used to solve this problem. We will take references from Spotify Scaling Case Study, SAFe and personal experiences.
+Date: Feb 19th, 3:00 – 4:00 PM IST
+Register Now!

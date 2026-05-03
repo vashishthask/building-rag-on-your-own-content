@@ -1,0 +1,47 @@
+TITLE: How to do Story Point Sizing with Planning Poker?
+URL: https://www.agilebuddha.in/agile/how-to-do-story-point-sizing-with-planning-poker/
+---
+
+Story point estimation is all about relative sizing. In order to compare the amount of work of one story to another, we need to identify a base story in order to define the base story point size.
+It will be important to know that story points follow fibonacci series and have 0, ½, 1, 2, 3, 5, 8, 20, 40, 100 numbers. So when we talk about a base story, we essentially are talking about a one story point story.
+A Base User Story
+A base user story is the smallest possible piece of work that delivers business value to the user.
+As an example – a team may decide that on a search screen, adding one additional field may be the smallest piece of work for them.
+
+That additional field may in turn require some changes in the existing UI, some changes in an existing Service to get that field from a database, and a DAO may already have that field with it. Apart from these changes in code, the team may need to do some testing around it. This team considers it a 1 pointer story.
+Sometimes, the team may still feel that there can be a smaller one compared to what they have right now, in future. In such a case, they can still consider this story as a baseline but can term it as 2 pointer or a 3 pointer story.
+Planning Poker
+Story point sizing estimation in general is done through planning poker. This game is played among all team members.
+Every team member gets poker cards with fibonacci numbers (0, ½, 1, 2, 3, 5, 8, 13, 20, 40, 100).
+
+Acceptance Criteria and Specification with Examples
+Before a team plays planning poker, the team has a conversation around the readiness of a story. In this conversation, the team discusses the user story along with its acceptance criteria and ensures that there are no unanswered questions remaining that would stop them from working on that card, be dev, test or whatever.
+
+When it comes to acceptance criteria, human brains are generally not that great at understanding abstractions when first exposed to them, but they’re really good at understanding concepts with enough concrete examples.
+The more examples we are given, the more likely we are to correctly understand the intended meaning. So it makes a lot of sense to collaboratively discuss as a team the specifications (acceptance criteria) with examples.
+Here’s an example of a user story along with specifications with examples
+User story: Customer who buys three books gets free shipping
+And here are acceptance scenarios with example for this story. If I buy 2 books, I don’t get free shipping. Another scenario with example – if I buy 3 books, I get free shipping.
+
+As any Scrum team is a cross-functional team, people bring varied perspectives during this conversation.
+In turn these perspectives help in discovering the missing specifications with the help of relevant examples.
+This whole conversation helps in coming out with a better shared understanding around the user-story.
+As and when the team-members are fine with their understanding of the user story, they are ready to play Poker.
+Playing Planning Poker
+Planning Poker is all about comparing the relative size of a user story with respect to a baseline story, i.e. let’s find out if the amount of work involved in the story is similar to baseline story, or is twice, thrice or 5 times… compared to the baseline.
+This understanding of the amount of work involved happens based on what needs to be done to implement the story, and based on its complexity, uncertainty and risk.
+If team members are not clear on the how part of the user story, someone having a better understanding about it, explains it to the rest of the team members. In process if required, she may browse through the code-base as well to make things clearer.
+As and when people are clear around the amount of work involved, they are ready to play the planning poker.
+In planning poker, the facilitator asks team members to select one of the fibonacci numbers from the poker cards and keep it with them till she says “show”.
+The idea is to avoid influencing the team-members in this way. The team-members also should avoid saying something like, “Ah. This one is easier and should be a 3 pointer”, as it again influences other team members.
+When a facilitator asks the team to show the cards, everyone together show their cards.
+If everyone has the same number, that becomes the size of the card. Otherwise, the facilitator asks the team-members with the highest and the lowest numbers to explain their reasons on why they have high and low numbers.
+These team-members then explain their reasons. Rest of the team-members can ask them questions as they explain. As this conversation on their reasons get over, the facilitator may ask to play the poker again for the same user-story and help the team to move to a consensus around story point.
+As you see all this conversation is not about the amount of time involved but around the work involved. There is no reason to have conflict when the discussion is all about the work involved  as mentioned in the earlier post.
+It may happen, people come to the consensus as they play the poker for second time for that card.
+In case they still have different numbers, the facilitator negotiates with the odd-one out to come to a consensus with the rest of the team members if possible.
+Just to make sure, the whole idea is NOT about the correctness of the estimate but  about the shared understanding among team members.
+The estimate is anyways an educated guess and slight differences should not cause a concern.
+This way the card gets sized to a story point and the team moves to the next card.
+More on Story Points and Agile Estimation
+📖 If this series sparked your curiosity, you’ll love my book Agile Estimation Distilled — everything about Agile estimation in one place.

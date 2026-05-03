@@ -1,0 +1,9 @@
+TITLE: 100 Practices to Form Your Dream Scrum Team
+URL: https://www.agilebuddha.in/agile/scrum-team-best-practices/
+---
+
+Today I would like to share few practices that I have seen working wonders to teams following scrum. Not all the practices are followed by all the scrum teams. But by and large you see highly successful teams has many of them from this list.
+Below is a mind map which you can download to see in it a bigger view or click zoom after you click on the image to see larger view.
+I would like to hear from all of you regarding what else you would like to add to this list or modify any of them. Depending upon your feedback I will update this diagram and share updated version of this for everyone to use.
+On purpose, I have not included XP practices just to keep focus only on Scrum.
+What practices you would like to see or have experienced in your dream scrum team? Please write to me in the comments section.

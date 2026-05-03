@@ -1,0 +1,21 @@
+TITLE: Agile Thinking : How Can I Help You ?
+URL: https://www.agilebuddha.in/agile/agile-thinking-how-can-i-help-you/
+---
+
+One of the key values of Agile is its focus on delivering working software or solution. This approach is the key catalyst of some behavioural, cultural, and structural changes.
+The team members contribute to delivering working solution but their individual goals on their own don’t help the user much. For instance, just the UI part of a user-story is of no use to a user. If developers just focus on building the solution but not on the quality aspect, again it doesn’t result into product ready increment.
+Essentially cross-functional team members have to collaborate and help each other to deliver the Sprint goal.
+
+One of the key team values that resonates time and again whenever we talk about teams and collaboration is, “How can I help you?” In other words, how can I help you finish your (or our, to be precise) task or user-story? Asking how you can help your teammates is one of the most important unwritten guidelines for an Agile team, which is why, as an Agile coach, I want it to be prominently displayed in the team area. It should be promoted as the most important component of a team’s DNA.
+How does it work in practice?
+Below are some examples:
+
+Taking the time to fix a build that is preventing the whole team from using Continuous Integration before working on your own task
+Pairing up with your colleague to help fix something that is blocking him/her
+Instead of taking up a new user-story from the board, taking up one of the remaining tasks of the existing user-story so that it reaches the tester faster and therefore moves to the DONE column quickly.
+
+Looks interesting and doable, doesn’t it? It pays rich dividends in attaining Sprint goals, as well. However, Agile is a cultural change and therefore requires a change in mindset. Any kind of cultural shift is tough and not easy to implement. For instance, even though most Agile teams know that collaboration and helping each other is the “soul” of the Agile method, in reality most teams continue to work in silos because of many reasons.
+One important factor in making these behavioural changes effective has to do with executive support. If the management team doesn’t embrace the collaborative approach, teams will continue to work in silos. For instance, without making fundamental changes in the way management defines individual KPIs, taking a collaborative approach may backfire on the team.
+I recently met someone at an Agile conference who shared just this type of experience. He said, “I worked as a tester in an Agile team at my previous organization. As a team, we were collaborating together. We did dev-box testing (i.e., identifying issues on a developer’s machine itself before committing). I used to sit with developers to define acceptance criteria and test cases. All those things helped us in delivering great software applications with minimal bugs. However, when the time came for performance appraisals, my boss told me that I didn’t do my work well because I didn’t find enough bugs as part of testing.”
+So although this tester’s team embraced the idea of a collaborative way of working, his organization still continued to focus on individual performances, which obviously doesn’t work.
+The philosophy of “how can I help you?” is immensely important for the success of any Agile project. As it becomes a fundamental element of team collaboration, it requires management support as well.

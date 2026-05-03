@@ -1,0 +1,11 @@
+TITLE: Product Owner Role in Sprint Review(Sprint Demo)
+URL: https://www.agilebuddha.in/agile/product-owner-role-in-sprint-demo/
+---
+
+Sprint Review meeting facilitates developing a successful product. Hence it is a very good avenue for scrum team to directly interact with stakeholder to get their perspective. Product Owner(PO) who is responsible for overall product should facilitate having all the stakeholders like Marketing, Sales, Senior management, End Users to the demo.
+In my last post  where-in I discussed about Product Owner responsibility of Accepting or Rejecting user stories as and when it gets DONE. Only accepted stories will go to Sprint Demo. Product Owner kicks-off Sprint review meeting where-in he compares product increment(accepted stories) with current sprint goal to the stakeholders. 
+
+For PO to be confident on this, he should get involved early in the sprint and should run few tests himself on new features developed. He will accept stories which are DONE as per “definition of done” defined by Scrum team and only if user story satisfies all the acceptance criteria.
+PO should never accept any partially done stories. They earn zero points to the team and are put back into the Product Backlog. Carrying forward partially done stories give a false impression of done and will distort Release burn-down chart. 
+
+In fact, Release burndown chart shown above is an ideal chart to present to all the stakeholders. PO and team as a whole do status check as per release calendar and evaluate any risks they foresee. Once demo is done, PO along with team take feedback from different stakeholders. Product Owner should always give very honest and constructive feedback to the team with due respect to all the scrum team members.

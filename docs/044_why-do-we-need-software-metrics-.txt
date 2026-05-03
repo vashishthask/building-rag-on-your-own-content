@@ -1,0 +1,12 @@
+TITLE: Why do We Need Software Metrics?
+URL: https://www.agilebuddha.in/software-metrics/why-do-we-need-software-metrics/
+---
+
+Humans mostly have a tendency to go by their gut feeling. At the same time, machines mostly don’t tell a lie as their only job is to emit the necessary information.
+That’s the reason people like me are scared of weighing machine as that could break the myth of my handsomeness 🙂 . Your family may be insisting you to go for full body health check up, but many fear from them as well.
+Those tests will transparently tell you if anything et-all is wrong with your health. If yes, you may take corrective actions. Many people don’t go for them as they don’t want to hear bad news about their health.
+You see, truth many times is beyond perceptions and feelings. Something mechanically or electronically measured is beyond feelings and is sheer truth.
+Like a health checkup, software projects should also be checked for the performance of their vital organs (parameters). So that if something is wrong, that could be fixed.
+Now someone may misinterpret the first Agile Manifesto tenet “Individual and Interactions OVER Process and Tools” in form of “Individual and interactions INSTEAD OF  process and tools” and say, “Hey! We are doing Agile. So we don’t need Metrics. That’s so old age!”.
+However truth can’t be fictionalized as has been proven in many Lean Startup experiments. Without facts, there can’t be any validated learning. Without validated learning, you never know whether your MVP is good or not.
+In software development as well, one needs facts to validate the vital parameters of project delivery.

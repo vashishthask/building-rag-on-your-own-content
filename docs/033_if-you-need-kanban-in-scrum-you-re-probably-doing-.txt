@@ -1,0 +1,29 @@
+TITLE: If You Need Kanban in Scrum, You’re Probably Doing it All Wrong!!!
+URL: https://www.agilebuddha.in/agile/if-you-need-kanban-in-scrum-youre-probably-doing-it-all-wrong/
+---
+
+The original idea of Scrum came from a 1986 HBR article “The New New Product Development Game“, written by Hirotaka Takeuchi and Ikujiro Nonaka. The teams at Honda and elsewhere reminded Takeuchi and Nonaka of the game of rugby and they called this style of project management “Scrum,” a short form of the term “scrummage” where the game is restarted when the ball has gone out of play.
+So what’s so significant about rugby scrum?
+In rugby scrum, the ball gets passed within the team as it moves as a unit up the field.
+Scrum is all about everyone doing everything all the time. It’s an important point to remember as otherwise, Scrum becomes yet another framework with 5 events, 3 roles, and 3 artifacts.
+The foundation of Scrum encourages one-piece continuous flow.
+So in a Collaborative Daily Scrum, instead of answering 3 daily Scrum questions, a team looks at the Scrum board and plans on how to swarm or mob to finish the top PBI (Product Backlog Item) on the board.
+It may happen, depending upon the tasks identified for a PBI, 3-4 people decide to swarm and finish it. And then the rest of the team picks the next PBI.
+Daily Scrum is a sprint planning in small. You replan the sprint every day.
+If a team is working like this, there should be couple of stories (depending upon size) in progress at any point in time.
+So you see, if a team decides to swarm or mob, one doesn’t require to set explicit WIP limits anymore. The disciplinary act of stopping at numerical WIP limits is not required as that becomes part of the system.
+The team focuses on finishing existing PBIs before picking anything new.
+As we discuss the key idea of collaboration (swarming or mobbing) here, it’s important to understand that the idea of “swim-lane Scrum” (each team member individually taking ownership of a PBI through the stages of the process) doesn’t really work. It blocks the delivery pipeline as any PBI a tester may work on comes after a few days, a week or so.
+At that point in time, a tester may get multiple stories to test at once and may become the bottleneck. That kind of scenario is not the ideal state of flow but is more like a Scrumfall in which work arrives in a batch after a period of time.
+Kanban Mythbusters Series
+There are other posts on Kanban Mythbusters series which you may find interesting
+
+Kanban Mythbusters: Limiting WIP is NOT the Goal
+Kanban Mythbusters: When to Use Scrum and When to Use Kanban?
+
+References
+
+An Alternative to Kanban: One-Piece Continuous Flow
+Takeuchi and Nonaka: The Roots of Scrum
+The New New Product Development Game
+One Piece Continuous Flow

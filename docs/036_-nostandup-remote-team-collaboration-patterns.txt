@@ -1,0 +1,25 @@
+TITLE: #NoStandup – Remote Team Collaboration Patterns
+URL: https://www.agilebuddha.in/agile/nostandup-remote-team-collaboration-patterns/
+---
+
+What happens when each team-member of your team works from a remote location (possibly from a different time-zone and country).
+How do you sync-up in such a team?
+
+Immediate idea which springs up in mind is to come up with a commonly agreed upon overlap time for sync-up.
+However this may not work for teams with developers from diverse time zones.
+For some well-functioning teams, stand-up becomes waste as either standup provides the information you already know or you need to talk offline anyways.
+Also as people pair-up and pass-on the baton quite often, stand-ups become waste.
+Question: How does #NoStandup work for a completely remote team?
+Answer: Some teams use checking-in and checking-out as the replacement of standup. Sample here:
+
+If you come to the room, you type “It’s me checkin in. I am ready to get to the work.” With that, someone already working asks for pairing up. If not, you pick a task and start working (explain, what exactly are you going to do) and wait for another pair.
+At the end of the day, you explain what exactly you did or accomplished? This way, people know that you are there and you are working and focusing on something
+
+Question: Interesting. How does the information exchange happen in the absence of daily Scrum?
+Answer: Information exchange happens through asynchronous handover of the information through Slack or similar tool.
+Question: Daily Scrum helps in assessing where we are in the sprint on daily basis. How does that work in this case?
+Answer: Mature remote teams have short (weekly) sprints. So even if you slip, slippage is not that much as feedback cycle is very short.
+About this Post
+StarterSquad created an online platform Squads which helps you hire completely functional (deliver working functional slices from week 1) and mature remote teams to build your awesome startup idea.
+Some StarterSquad project teams have team members working from 7–8 different time-zones.
+StarterSquad evolved its minimal set of remote Agile practices which work great for their teams. This post is based on a conversation with StarterSquad’s founder Iwein Fuld

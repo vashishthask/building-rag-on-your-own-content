@@ -1,0 +1,31 @@
+TITLE: Drive Innovation By Creating Communities of Practice
+URL: https://www.agilebuddha.in/agile/drive-innovation-by-creating-communities-of-practice/
+---
+
+In my last post, I discussed about sustainable pace and how nation and organisation culture comes in its way. One of the issues often found is people on scrum teams being too focussed and busy on the projects and having no time for their own research, self-study, upgrading themselves on new things etc.  This leads to lesser learnings from outside world and limits the growth of people.
+
+[pullquote]
+don’t be afraid to fail.
+be afraid not to try.
+[/pullquote]
+Introducing or rather planning slack time on the team gives free time for people to work on their pet projects. Different organisations have done it differently, like:
+
+Giving a break between sprints
+Following 80/20 principle, 20% free time for people to think and work on their interest
+One free day in a month
+Having a small time reserved every sprint
+
+Every company looks for innovation in whatever business they are doing. But what really differentiates innovators from the rest is the freedom given to people to explore on their own, make mistakes and allowing people to learn from it.  Not many companies have culture that supports making mistakes as part of learning. Hence they suffer from differentiating themselves. Lack of trust between managers and people on how team will use this free time comes in the way of introducing slack time and hence innovation. Maturity and mindset of managers and teams needs to change.
+Connecting people with their passion is a must for innovation to take roots. I feel we as leaders, managers our job is best done when we facilitate this.
+[pullquote]
+when you want somethings
+you’ve never had,
+you have to do something
+you’ve never done.
+[/pullquote]
+How Do We Create This Culture?
+Introducing free time is hard to sell with our managers. But there is one practice that is understood by everyone is community of practice. Read this beautiful article by Mike Cohn on Communities Of Practice(COP) and how it can be introduced into the company.
+COP is about allowing people to self-organise around common interest/common passion.  Say a person is interested in exploring more on data science, or front-end frameworks then he will call for a community and drives this with some goals. This allows interested people to sign-up and then work together and present their learnings to the organisation and community. It is a powerful way to enable learning.
+Such COP might exist in your company in unrecognised and invisible way. Making it formal and giving visibility will excite others to sign-up or to start something new on their own. Such communities presenting new ideas, bringing new innovations and new learning to their solution/projects is highly appreciated by managers. Once such communities become more alive, it is easy to convince the managers on their benefits. Also, managers feel they are investing in people/learning and hence it gets buy-in too. Today, every company has a core value around people, you need to know how to sell this 🙂
+If you are very busy with your projects or sometimes you don’t get time to work on your passion as it does not contribute to your current project directly, then forming a COP  will help in pursuing your passion and if you can connect the benefits at the project/organisation level then you get what you need – buy-in from your managers and to pursue your passion.
+Have you tried this in your organisation? If yes, community would be eager to hear your stories.

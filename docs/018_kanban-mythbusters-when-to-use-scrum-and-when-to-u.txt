@@ -1,0 +1,66 @@
+TITLE: Kanban Mythbusters: When to Use Scrum and When to Use Kanban?
+URL: https://www.agilebuddha.in/kanban/kanban-mythbusters-when-to-use-scrum-and-when-to-use-kanban/
+---
+
+Kanban comes with the least prescriptions but then you find lots of fake implementations in practice.
+Lots of times, people move to Kanban from Scrum just for the convenience.
+It’s far easier to live with a process model with no time constraint, no pressure to improve continuously. Also some people get away with a Kanban board with no WIP limits. Even if they put WIP limits in place, you see no discipline in maintaining WIP limits or changing them when required.
+Scrum is a Shu or Ha (Shu-Ha-Ri) kind of framework which can be immediately used by beginners. It has valid prescriptions to start with. It’s evident that the process model with the least prescriptions (Kanban) requires more discipline and should be in Ha or Ri category.
+When to Use Scrum?
+Scrum is useful when a cross-functional team works together within a timebox (sprint) towards a sprint goal. It doesn’t work when you don’t know on what item you’ll be working next and sprint can’t be planned.
+
+Scrum requires planning at the beginning of a sprint and a team identifies a sprint goal as an outcome of sprint planning.
+The team may deploy and release product increment multiple times in a sprint to production.
+Good Scrum practice focuses to work on a single PBI (Product Backlog Item) at a time, to manage work in progress.
+
+As the team works as a unit, it eliminates the problem of waiting for work items to arrive from another development stage (e.g. coding).
+When to Use Kanban in Software Development?
+I see following valid scenarios of using Kanban. For everything else Scrum is a better choice.
+
+Kanban is useful when the work backlog keeps changing, e.g. for maintenance or for service scenarios, e.g. support helpdesk, HR, sales etc.
+Second scenario is when time-box becomes the constraint or when FIFO (first in first out) is required.These are cases in which you don’t want to plan for 2 weeks, e.g. continuous deployment scenario.It’s another matter that in such cases as well, I don’t see the need of Kanban and it will be a topic of a separate post.
+
+Other than the above cases I observed many fake Kanban implementation scenarios. Here are some of them.
+Fake Kanban Scenario 1
+In one of the distributed project, people asked to move towards Kanban because of a simple reason that the customer was not sure what to build.
+
+The customer was introducing changes in the middle of a sprint frequently. On top of that, the requirements were not clear or not ready.
+Sometimes the team didn’t have a backlog.
+To handle these issues, the team thought of moving towards Kanban as the team thought that Kanban allows dynamic requirements.
+Also as team didn’t implement any Kanban feedback loop, there was no pressure to show any outcome.
+But then you see that this whole thing is not supposed to help anybody.
+The root problem was – not enough thought process applied to create the product backlog. The fake Kanban implementation with no feedback loop does not solve such problems but may rather hide them.
+One of the better choices could have been to collect the data around delays and rework, present the same in front of the customer to showcase how the money was getting wasted.
+Fake Kanban Scenario 2
+In a team distributed across multiple geographies, the problem statement was that they were not able to complete their sprint in time (within 2 weeks).
+
+The org was using a consistent cadence of 2 weeks for all teams. So as 2 weeks of time-box didn’t work for the team, they moved to the convenient option Kanban.
+Sprints couldn’t get completed because of the distributed overheads. For instance, the code review itself used to take multiple days as someone from the US had to do it.
+The tester was working from Hong Kong and developers were from India. Because of the time-zone differences, whole development was taking a lot more time than could be possible with a team with more overlap time.
+All these delays were causing stories to overflow to next sprint.
+Instead of choosing convenience in form of Kanban, they could instead focus on the root problem and could solve it through the following options:
+
+Break large stories into smaller stories
+Work on a single story at a time and swarm on it
+Extend the sprint length
+They could increase the overlap among distributed teams which could have provided better collaboration window between US and India.
+The code review could be completed as a pair synchronously instead of asynchronously
+The testing could be done by someone collocated with developers.
+
+Fake Kanban Scenario 3
+This team is using Scrum. They have lots of stories in “In Progress” for a long time but nothing moves to “Done” quickly. In such cases people resort to put WIP limits to “In Progress” columns.
+A dysfunctional burndown chart
+In most of such cases, it happens because of a dysfunction called “swim-lane Scrum”. Each team member individually takes ownership of a PBI through the stages of the process. That way if a team has 3 developers, 3 separate PBIs will be in progress.
+That’s not Scrum anyways. Good Scrum practice follows The Toyota Way by instead focusing on a single PBI at a time, building on the team’s intelligence and self-organization — rather than a method — to manage work in progress. There are no longstanding subteams in a Scrum team: the Developers work together as a unit.
+More on it has been discussed here.
+Conclusion
+The whole point of Lean is –  you ARE NOT monitoring the workers, you are monitoring the progress of work through the system. When the work is blocked, you intercede.
+When people use Kanban to monitor the workers or have silos in the workflow steps, you know it’s a fake implementation.
+Kanban in my view requires a lot of discipline and rigor to make flow work. As Kanban doesn’t come equipped with a way to make lack-of-discipline visible formally (like sprint review in Scrum after every time box), the true picture may not be visible to stakeholders in time.
+The problem is the system (kanban in this case) doesn’t make the true picture visible.
+It works great if people pay adequate attention it requires. Otherwise, it becomes a crutch for those who don’t even want to limit WIP in their workflow.
+Kanban Mythbusters Series
+There are other posts on Kanban Mythbusters series which you may find interesting
+
+If You Need Kanban in Scrum, You’re Probably Doing it All Wrong!!!
+Kanban Mythbusters: Limiting WIP is NOT the Goal

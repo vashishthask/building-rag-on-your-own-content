@@ -1,0 +1,6 @@
+TITLE: Continuous Inspection Session on YouTube
+URL: https://www.agilebuddha.in/agile/continuous-inspection-session-on-youtube/
+---
+
+Last month I did a session on “Continuous Inspection – How to define, measure and continuously improve code quality?” in DiscussAgile conference.
+The session is available on Youtube now. Enjoy and feel free to ask questions related to the subject.

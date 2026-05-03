@@ -1,0 +1,19 @@
+TITLE: Agile Thinking : Stop Starting, Start Finishing
+URL: https://www.agilebuddha.in/agile/agile-thinking-stop-starting-start-finishing/
+---
+
+Limiting “Work in Process” (WIP) items is one of key ideas of Kanban. A natural outcome of it, inherently coming from Lean philosophy is to stop starting and start finishing.
+By having too many work in process items, it looks like everybody is busy but there is no functional outcome for the end user. So, instead, it’s important to work towards completing the user-story.
+From the outset it looks like, “Stop starting, start finishing” philosophy is limited to Lean and Kanban world. Scrum world is either doing it well or doesn’t need it. Right?
+Wrong!!!
+
+Let’s take a look at a typical Scrum standup.
+
+The context here is of a project in which there are around 9-10 members. At the beginning of the sprint, team does the subtasking of each user-story. The idea is – at any point of time, any team-member could pick up on any subtask and start working.
+In a regular standup, every team member comes up with “What he did yesterday, what’s he going to do today and any impediments”. Everybody takes the turn and standup is over. Really?
+Is that the only goal of a standup? Though everybody looks like working on individual tasks, do we get to know if we are completing a user-story? It’s really important to assess how as a team we could collaborate or help each other in moving a user-story out of the window.
+You may say, “Hmm. Interesting but who cares as the end-user is going to put his hands on finished features only after the sprint gets over”. Looks okay on the surface but doesn’t sound right if we go a little deeper.
+Testers in many Agile teams bear the brunt as they receive the user-stories for testing at the very end of sprint. If team focuses on how to finish user-story early collaboratively, it may reach in testers hands early and they have more time to test.
+This principle also encourages team-work. For instance, as a developer, even though I know I could better help the other guy in finishing the work, I might not, as I am focused towards finishing MY OWN task. With this principle in place, as team is focused towards finishing the user-story, I may better come forward and help.
+And yes, it has another parallel with Scrum as well. “The primary measure of progress” as per Scrum burndown/burnup chart is “how much remaining or how much completed and NOT how much started”.
+So in a Scrum standup, it’s important to look at user-stories overall and see how to close them as early as possible. That could happen with a discussion as part of standup or by placing WIP limits with each workflow as it happens in Kanban.

@@ -1,0 +1,10 @@
+TITLE: Agile is Not Ad hoc
+URL: https://www.agilebuddha.in/agile/agile-is-not-ad-hoc/
+---
+
+Recently, I was asked to attend a leadership meeting in a company. They had representations from different business units and groups. When we hit the topic of agility within the organisation, one of the directors immediately jumped into the conversation and said his projects are very agile in nature. That made me curious and I asked him what do you mean by that. He said,
+My team take change requests everyday, we don’t do any documentation, we re-plan almost everyday to tune to new requirements from the clients and on…..
+
+Guys, this is not agile. This is Ad-hoc. People take agility as an excuse for absolutely no planning, no roadmap, cowboy coding, and NO discipline. But rather you need immense discipline, good decision makers/negotiators in triaging new requests if clients are changing their decisions frequently and very strong product owners and yet not loosing focus on business value.
+
+Next week, on July 24th, I plan to do a webinar on how we can handle different emergencies within a team, still keeping the required agility to maximise business value. I’m going to share few approaches that we can take, what has worked from my past projects and heard from other people experiences.

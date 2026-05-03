@@ -1,0 +1,32 @@
+TITLE: Agile Contracting: Discovery, Fixed Budget, Variable Scope
+URL: https://www.agilebuddha.in/agile/agile-contracting-discovery-fixed-budget-variable-scope/
+---
+
+We discussed about committing fixed number of story points and swapping any additional scope with existing backlog in our previous post “Agile for Fixed Bid Projects“. This is a great way to maximize value with minimal change in timelines and budget. This works well when there is a trust existing between product and engineering, and client/product team understands this agile approach. Still, fixing size, undermines one major aspect of an agile team – “applying learning back into the project”. Development teams while doing size estimation give higher points where there are uncertainties and risks.  Known unknowns, new technology, unclear requirements etc. are few reasons for providing higher story points. As project progresses, teams get more knowledgeable (both technology and business) and hence some tasks now look smaller than before.
+
+Recently, a team estimated the backlog to be around 250 points for beta release. But as soon as they finished two sprints team realized that some of the stories in the backlog are of lesser size than estimated. Hence team went ahead and re-estimated some of them which brought backlog size to 220+ points. Here, if team had a fixed size contract of 250 points, then they would be discouraged from saying that rest of the backlog is lesser than earlier. This refutes one of the values of a scrum team – Honesty and transparency. By doing so, team here built great level of trust with the client.
+So then how do we solve this agile contract thingy? How do we execute in an agile manner when there is less trust between product(read client in services) and engineering?
+It is tough for new client or in-fact even clients with decent agile knowledge to sign a contract based on story points. Many of them feel it is random number which can be gamed. We all know that only language every business owner understands is MONEY. How about then fixing a budget and keeping scope(size) variable? So this means you have tentative understanding of how many points you can approximately achieve but it can change keeping budget fixed. Budget is fixed by fixing team capacity which is the biggest variable.
+This means, we have to tweak the approach to team based staffing model. A quick list of steps to arrive at the budget:
+
+Define the product backlog
+Estimate the size(I prefer cone sizing to arrive at quick estimates over poker at project start or during proposal stage).
+Identify a team(Dev, QA, Designer, BA etc) and team size – team based staffing model
+Forecast a velocity by team mocking sprint execution(do at-least for first 2 sprints)
+Plan the number of sprints needed with this average velocity to meet the product backlog size.
+With this fixed team size and with number of sprints,  you can calculate the budget
+
+Example: So a backlog size of 250 points, with average forecasted velocity from step 4 coming to say 25 points, then we need 10 sprints with a team size of 7 people assuming a fixed sprint duration, say, 2 weeks. Now fix a budget as per your billing rate and propose this budget to the client. Team and client can now work within this budget to deliver high priority features. I prefer now or later prioritization approach here.
+It is a major mind-set shift for clients to move away from Fixed price, Fixed scope and almost fixed time kind of engagements where only variable was quality 🙂
+Throwing a random number on a long requirements document in short time, eventually leads to lot of overtime, low morale, scope mis-understanding and what not. These kind of engagements call for sweat and blood project management and execution. Projects starts to bleed in such contracts. Companies who value this are saying NO to those clients where you have to throw a fixed number on a 200 page requirements document in short time. This is the biggest bane of the services sector – committing numbers when you know least about the project. Foot-in-the-door thinking is other reason why many companies can’t say NO the clients even if they know it is risky to provide numbers so early.
+Can we do discovery first?
+Go for discovery workshop rather than committing numbers upfront discourages vendor selection just based on costing. Asking clients to enter into a discovery phase with them for 1-2 weeks to understand business problem very well, to brainstorm solutions together, and to come-up with a more clear understanding of the system which guides in providing confident estimates makes sense. This also gives the client a first taste of the company, their working model, culture and lot more. Also this is a good time to take client through this team based staffing with variable scope and fixed budget(a narrow range).
+Creating a good team which focusses on maximizing value is what Agile organizations look for. Then our contract model should reflect this thinking too. Exploring multiple contracts incrementally with the same client is a good idea too.
+
+First contract –  Only discovery phase. Expected outcome is ordered, sized product backlog with supporting artifacts. Then,
+Second contract –  A fixed price and scope contract just for couple of sprints. This gives a peek into agile way of working, sprint model, team culture etc. This is great place to build trust provided teams does good delivery and work as thought partners with the client. Then,
+Third Contract – Fixed budget + variable scope, which we discussed above, for rest of the project.
+
+Early client education is key. Convincing clients to go for a discovery workshop is the need and hence your sales team must have deep knowledge about agile too.
+More on Story Points and Agile Estimation
+This post is a part of a blog post series on story points and agile estimation. To read rest of the posts on the subject, please navigate to All About Story Points and Agile Estimation Series.

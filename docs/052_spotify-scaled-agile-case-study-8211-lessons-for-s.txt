@@ -1,0 +1,30 @@
+TITLE: Spotify Scaled Agile Case-Study &#8211; Lessons For Smaller Teams
+URL: https://www.agilebuddha.in/agile/spotify-scaled-agile-case-study-lessons-for-smaller-teams/
+---
+
+A while back, Henrik Kniberg published an excellent case study on Scaling Agile @ Spotify. Though case study is specific to Agile scaling experiences at Spotify, some practices are equally important for smaller teams as well. This post tries to capture the essence from smaller team’s perspective.
+Break Silos
+A lot of organizations still works in functional silos.
+For instance, in a bank, there may be one team for web banking, another team for home-loans and yet another one for mainframe based core-banking. Business features however in general cut across all these teams.
+
+In above picture, in order to complete feature FA , Team 1 to 3 take the related feature slices into their backlogs. Product owners of related teams drive the prioritization of these backlog items.
+As a result though Team 1 finishes its part of FA, it doesn’t implicitly mean that Team 2 or 3 to finish their part as well with similar priority. Multiple hand-offs translate into waste (delay). The feature may transcend to multiple sprints or releases just because of additional delay.
+Another important question which remains in no-man’s-land – who is responsible for end to end testing?
+Introduce Feature Team
+Compare above scenario to be implemented with a feature team consisting team members from each individual functional teams. As priorities and goals for all team member are same (finishing FA), hand-offs and the resultant delay gets reduced and the same feature gets delivered early.
+Silos introduce dependencies, delay and complexity. The idea of having a feature driven cross-functional team (the idea of Spotify Squad) provides the desired solution. Together as a team, their only focus is feature completion which gets delivered faster because of absence of any delay.
+Community of Interest for Knowledge Sharing
+Cross functional teams are good. However if individual component (say web banking) members are scattered among multiple cross-functional teams and working on the same component code-base at the same time, how to coordinate the following:
+
+Component architectural sanctity
+Discuss the problems faced or design evolution with other component-mates
+Innovation and knowledge sharing on the component
+
+First two points can be handled with component based daily standup. In Spotify, this component structure and related activities are handled in Chapter or Guild structures.
+Third point can be handled in form of Community of Interest (COI) concept where Chapter ( your small family of people having similar skills and working within the same general competency area) members present new ideas and share their challenges with other Chapter members
+This COI concept can be used in organizations with smaller teams as well.
+Development vs Operations Relationship
+One of the main bottlenecks in Continuous Delivery is the hand-off between Development team to Operations. In many organizations Operations team focus on making the release for the development team and make infrastructure changes based on the inputs coming from Release document.
+At Spotify the main job of Operations team is to give the Squads the support they need to release code themselves; support in the form of infrastructure, scripts, and routines. So that’s a real empowerment, helping in removing the knowledge and capacity bottleneck, focused towards delivering faster release. Operations team are, in a sense, “building the road to production”.
+Conclusion
+As Spotify team is getting larger and larger, by definition its case-study looks relevant to Scaled Agile audience. However as you can see some of the ideas like – how to remove the dependencies between multiple functional areas by building cross-functional team, cross team collaboration, Community of Interest concept can be implemented in smaller teams and organizations as well.

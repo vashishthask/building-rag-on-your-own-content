@@ -1,0 +1,16 @@
+TITLE: Dev Box Testing : Reduce Your Bug Life Cycle
+URL: https://www.agilebuddha.in/agile-testing/dev-box-testing/
+---
+
+The idea of dev-box testing is simple but very effective. Let’s take an example of a development cycle:
+
+Developer implements the functionality along with unit and integration tests and when she’s satisfied she commits the source code in the source code repository like svn or git.
+Continuous Integration (CI) gets triggered by source code commit and CI tool like Jenkins performs the automated build which results in code compilation and execution of the test cases (unit, integration and automated functional tests).
+After multiple builds when developer thinks that functionality is ready for functional testing, she asks the tester to take a specific build and test.
+Tester starts testing. If tester finds bugs in the functionality, she informs the developer about the problem and developer again begins from step 1.
+If everything is good, tester moves the user-story into DONE state.
+
+Working through step 1-3 takes a lot of time and if testers has to move the story again in development, it results in a lot of time-waste and frustration.
+How about this?
+
+As developer sees everything working on his machine, he asks tester to test the functionality on his machine. While testing on dev-machine if everything works, only then developer commits the code which eventually triggers the build and auto-deployment. On the committed code available in testing environment tester performs further exploratory tests. Otherwise developer continue to fix the issues on his machine. This way, a lot of valuable time is saved.

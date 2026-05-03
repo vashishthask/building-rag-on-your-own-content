@@ -1,0 +1,46 @@
+TITLE: Overcoming Cultural Differences in Distributed Agile Teams – A Case Study
+URL: https://www.agilebuddha.in/agile/overcoming-cultural-differences-in-distributed-teams-a-case-study/
+---
+
+Recently I had a discussion with one of my dutch friends who has a company based in India. He mentioned that sometimes it gets very difficult to understand and handle cultural issues with his Indian colleagues. Issues which he mentioned are not new and people from western countries interacting Indian teams must be very well aware of what I’ll mention here. Some examples:
+
+One person speaking on behalf of the entire team and other people either keep silent or just reply in terms of yes and no
+Always saying yes to everything even though even customer may already be aware that the task may be difficult to achieve.
+
+As you investigate further, these instances are very common in the team coming from hierarchy centric cultures where only senior and so-called senior people have a say, while the rest just follow what’s asked them to do.
+
+It becomes very difficult to get around such cultural traits. Instead, as a customer, one has to get ready with receiving bad news at the very last moment saying the task in question couldn’t be completed.
+You may have troubling questions in your mind but maybe without proper answers, e.g. :
+
+Why it’s almost no problem for team-members to come late in meetings
+How to get around with “chalta hai” (“Chalta Hai” literally means, it is fine, should be ok, in the context of where it works. This is also used in many inappropriate places, like subsidizing quality of products/output, which is very wrong.) culture
+Why the hell everyone keeps mum before it’s too late?
+
+As I am part of a similar culture, these questions have been posed to me several times and surprisingly the solution may line in making changes in the organization culture instead of changing personal habits.
+Consciously or unconsciously, organizations extend regional culture. So even if everybody understands that things mentioned above are not good for business, the regional habits continue to extend in an organization as well.
+There are few organizations which consciously have tried to address them as part of their organisational DNA. I was fortunate to be part of one such organization. Through this post, I am sharing my experience in the way it worked.
+Moving Away from Senior Junior Culture
+In all its teams, freshers (fresh developers out of college) or junior developers were part of almost every conversation. Instead of one person being the speaker on behalf of the entire team, every individual (doesn’t matter junior or senior) used to speak on their own, be it in daily distributed Scrums or any other meetings which involved the customer.
+Irrespective of their seniority or designation, everyone was a team-member in a team, which was quite surprising for a hierarchical culture and was a  cultural shock for new entrants.
+Team-members doing pair-programming irrespective of their seniority or hierarchy on a regular basis was a common sight.
+Teams never struggled in doing the daily Scrum meetings etc in the absence of the Scrum Master as teams used to self-organize. That’s not so common in hierarchy based organizations.
+Public speaking becomes a common sight in such organization culture for any Agile teams as part of daily updates, team-meetings, demo and biweekly mandatory technical meet-ups etc.
+Anybody and everybody could take any initiative, technical or non-technical which could be in the interest of the organization or colleagues as long as people showed interest in them. That was a far cry from an organizational culture where almost every such step has to be endorsed or approved by a senior leadership.
+Safety First
+Even before it became an important tenet of Modern Agile, we could see it in action. And we found it as THE most important factor in changing organizational culture.
+In our case, leadership showed trust in the employees. At the time of joining the company, people used to remain in their shells (and rightly so) and skeptical as trust is not a common sight in organizations. But then later, they used to open up and used to speak their mind in all forums.
+Employees were encouraged to consider the organization like a clean slate. They could write on it whatever they want as long as it brings improvement in status quo and a group of colleagues is convinced about the idea.
+If anybody felt uncomfortable the way things are working in the organization, he could initiate a discussion in the company around the change and if the idea makes sense, it gets implemented.
+Self Healing Teams
+The biggest casualty of such organizational culture were people who were out of touch from hands-on work and struggled in finding their rightful place in such a culture. From the day 1, it was evident to them as well that there was not much difference between them and junior team members when it comes to contributions towards a project. Eventually, many such people left and joined other hierarchical organizations.
+Team imposed the penalty for late-coming team-members during daily Scrum calls. As a team, they agreed to pay a fine if they are late. They used the collected funds to have a party later.
+Considering all mentioned above, it was not a surprise to see a big focus on the following mantra in the teams.
+“Scratch your own itch. If it’s itching you hard, fix it.”
+
+The essence is – people were encouraged to come up with solutions and actions to execute, instead of just listing problems.
+The result was a huge leap change in the mindset, e.g. one of the team-members observed that CI build is broken as he started his day. The first reaction was to fix the build and then informing the team about it instead of just informing the team that a build is broken.
+Similarly, if someone observed that quality of a particular piece of code is bad. Instead of again complaining about the quality, he was expected to fix the problem and then later inform the team.
+Conclusion
+With that experience in hand, I could fairly see why people struggle with a multi-cultural setup and find difficult to move away from their cultural habits.
+Having said what I mentioned above, though habits are comparatively easier to unlearn with organizational cultural change, basic cultural emotions still remain same. For instance, a Dutch guy speaking his mind in a very straight-forward way, not caring how others may feel, may have an undesired impact on Asian teams as they tend to take it seriously.
+Again such things can be mitigated if team-members collocate for some time and work with each other. That helps in knowing each other and understanding cultural nuances which may be difficult to explain.

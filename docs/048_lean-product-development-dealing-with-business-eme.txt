@@ -1,0 +1,25 @@
+TITLE: Lean Product Development: Dealing with Business Emergency
+URL: https://www.agilebuddha.in/agile/lean-product-development-dealing-with-business-emergency/
+---
+
+We all know biggest risk in the product development is building a WRONG product. There are numerous examples from history to see why some products did not see light of the day or big success.
+Recently, I came across a product team which took MVP approach and built a product which saw very good initial success. But with time product was unable to keep the users engaged and convert initial success to revenue to keep it floating.
+
+Some of the questions the team started to deliberate were:
+
+Is this a good product idea but a targeting wrong market segment….? OR
+We are in right user segment but not a right product/idea – the one which does not solve user problems completely.
+
+This was a business emergency for this product as it was running out of time, money. Realization dawned on them that product has to go through a course correction in terms of vision, market segment and features  – PIVOT as Lean Start-up folks call. The time had come for this product to do more discoveries in its life cycle to re-invent itself completely.
+During this phase(Pivot), product team led innovative product discovery in segmenting/interviewing new users(types) and did many iterations of idea before they ran out of money or patience. The challenge they had was to figure out who cares about their incredible new product.
+Lean Start-up: Build – Measure – Learn creating frequent feedback loops was important. Hence they created multiple experiments to validate different ideas. Primary measure of progress during this discovery wasn’t delivering velocity, but it was learning velocity – pushing multiple experiments to market to test it and create new learnings and knowledge.
+Engineering teams re-looked at the development approach and mind-set. They made few course corrections to deal with this uncertain times.
+
+They stopped developing new features without validating markets. Instead started prototyping new ideas with quick turn-around time. More than often, building more demo-able Over shippable features. This helped product and sales team to validate ideas within a closed group of audience really quick.
+They chose to go with speed Over perfection in engineering. All engineering investments were closely monitored against ROI that is gong to be delivered during this phase.
+QA’s stopped automating tests. Decided to go for a demo even if there are some known defects – as they were not shipping the product yet.
+Sometimes, chose to hard code Over building generic solutions/frameworks which could have taken more time.
+
+So almost all decision making points converged towards building something just enough to give a demo so that you can get feedback for future iterations.
+Developers and QA’s re-aligned their thinking to work with lesser intrinsic quality in code and tests to push demo-able features fast. As product lacked roadmap and visibility with changing priorities, they decided to move to short sprints and then to Kanban to help reduce Build-Measure-Learn feedback loop. All the decisions were valued from the perspective of reducing feedback loop to increase pace of learning of market, users and features. In-fact, all roles in this org was redesigned to help in reducing this loop.
+I recall this video which inspires many. When you’re doing discovery right, it could look a little like this team at the Nordstrom Innovation Lab. Take a look at the stories of few famous business pivots – Twitter, Flickr, Groupon, Nokia, Star Bucks, HP, Instagram.

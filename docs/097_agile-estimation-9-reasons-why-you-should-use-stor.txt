@@ -1,0 +1,57 @@
+TITLE: Agile Estimation: 9 Reasons Why You Should Use Story Points
+URL: https://www.agilebuddha.in/agile/agile-estimation-9-reasons-why-you-should-use-story-points/
+---
+
+A common question about estimating with points is, “Why Points?  Why not in Days? Finally I need to do planning so I need to convert points to Days. Why this additional level of indirection?
+In-fact I find story points as a good distraction to the team. Let me go over why having this “additional layer of indirection” provided by story points can be very useful.
+
+1. Points make it compulsory to use team’s performance data (velocity) for release planning.
+
+More accurate way. Don’t you think so? Before the project’s first sprint, the velocity number is also an estimate or a prediction.  But as soon as the team has run even one sprint (a couple of weeks into the project), the velocity represents measured data about how much that specific team can actually produce.  Running 3-5 sprints gives you even better data. A data which takes into account all of the factors affecting delivery on that team.
+
+Planning can only be performed by knowing or predicting the team’s velocity.  Thus, using points forces all planning to happen through the lens of the team’s velocity. All subsequent planning about how much will get done in a sprint or a release can and should take this data into account.  If the team is estimating and planning with points, this will happen automatically as points force you to consider velocity.
+
+If days are used as the estimation unit, however, it is all too easy to revert to planning in terms of “person days” available.  Using only days for future planning without looking through the lens of velocity ignores the best data available about what will actually get done.
+
+2. Prevents the need for frequent re-estimation. Works like a size-based estimate.
+
+In planning with points and velocity, rather than with days, we are essentially treating points as a size-based estimate.  This prevents the need for frequent re-estimation, because we don’t expect size of the story to tell us how much time it will take to complete it.
+
+Days, on the other hand, are difficult to use as size-based unit, simply because the word “days” strongly implies elapsed time.  One intuitively expects that a “two-day” story will be done in two days.
+
+With iterative development, the team is constantly learning more about what they can do and about how long it takes to do certain kinds of work.  If estimates are in days, the team finds itself in the position of needing to frequently re-estimate future stories based on current knowledge.  If the team’s ability improves to the point that what used to take two days now takes only one, unimplemented stories with a “2 day” estimate should be changed to “1 day”. This problem largely goes away with points.  The fact that a team has learned to work twice as fast gets reflected in their velocity.  As long as the story sizes are consistent (read my earlier post) between stories, no re-estimation is necessary for planning to occur.
+
+3. Teams talking about “days of work” implies a level of specificity that isn’t real.
+
+Using points and velocity makes planning real. Focuses the conversation on “How well is the team as a whole performing?” rather than “Why team is taking so many days? or Can we finish these stories in 3/4 time” etc
+
+4. Story Points allays fear of commitment
+
+Hence developers are much at ease(less stress) while estimating.When people are under less stress they think more rationally and hence better estimates. Because when you estimate in days, since days means elapsed time, a fear of whether I can finish in this time starts creeping in.
+
+5. Focuses client conversation on the right questions if client is Agile or at-least understands Agile.
+
+Communicating with the client tends to be easier and more honest when using “points” rather than “days”.  This is because points allows us to separate the two concepts of how much work is to be done vs. how long it takes to do that work.
+
+When a team presents its estimates in terms of time (days) it is easy to mis-communicate about how that effort maps onto calendar days.  When the team instead talks in terms of points, it is immediately obvious to all that a conversion must take place again, using the team’s velocity in order to figure out how much work can be done.
+
+6. Story Points invites collaboration as team behavior becomes prominent over individuals.
+
+Using planning poker to estimate story points brings team together.  It acts as team building activity as teams share, constructively criticize each other, debate and have fun playing poker cards to come to consensus on estimates.
+
+7. Story Points help drive cross functional behavior.
+
+Mike Cohn explains this very well in his book Agile Estimation and Planning. Agile teams include people from different discipline like programmers, analysts, testers, designers, product owners and so on. Agile Projects will benefit when each team member thinks about feature which is built first and as specialist contributor second. Hence estimating in story points help teams learn to work cross-functionally.
+
+Since story point is a single number, they all need to think what they are estimating from a big picture and as a feature as a whole. They need to shun their departmental mindset of how much programmer or tester or UI person would take and trying to add the estimates.
+
+8. There is credible evidence that humans are good in relative estimation compared to absolute. [Lederer and Prasad 1998]
+9. Story-points estimation is typically faster.
+
+Teams who estimate in days have a tendency to take discussion few levels deep. Once again fear of commitment plays a role here, because you are estimating in days.
+
+As per Jeff Sutherland, one of the CMMI level 5 company determined that story point estimation cuts estimation time by 80% allowing teams to do other productive project activities.
+
+Overall, using points keeps the planning honest. May be you have more other reasons to share. Eager to hear your thoughts in the comments.
+More on Story Points and Agile Estimation
+This post is a part of a blog post series on story points and agile estimation. To read rest of the posts on the subject, please navigate to All About Story Points and Agile Estimation Series.

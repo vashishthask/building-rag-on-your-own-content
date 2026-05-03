@@ -1,0 +1,94 @@
+TITLE: Demystifying Continuous Delivery
+URL: https://www.agilebuddha.in/agile/demystifying-continuous-delivery/
+---
+
+We face real-world challenges where straightforward answers provided in rule books are in conflict with empirical evidence. That’s where Tim helps us understand these nuances and demystifies the problem space.
+Our Slack group “Agile Commune” contains many insightful conversations with Tim. We’re publishing some as part of “In Conversation with Tim Ottinger” series. Looking forward to your comments and experiences on these topics.
+
+People talk about CI (Continuous Integration) and CD (Continuous Delivery) in the same breath but may not be aware of their differences: Continuous Integration in itself is not Continuous Delivery. 
+Similarly, people used to releasing multiple features in a rollout may find it difficult the need of multiple deployments in a day OR multiple releases for a feature.
+So let’s hear from Tim more on Continuous Integration, Continuous Delivery, and DevOps!
+
+Shrikant: Hi Tim. Just trying to understand if Continuous Delivery (CD) is merely an extended version of Continuous Integration or is there more to it?
+Tim: CD is weird voodoo in a way.
+Most software development until now was based on the idea that release is risky and hard. CD is based on the idea that it’s trivially easy.
+Give that about 10 minutes to sink in.
+All avoidance and delay of release? Unneeded.
+Stockpiling features? What for?
+Fear of rolling back a change? Why? It’s trivially easy to make a new release.
+If you make it easy and safe to make releases, all the rest of your existing process collapse. If you look through your daily work, I bet you’ll see dozens of ways fear of releasing impacts you.
+So I have this big feature that needs new database tables &amp; columns, new architectural components, some risky performance changes. I could do it all in an isolated skunkworks lab and fully test it as best I can and try to do a big release next fall. That is one choice.
+Or maybe release is trivial and easy. In that case, I just have to sequence my work so that I can make several releases a day without breaking anything.
+This hour’s release could have a change that I have to roll back tomorrow. Okay. No problem.
+Some changes can be experiments. Some can be intended to be permanent. Okay. No problem.
+Instead of features-per-release, what happens when you think releases-per-feature?
+It’s as crazy as when you went from tasks-per-person to people-per-task.
+Is automation == CD?
+No.
+But CD requires the kind of automation that we can easily do these days. Without automation, releases can’t be safe and trivially easy.
+Sadly, there are people that think that CI and CD are things done by a Jenkins server (or the like) but it is really a practice taken on by the developers, assisted by automation.
+CI is the idea of developers never being “far away” from the trunk of development. It means that people pull code from the main branch frequently, and commit their work frequently to let others take advantage of their improvements.
+Branching can be seen as the opposite of CI, as continuously avoiding integration. But even if you keep the code in feature branches for a little while, CI helps you keep the code only a few steps away from the main code line.
+CI is the art of constantly paying down integration debt by doing many tiny integrations every day.
+When the code always works, then you can go to Trunk Based Development (TBD) because you aren’t at risk of the system being broken and unusable.
+From there, CD extends this system to production. 
+Is it a “mere” extension of CI? Perhaps the word “mere” doesn’t really serve the question. It’s not “mere.” It’s a deep axiomatic change. But other than that, I’ll admit it’s an extension of CI (and TBD) that changes how we plan and execute work.
+Shrikant: You mentioned the idea of “multiple releases per feature” which seems quite revolutionary compared to “multiple features per release” concept. Could you elaborate it further and help us understand the advantage in doing so?
+Tim: For discussion purposes, let’s say you need a new database structure.
+Today you can put out the new tables.
+Tomorrow you can start writing to the new tables and measure performance.
+Then you can convert all the existing data in the next release and see how it really performs.
+Then you can make sure that nobody writes (only) to the old structure.
+Then you can make reports and screens use the new data structure. All of these changes can happen as live releases.
+Then you can make a release that removes all the writes to the old structure. Now you have raw proper performance.  You can see what happens when you’re not double-writing data.
+Next, you can eliminate the old structure in a separate release when you know it’s safe.
+At any point, you could have reversed your decision as you learned about performance and behavior.
+You could revise your architecture and design.
+All this is happening for real in production.
+You sequence them for safety and learning. It works for real, especially if you have devops with good analytics, monitoring, and safety.
+Shrikant: Interesting. How do we handle scalability and performance in this kind of environment? Are these small releases ready for the entire chain?
+Tim: For the same reason, you use more releases.
+None of these are “not ready”
+They’re small, totally-ready bites.
+Having said that, in a cloud world, additional servers can be deployed live as/when a load spike occurs.
+And of course, automated performance testing should also be part of the pipeline if that is at all possible. It’s always nice to find bugs close to the time they’re created. But even if you can’t, CD and DevOps makes it possible to reverse a troublesome change.
+And, of course, there are frameworks and tools for doing rolling partial releases — feature flags that allow you to deploy to parts of an audience at a time. That can be tricky stuff sometimes.
+Shrikant: I am still having trouble thinking in terms of small releases, or how the stories are broken in CD world. I think one more example would help our readers further.
+Tim: Radical thought: the way stories are broken down in “big chunk” thinking is not the way they’re broken down in CD.
+A “not fully finished” feature in CD world doesn’t mean it doesn’t work. It means it serves a smaller audience.
+To understand how we break it in CD, let’s consider story mapping.
+
+The “whole thing” has a whole lot of user steps and they all require some backend work. They all affect performance and reporting, etc.
+But you decide to begin with only a thin bit of the first, third, and 10th step. For instance, in the above example story map, we limit ‘Search Email’ user step to ‘Search by Keyword’ only, ‘Compose Email’ to ‘Create and send basic email’ and to ‘Send RTF email’.
+It will only serve a few users, but you make it fully work and you release it.
+Sure, a lot of people can’t use it productively but you learn a lot from it and some people are better off (cf “Pareto Improvement”).
+Then you add a bit more to step 1 and pop in step 5 (Delete Email). Release. It works for maybe 2% more target users.
+You realize that you can add more to step 12 and 13 and that will make steps 7-9 much easier. So you do 12 and 13, and release.
+In the afternoon you do 7 and 8, release again.
+It all works, but not for everyone yet.
+Contrast that to having built in layers or stepwise.
+
+If you built entire step 1, you have nothing usable for anyone.
+If you built the bottom data layer, you have nothing.
+If you built the UI, you have nothing.
+CD + Stripes + Monitoring + Analytics … it’s complicated structure but vastly simplifies making stuff.
+But what a head change it is!!!
+On the other hand, if you build the whole thing at once you have a lot of code that’s never seen the light of day. Nobody has been helped at all yet. You’ve managed to require a lot more merging and testing and have stockpiled a lot of inventory.
+You could have released 12 times by now. 20 times, maybe. But instead, you have a huge change with potentially colossal impact on users, performance, operations… it’s a huge risk because it’s been allowed to become huge.
+But, of course, if the organization is still running on the theory that releases are hard, dangerous, and expensive then their releases will become hard, dangerous, and very expensive indeed. It’s self-fulfilling.
+Remember, without CI, no CD. Without devops, this is risky stuff.
+Without slicing, releasing doesn’t make sense.
+Without teaming (working on the same story together) you’ll have all this half-done stuff that only one person understands and a lot of weird merging and mangling of features.
+It changes just about everything.
+Shrikant: Analytics, safety, monitoring are really important in this way of working. It’s clear that DevOps is an important component in making continuous Delivery/Deployment a success.
+Tim: 👍 As I understand it.
+From an academic perspective, Len Bass, Ingo Weber, and Liming Zhu—computer science researchers from the Software Engineering Institute—suggested defining:
+DevOps as “a set of practices intended to reduce the time between committing a change to a system and the change being placed into normal production, while ensuring high quality”.” — Wikipedia.  
+Note: NORMAL production. *while ensuring high quality* is the key which requires safety culture, monitoring and analytics
+About Tim
+Tim is a programmer, author, trainer and globally recognized coach with over 35 years of real software development experience.
+Tim is an active speaker and author with writing credits in Clean Code, Pragmatic Bookshelf magazine, the C++ Report, Software Quality Connection, and other publications over the years. He is the originator and co-author of Agile In A Flash.
+He continues his work helping teams around the world find better ways of working along with an impressive constellation of Modern Agilists at Industrial Logic.
+Other Articles in this Series
+
+Should We Really Care for Agile Maturity?

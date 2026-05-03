@@ -1,0 +1,35 @@
+TITLE: Agile Thinking: Continuous Improvement – ScrumMaster 1.0 to 2.0
+URL: https://www.agilebuddha.in/agile/agile-thinking-continuous-improvement-scrummaster-1-0-to-2-0/
+---
+
+Readers, Our “Agile Thinking” series is focussed on bringing agility into our thinking as this helps in moving from Doing-Agile to Being-Agile. You can read our earlier article in this series Agile Thinking: Stop Starting, Start Finishing.
+This post talks about continuous improvement and obviously this can be applied everywhere irrespective of it is a process, practice or a role. From my recent experience, I would like to share today, how ScrumMater (SM) role evolved in some of the companies.
+In many organizations, ScrumMaster role is defined something similar to what is shown below. For conversation sake let’s call it as SM 1.0 (see pic below)
+
+In service industry projects,  SM’s playing the role by book (SM 1.0) and expecting Product Owner(PO)  from the client side to write stories, acceptance criteria and prioritization did not work due to some of the reasons stated below.
+
+Ineffective PO – Mostly many client organizations are new to this concept of product ownership (PO). Hence they lack sufficient skills and training to express their requirements in stories with sufficient details/acceptance criteria
+Small projects of 2-3 months are too small a timeframe to learn this skill and be effective.
+Resistant to change – Traditionally clients are used to hand-over a project to the vendor and go away, so backlog management is vendor problem – Mindset challenge.
+Busy PO – Lack of  time to be in constant engagement with the team. PO has other commitments and responsibilities within the org and often it is impossible to rejig this role just for the duration of the project.
+
+Additionally, teams were not able to go for full-time BA due to budget constraints and often full-time BA was seen as an overkill for 3-5 people team.
+So for all these above reasons and more, development teams suffered from requirements being not ready in-time in chewable form. This was a major roadblock, and in-fact now I see many many teams across different organizations face this issue.  PO is like oxygen to the team. If he stops churning stories at the right time, then team starts suffocating. Check earlier article on How to Improve Sprint Throughput With Definition of ready which gives few suggestions on how we can address this issue.
+To address this lack of strong product ownership on the projects, teams improvised the role of SM, which I’m calling here as SM 2.0 where-in business analysis, backlog management, prioritization, client stakeholder management were added to this role in addition to SM 1.0 responsibilities and off-course he became the scrum coach to the team and clients too. See SM 2.0 pic below:
+
+This new role had following additional responsibilities:
+
+SM created the product backlog post discovery with PO by writing epics and then splitting them into user stories with acceptance criteria.
+SM started to drive backlog refinement meetings and release planning with PO.
+SM ended up bringing different client stakeholders on the same page for quick decision making.
+It’s important to note that accountability and ownership of the backlog was still with the client PO.
+
+PO being seen as “single wringable neck” works well where we are able to find such a PO. If not you need a very strong leadership from the consulting company. Hence in such situations SM 2.0 works well.
+This change brought few additional advantages:
+
+Aligning SM to a project business domain helped in building domain knowledge within the team.
+This made SM confident in making some business decisions, prioritization and able to comprehend reasons behind the prioritization – helped build a Big Picture.
+Additionally, this helped in building industry specific verticals in the organization.
+
+Be Agile, don’t just do SM 1.0 or 2.0. 
+Readers, Please share your ideas and thoughts on “Agile Way of Thinking” which has worked for you in your organization. If you have some great stories to tell, I would be happy to share them here. Write to me.

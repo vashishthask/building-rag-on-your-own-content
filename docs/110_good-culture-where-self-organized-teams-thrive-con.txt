@@ -1,0 +1,69 @@
+TITLE: Good Culture where ‘Self Organized Teams’ Thrive Contribute to Better Productivity
+URL: https://www.agilebuddha.in/agile/why-culture-matter/
+---
+
+Why everyone talks about self organised teams and find it extremely difficult to build. Many people I talk to, work with find it insane when I say that we need to give autonomy to teams. Hence it is important to find leaders to the lead the organisation who are open to change and ready to give away their control. Also find right developers who can think and act more than just doing coding.
+Here, I would like to discuss how good culture where ‘Self organized teams’ thrive can contribute to better productivity.
+India is one of the most favored and favorable offshore/outsourced destination in the world – thanks to the mass scale of engineers it produces. But now the time has come for us to see how we can better productivity – without sacrificing quality (that goes without saying), which will contribute directly to our margins and net profit. The game has changed from just scaling and being cost- effective to how we can provide maximum business value with less effort.
+It’s high time we gave preference to productivity and quality rather than just harp on quantity. There are numerous factors that contribute towards productivity.
+Here, I would like to discuss how good culture where ‘Self organized teams’ thrive can contribute to better productivity.
+
+Steve Denning, in his research, found that “most of the high performing teams were not manager-led teams. They were teams whose management had deliberately stepped back, or were inattentive, thus enabling teams to self-organize”
+Compared to them, the ‘self-governing’ teams did not demonstrate high-performance even on a single occasion. Their struggle for “what to do” always came in the way of their performance. Hence you need leaders on the team to set overall direction in technology, process, and business/product.
+Most ‘Self-organized’ teams have the following characteristics
+
+Ability to commit to the sprint goals together
+They work aggressively to remove impediments to their progress
+Collective focus on highest-priority stories
+Choose to pair wherever required
+Freedom to take risks and to say NO
+
+All the above reasons help in generating lot of energy and passion for ‘self-organizing’ teams, which eventually leads to high productivity.
+Now let’s look at the table, which is the result of Geert Hofstede’s years of research in this field. He has defined multiple parameters for us to understand the culture of different countries.
+One of the parameters of research was PDI (Power Distance Index). It reflects the extent to which less powerful members of a culture accept that power is unequally distributed and they don’t resent the authority easily. This index varies across cultures with Denmark showing highest resentment while China the lowest. This stark variation across countries could be a very interesting and revealing study by itself.
+
+Country
+PDI
+
+China
+80
+
+India
+77
+
+Brazil
+69
+
+US
+40
+
+Netherlands
+38
+
+UK
+35
+
+Finland
+33
+
+Norway
+31
+
+Denmark
+18
+
+A PDI score of 70+ for India clearly indicates that people are far less likely to resist the changes – whatsoever – suggested by authority. Not a progressive sign, eh? This applies to teams as well.  They are more susceptible to if we hire a command and control manager/leaders and team may NOT resist this openly.
+*Building an organization which has self-organizing character, with absolutely no hierarchy is immensely tough – more so – as it’s a constant struggle against our own culture/mind set. *
+Preserving this self-organizing culture while we scale is a battle and hence it is extremely important who we bring on-board from middle to senior management. He/she should be a person who is open to work as servant leaders.
+A key practice for hyper productivity teams is to have servant leaders like product owners and agile coach who provide team leadership as well as work for and with the teams to actively remove impediments.
+A common pitfall that self-organized team face is the perception that they do not need any management. While it is true that ‘management’ –in its mere traditional roles – allocating tasks, monitoring progress etc – is not required for self-organized teams, the need for GOOD LEADERSHIP is paramount. A person, who is progressive in thinking, shows agility, open for change, and accept newer ways of doing &amp; who enjoys giving and taking freedom.
+Good leadership on new agile teams includes
+
+Guiding them on collaborating effectively with customers
+Showing way
+Mentoring them on agile principles and practices
+Gradually passing on these roles and responsibilities to the team members
+
+Leadership on new teams is usually taken up by Agile coaches (Scrum Masters, ex-Project Managers that have successfully acquired an agile mindset).
+But, a common feeling among the managers is: ‘Who moved my cheese? I see this as an opportunity for them to explore new avenues in leadership, scaling different levels in project management then monotonous tasks allocation and reporting.
+How effective are your teams self-organization?

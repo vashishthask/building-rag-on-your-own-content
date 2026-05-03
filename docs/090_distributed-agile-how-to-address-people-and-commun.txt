@@ -1,0 +1,60 @@
+TITLE: Distributed Agile: How to Address People and Communication Challenges
+URL: https://www.agilebuddha.in/agile/distributed-agile-address-people-and-communication-challenges/
+---
+
+The main challenges of Distributed Agile revolve around People, Information sharing / Communication, and Project Structure.
+Let’s talk about first 2 challenges and how to address them. I wrote an article couple of weeks before on “10 Best Practices of Distributed Agile“. You will find few more practices in that article to address below concerns.
+People
+[pullquote]Effective, honest communication and trust is the foundation of all Agile teams. Most productive development teams thrive in an environment of trust.[/pullquote]
+Half or more of your development team is distributed across continents. How do you create that all important environment of trust and alignment to common vision when your team is distributed?
+Your development team (onshore + offshore) now consists of engineers whose primary language is not English, or at least sounds different than your version of English. It adds another complexity to communication.
+Cultural, tone and body language differences will compound the challenge. Multi-shore Agile requires changes to the norm. The best environment is when all developers (local and remote) feel part of the larger team and make decisions for the benefit of the single team. But how do you do this?
+
+Information Sharing / Communication
+Information sharing and communication are well known challenges when you offshore. Use of Agile Methods compounds this situation as these methods require high levels of communication.
+Face-to-face communication, frequent customer conversations and collaborating team members are fundamental tenets of Agile. Now your team is distributed, so how can you maintain a high level of collaborative communication?
+[pullquote]Honest and effective communication is a pre-requisite for building trust.
+[/pullquote]
+A shared project vision is more difficult to create and maintain when the teams are distributed. Stakeholders and Management like to see project status and impediments. A typical method in Agile is to use a story board, big visible charts. This is not feasible or straight forward when your development team is thousands of miles away. A great aspect of Agile is the open synchronization of the team on a daily basis. But, how is the remote development team synchronized with the local team or with customer?
+Now let’s look at how to solve some of these challenges.
+
+Streamline offshore team communication and development infrastructure
+
+My first checkpoint would be ability of offshore team to communicate seamlessly with their onshore colleagues. It is important to test offshore team email pings, video conferences, IM conversations.
+Ability of offshore teams to work without any infrastructure interruptions like, slow bandwidth, unreliable network, adequate tools, servers, desktops etc.
+Go for a trial before you start on a project. If you experience any issues during trial, these will be magnified greatly during development. If these are inadequate, demand an upgrade and/or additional systems. Fix them before you dive into project
+If you have good infrastructure then offshore team will not be slowed down due to issues not under their direct control. Even you staff with best developers, if you don’t provide right technical environment, they would not succeed.
+In a recent audit, I saw onshore team complaining that their team in India is very slow. It was shocking to see offshore SVN commits were taking nearly 45 minutes and they were working on outdated desktops, because of which their local build was taking couple of hours. Team lost their momentum due these issues.
+
+Meet face-to-face to build trust
+
+If the offshore team is small, bring the entire team onshore for some up-front project activities such as establishing the shared project vision, requirements elicitation, initial planning and execution of initial 2-3 sprints. If the team is big and budget is limited, then have key members of the team onsite.
+Additionally, plan travel of onsite teams to offshore location and spending few sprints together.
+Both teams should discuss issues and should come to an understanding of how to work together on this project. Facilitating a Norming and Chartering session and team agreeing on this lays right foundation.
+Asking teams to travel is a big investment of money and time. This is not just a meeting, define collocation goals and closely track it. Teams should spend outside office time together to build informal relations.
+
+[pullquote]Seed the team with your best people, who are technically strong, good communicators and highly committed.  Tasting initial success is very important. Having an experienced coach comes handy too. Having these people will increase your probability of success.[/pullquote]
+
+Reduce work disruptions due to each other
+
+Establishing continuous integration approach with good test coverage is a must. Good CI will ensure teams getting successful green build when they start their day. This will reduce work loss or productivity loss due to one team committing bad code and next team unable to use that code base.
+
+Have common email list between teams, and teams can drop couple of lines end of day on any changes that the other team should be aware of. Also sometimes if you are facing issues, sending an email to common list or on IM group is wise. You can sometimes get support from other team not just in common office hours, but also during outside of office hours too.
+
+Shared project Vision
+
+As I mentioned in my last article “10 Best Practices of Distributed Agile“, when you are starting a project and all along the project keep offshore team completely involved in all the activities. Share customer feedback, involve them in release planning, doing all scrum ceremonies together….
+Product Owner (PO) has to make an extra effort in communicating product vision, road-map, his conversations with product users etc to offshore team. He has to travel frequently to meet his team face-to-face
+Product Owner spending a sprint or two together with offshore team, team starts feeling important and in the process lot of domain knowledge gets transferred. This makes team confident and this confidence starts showing up in their communication and work.
+
+[pullquote]You have to create an atmosphere of equal to create trust.[/pullquote]
+
+Synchronize your working hours to get at least 1-2 hour overlap
+
+Plan an hour of overlap at least between local and remote teams. Use this one hour for synchronization and information flow between teams. Plan your joint team activities like pair programming, reviews, joint meetings, distributed stand-up etc during this overlap.
+Asking remote team to work odd hours and having the local team work normal hours simply will not work. It sends the wrong signal that the local team is more important. Additionally, the offshore team will come to dislike Agile Methods and will naturally under perform. I see this as a manifestation of the thinking that remote teams are just resources and not people.
+Even in extreme situations like 12 hour delta between teams, local and remote team can alternatively extend their day to get sufficient overlap.
+Different countries, cities and some organizations have different working hours. For example, in few cities/organizations in India people come to work between 8-9AM and in few cities office work starts at 10-11AM and extends late. Depending upon where your remote team is located, mutually identify those overlapping hours.
+
+Some Agile purists say that Agile is contradictory to multi-shore development because of its inherent reliance on face-to-face communication. Traditional offshoring challenges are lack of visibility, trust, technical ability, communication, synchronization, whether team will deliver in next 6-10 months, and so on.
+I consider agile thinking(short sprints, working software, focus on people and collaboration and more) is a natural solution for above offshore challenges. Yes it requires new way of thinking and doing.

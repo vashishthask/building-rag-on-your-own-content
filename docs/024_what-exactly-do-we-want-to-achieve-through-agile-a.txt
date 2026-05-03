@@ -1,0 +1,24 @@
+TITLE: What Exactly do We Want to Achieve Through Agile? – A Google Maps Example
+URL: https://www.agilebuddha.in/agile/how-google-maps-helps-in-explaining-the-real-need-of-agility/
+---
+
+‘agile’ is an ordinary word in English. It means “able to move quickly and easily” (online dictionary), with an emphasis on changing direction.
+So essentially ‘agile’ is the ability to create and respond to change in order to succeed in an uncertain and turbulent environment.
+
+Recently I observed that real world traffic and Google Maps can help a lot in explaining the concept of agility. This post is all about joining the dots.
+Driving in a real world traffic is not straightforward. Time taken to cover a distance depends on traffic jams, weather conditions and other unknowns.
+When someone asks how much time it will take to cover a specific distance in Delhi traffic for instance, only true answer is a range of time, say anything between 30 minutes to 1-1/2 hours.
+Moving back to software world, when someone asks a similar question, e.g. provide an estimate for a complex software project, there can’t be a single estimate but will be a range of estimates, i.e. anything between ideal scenario and the worst case scenario.
+
+Continuous Inspect and Adapt with Google Maps
+It’s evident that the plan driven approach doesn’t work while driving to an unknown terrain.
+In order to handle these unknowns better, in recent times, we have started relying on Google Maps which helps in providing the best available route considering existing traffic conditions. That helps in getting an initial shot to reach to a destination.
+As we start driving, Google Maps keeps on collecting the real-time road-traffic information and keeps analysing (Inspect) that data. As and when it finds a better route considering existing road traffic conditions, it provides the rerouting (Adapt) option. It’s evident that this is an example of Inspect and Adapt in real world.
+
+In Scrum as well, Daily Scrum is an “Inspect and Adapt” opportunity and is all about daily replanning. As part of Daily Scrum, you replan (adapt) the sprint every day considering what got changed (inspect) in last 24 hours.
+Let’s take an example. For instance, yesterday, a team started swarming on a user story. During the day, team discovered additional complexities in finishing the work. Based on this emerged complexity, as part of today’s Daily Scrum, team decided to add few more people to join the swarm.
+Remember, Daily Scrum is NOT about sharing updates but more importantly about taking actions on emerged challenges in order to move towards sprint goal.
+Similarly it’ll be a mistake consider Sprint Review all about demo. Apart from many other important aspects, Sprint Review provides an “Inspect and Adapt” opportunity for Scrum team to make changes towards overarching product direction based the feedback received on the deployed features.
+Travel and Pivot
+Sometimes we travel with an intention of having dinner to a certain restaurant we haven’t visited before. However based on what we see (empiricism), we change the plan and may move to an altogether different direction or location. Instead of eating Indian, we could finally opt for eating Chinese.
+Something similar happens while looking for product-market fit as we may end up pivoting multiple times before we actually see the product-market fit based on market conditions, feedback and analytics.

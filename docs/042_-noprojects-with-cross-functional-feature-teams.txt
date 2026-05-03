@@ -1,0 +1,25 @@
+TITLE: #noprojects with Cross Functional Feature Teams
+URL: https://www.agilebuddha.in/noprojects/noprojects-with-cross-functional-feature-teams/
+---
+
+Sometimes #noprojects (deliver continuous change successfully without using a project) approach alone may not be enough for a software product. This is especially true for large enterprises where any valid business outcome requires close interactions of multiple software products.
+In such cases, problem is how to resolve dependencies among software products. First approach which is also very common, is to agree upon a software interfacing contracts between software products. Each individual team then work in isolation while keeping other team’s software contract in mind. When done, teams integrate pieces together.
+
+For example, In banking industry, a banking product may be the introduction of new credit card. The credit card introduction may touch many essential banking software products, i.e. payment system, Internet banking and loan system.
+
+In above picture, a credit card feature may require interaction of all three software products. In order to work on dependencies, Internet banking team and Loans team may agree on an interfacing contract and work in isolation till they are done. When done, teams work together and integrate pieces together. The same is required to be done for functional chunk interfacing Loans and Payments teams. 
+This approach has some inherent issues. Some observations to be noted here:
+
+This smells like mini waterfall. Even if intentions are to slice business feature into smaller cross-functional user stories, the result depends heavily on the balance of overheads (need to integrate and collaborate between products) and any worthwhile business outcome.
+This is difficult. Eventually, many teams work in mini waterfall fashion. Instead of working in multiple cross-functional small user-stories, teams divide the work of entire feature. They work in isolation and then integrate. Integration may be very late in process. 
+Who does the end-to-end testing for the entire feature, remains a question. Who maintains such tests and how they get fixed if automated also remains unknown.
+Each product team may have its own prioritization. Credit card feature may be the first priority for team “Internet Banking” but lowest in priority for team Loans. So it may happen that Internet-banking part of feature is done but it’s waiting for team Loans to finish its part. Any delay in the integration is waste.
+
+For such scenarios, enterprises are moving towards running cross-functional feature teams based on #noprojects concept which looks something like this:
+
+Instead of working as a software product team only and resolving arising dependencies, cross-functional feature team consist people from each software product team. In current case, a feature team will consist of team-members from Internet Banking, Loans, and Payments teams.
+The mission for team(s) members is to work towards business functionality (end-to-end) which provides business value, doesn’t matter how small and what all individual product-pieces are involved.
+To be continued…
+
+How to get it structured in large enterprises. What’s the internal mechanics of software product teams to work in feature team concept?
+How does Continuous Delivery help here?

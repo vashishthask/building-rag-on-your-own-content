@@ -1,0 +1,31 @@
+TITLE: Sustainable Pace: Does Culture Play Any Role At All ?
+URL: https://www.agilebuddha.in/agile/sustainable-pace-does-culture-play-any-role-at-all/
+---
+
+Striving to bring agility into the organisation to adapt to changing business conditions is leading people to lose sleep and stretch more than before in some organisations. Agile thought leaders definitely envisioned this and hence recognised sustainability as one of the agile principles.
+[pullquote] Agile processes promote sustainable development.  The sponsors, developers, and users should be able  to maintain a constant pace indefinitely. [/pullquote] 
+To run a long distance you need to find a sustainable pace. But often, companies just don’t get this due to various reasons like:
+
+Pressure from business and management to get most work from least people
+Team not having an option to make their own decisions – command and control culture
+Teams inability to say NO for non-realistic goals. Service industry firms –  they just can’t say NO to unreasonable client demands
+Utilisation of people – Planning for 100% utilisation. This makes people work for more than required hours and hence getting burnout
+Unable to remove distractions to the team. Lot of unplanned, non-essential meetings taking people’s time. Questioning motives and saying NO is essential here.
+Allocating people on multiple projects with allocation distributed 20%,50%,30% etc. This does not work in reality. There is a switching time between two tasks and people take around 15 mins to achieve FLOW (high productive zone)
+
+Sustainable pace is:
+
+How to achieve this FLOW within the organisation and within your projects. Optimising workflow from concept to cash.
+Keeping right balance between speed, robustness of solution without losing quality of product and quality of life of the people. Interestingly, you can achieve high speed only if you have high quality, if not it will slow you down.
+
+Sustainable pace is not a marathon, but a series of short sprints, where you pause, re-energise yourself, reflect and start new. So definitely you need a slack within the sprint to achieve this. Finishing demos and retros quite early on the last day of the sprint and team having some rest time before starting new sprint is one way of getting some slack time.
+Google 80/20  or Atlassian Fedex days are some great examples of introducing slack time to drive innovation.
+To attain this sustainable pace, you need to remove lot of waste, non-value added activities which a self-organised team finds and eliminates it.
+Does culture play any role to attain this self-organising character and hence sustainable pace?
+Nation culture has an impact on the organisation culture too.  Geert Hofstede’s years of research in this field reveals some interesting insights into this question.
+He has defined multiple parameters for us to understand the culture of different countries. One of the parameters of research was PDI (Power Distance Index). It reflects the extent to which less powerful members of a culture accept that power is unequally distributed and they don’t resent the authority easily. This index varies across cultures with Denmark showing highest resentment while China the lowest. This stark variation across countries could be a very interesting and revealing study by itself.
+
+A PDI score of 70+ for India clearly indicates that people are far less likely to resist the decisions – whatsoever – done by authority. Not a progressive sign, eh?  People are susceptible to command and control managers and may NOT resist their decisions openly. Western clients working with the Indian teams often complain –  “I hear only Yes from my team in India. They don’t challenge me? “. Good news is it is changing, some entrepreneurs recognise this and working hard to change this culture.
+Building an organisation which questions, challenges ideas, shares thoughts openly which eventually helps to build self-organising teams, with absolutely no hierarchical mindset is immensely tough – more so – as it’s a constant struggle against our own culture/mind-set.
+Keeping this culture while we scale is a battle and hence it is extremely important who we bring on-board at every level and more so at middle to senior management. He/she should be a person who is open to work as servant leaders and a very important factor often ignored in organisations.
+Have you dealt with such cultural challenges? I will be eager to hear your experiences in achieving sustainable pace.

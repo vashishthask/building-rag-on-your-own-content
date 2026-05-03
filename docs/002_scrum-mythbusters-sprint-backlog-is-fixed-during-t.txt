@@ -1,0 +1,32 @@
+TITLE: Scrum Mythbusters : Sprint Backlog is Fixed During the Sprint!
+URL: https://www.agilebuddha.in/scrum/scrum-mythbusters-sprint-backlog-is-fixed-during-the-sprint/
+---
+
+A sprint in Scrum begins with a Sprint planning event in which Scrum team considers the Product Backlog Items (PBIs) from the top of the Product Backlog for the upcoming sprint.
+The main activities of Sprint planning event are to:
+
+select the PBIs the team forecasts it can deliver during the sprint
+come to a consensus on a Sprint Goal
+plan how to achieve the Sprint Goal
+
+What is a Sprint Goal?
+A Scrum team jointly commits to a short statement of the value it intends to deliver during the sprint. This is guided by the Product Owner. This becomes the focus of all work in the sprint and the team creates a Product Increment to meet the Sprint Goal.
+Sprint Goal can be formed in many different ways.
+
+Some teams find a group of related PBIs that make sense to do together and then define a sensible Sprint Goal around those items.
+Some teams prefer to state a desired future state for the end of the sprint. The team then picks the PBIs that will help them achieve that goal.
+Both approaches are fine. However, an approach called forced-fit-approach is not recommended. In a forced fit approach, the team takes the PBIs from the Product Backlog and then tries to define some sort of Sprint Goal that fits the items.
+That often remains uninspiring because of unrelated nature of the high-priority items. The result is often a very unconvincing attempt at the Sprint Goal
+Can Developers Change Sprint Backlog During Sprint?
+Apart from selecting PBIs for the sprint and having a Sprint Goal, one of the key outputs of the Sprint Planning is that the team should be able to explain how they plan to accomplish the Sprint Goal.
+For that purpose, the team sits together to discuss how they plan to implement PBIs. A combination of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan (how) for delivering the Increment is called Sprint Backlog.
+The Sprint Backlog is a plan by and for the Developers. It is a highly visible, real-time picture of the work that the Developers plan to accomplish during the Sprint in order to achieve the Sprint Goal. The Sprint Backlog is updated throughout the sprint as more is learned.
+Daily Scrum is all about replanning every day, and making the required adjustments accordingly.
+
+The idea is similar to using Google Maps while moving from a point A to point B. The destination in a journey remains constant, though the plan can change. Google Maps captures traffic information on the regular basis. In case it senses that the traffic condition is not good, and will take more time, it suggests an alternate route to reach to the destination. So the destination remains same as point B, but plan changes. This replanning activity remains continuous while using Google Maps.
+
+The same thing happens while working in a Sprint.
+As part of Daily Scrum every day, the developers assess if the plan they decided yesterday to achieve the Sprint Goal is still valid or not. It may happen that the team got to know a new set of information which could be a blocker or because of which the team may not achieve the Sprint Goal in time. Based on this information, the team could either take steps to resolve the impediment or could consider to change the plan (and consequently change the Sprint Backlog) to still achieve the Sprint Goal .
+That plan change could mean change in the technical internal implementation (not visible to user), or a change in the IT solution (visible to user) for the business problem. Any change in the IT solution has to be discussed with the Product Owner.
+Essentially, if new work is required to achieve the Sprint Goal, the developers adds it to the Sprint Backlog. If work proves to be unnecessary, the developers removes it from the Sprint Backlog. It’s up to the Development Team to apply these changes and inform the Product Owner if this is considered necessary.
+Just to make sure, these changes are developers driven based on their observations while moving towards Sprint Goal. This doesn’t mean external changes can be introduced to the Sprint Backlog. Any change which could potentially derail to achieve the Sprint Goal is not allowed.

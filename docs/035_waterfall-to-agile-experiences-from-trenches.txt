@@ -1,0 +1,63 @@
+TITLE: Waterfall to Agile : Experiences from Trenches
+URL: https://www.agilebuddha.in/agile/waterfall-to-agile-experiences-from-trenches/
+---
+
+There have been a lot of agile success stories but mostly are around project challenges and how teams overcame them. In those high level details, the experiences from the trenches get hidden or get overlooked.
+There are still many projects and people, who are transitioning from waterfall to Agile. It’s interesting for such people to hear the experiences from similar people (who moved waterfall to Agile) around their role, i.e. how for a developer role things got changed and similarly for tester/BA/Scrum Master roles as well.
+This post is based on the real interviews of team members of such a project in a large enterprise. The team members shared their perspectives around their role. For everyone in the team, this was their first ever Agile project.
+
+Please take a look on their views in this post.
+Product Owner’s Perspective
+Christopher worked as a Product Owner for the project. He’s pretty happy with the whole outcome of implementing Agile in the project.
+In his own words, “I can now show the product to my business well in advance rather than waiting for 10 long months. In just 3 months, they can see their future well in advance. That further helps business in shaping their processes much earlier compared to Waterfall days when the same exercise could start only after project gets over. As a result, training time and transition time is less.
+Instead of expecting entire delivery at the very end after 10 months, we have started delivering the changes in production with 3-4 separate releases. So by the time, we reach in the last leg of project, there are no more surprises. For BAs as well, the fear of failure is absolutely zero in the production as we focus on resolving the gaps using Sprint review meetings very early in the game.”
+We now get more time to analyze and can take decision at the last responsible moment instead of being forced to think almost everything well in advance.
+That could result earlier in having requirements which were no more valid. As everyone is involved in discussing the requirements and the business and other stakeholders are far more involved, we feel ourselves much more confident. Also stories have minimal rework now.
+Developers Perspective
+Ganesh and Max worked as developers in the project. According to them, they feel much more engaged as a team in Agile as any pending question used to get resolved quickly through forums like daily Scrum.
+In Agile project, we find continuous business involvement which was missing earlier. This way we get their inputs early. Feedback which otherwise would have come as a change request very late in a Waterfall project now comes directly in the Sprint review and may get implemented in the very next sprint.
+Sometimes early business feedback saves us to work on unnecessary features. In one of the Sprint review, business discarded 2 big screens as they realized the screens could be too complex for the end users.
+We now have early engagement with testers. Earlier it used to be after months. We used to work in different islands with absolutely no collaboration other than passing defects over the fence (they finding defects and we fixing defects).
+These days before we start working on any user-story, we sit together and come out with test cases. This discussion is very helpful for us as we come to know the exit criteria of our coding which otherwise used to be vague earlier and used to result in many defects. Now because of this test-first approach, the defects found are very less.
+Sometimes in such discussions with testers, we get to know some aspects of functionality which otherwise would get missed as part of development.
+Based on our experience, backlog refinement and “Definition of Ready” are mandatory and integral part of any distributed Agile project. Without that, we would have wasted considerable amount of time in getting the right information on the user-stories in a running sprint.
+Above all, as most of the communication is mostly face-to-face/video-call or as part of daily Scrum call, the response time is much faster and we resolve issues in much lesser time compared to Waterfall projects.
+Surprisingly for us, the requirement preparation is much more collaborative effort compared to Waterfall days. Earlier BAs used to work on requirements in isolation and used to hand over requirement documents to development team. Questions used to get resolved through emails which would take significant part of cycle time. Conversation used to be one-sided, i.e. you can speak to them only when you have questions. Also they never had any interaction directly with the business stakeholders.
+These days, the backlog refinement is more like a collaborative discussion in which every team member provides their inputs and participates in the discussion. This helps in getting inputs from different perspectives and helps in keeping everyone on the same page.
+Areas of Improvement
+
+Earlier we used to spend a lot of time in design activity and find ourselves satisfied with the outcome. Agile sprints seem to be in a hurry. From the word go, we feel under pressure to start coding. That cause rework.
+Suggestion/Advice
+Sprint Planning activity is all about defining the sprint backlog, team is going to work on during sprint. However immediately after planning, team should sit together and do the tasking activity as a team. One can come up with tasks only when one gets clarity on how a story is to be done. The “how” part requires design discussion and in tasking discussion, those inputs come from everyone in the team.
+So design is not one-sided but evolves with inputs of everyone. Some team members learn new aspects of the functionality from people who have already worked in that area of functionality. As a result of design discussion
+a) design is much more evolved because of the inputs from everyone
+b) everyone knows everything, which further means anyone can pick up any story. That’s an awesome outcome for a team.
+As project starts, everyone seems to be focused on creating backlog for sprint 1 only as according to Agile, you focus on the backlog as it comes. However doing so, we seem to be lacking holistic perspective of the requirement. For instance, though we may be working on a feature in current sprint, we may get similar feature in next sprint as well which we are not aware of till we reach to next sprint. If we know that as well, we could design its hooks in the current sprint itself, instead of doing rework in the next sprint. Sometimes that gets frustrating.
+Suggestion/Advice
+Though Agile doesn’t suggest big upfront design, it’s important to define enough architecture of the project. This requires understanding of the scope of the project, features and what all is required from holistic standpoint. That kind of understanding helps to envision the provisioning of design hooks which gets implemented in later sprints. That helps to avoid complete rework. By definition, it’s important to look at strategic design (holistic picture) as well while working on tactical design.
+
+Testers’ Perspective
+Natalya and Vadim work as testers in the project. I had an interview with them to know their views from tester’s standpoint on the transition moments they felt while moving from Waterfall to Agile.
+According to them, “Earlier, we used to enter in the project after a couple of months of construction activity. For us, information used to get filtered further and we had to face issues in clarifying the requirements while writing the test cases. As we work on a project from the very beginning right now, the coordination is good. We feel working as one team and not as developers, testers or as BAs.
+As we discuss on requirements collaboratively, we get to know holistic view from everyone’s perspective which was missing earlier. Now we know why exactly some piece of functionality is getting changed.
+Instead of releasing everything towards the end, as we do continuous releases, we are able to build relationship with business and improve their confidence level in the project.
+Discussing the test cases together with developers before they start coding, helps a lot in reducing defects. The question may be in what ways do we help each other?
+With collaborative discussions before writing a single line of code on any user-story, developers get the the holistic picture around the feature to be developed which otherwise would have got missed.
+Similarly from our standpoint, by having such discussions with developers, we decide together what all test scenarios can be covered in development activity and what we need to focus as part of functional testing. Some of those tests are technical and we may not be able to perform them in black-box testing but they take them up voluntarily, which is awesome. Earlier, we would have left those scenarios.
+Daily Scrum calls and backlog refinement sessions are great for us as cycle time becomes minimal in clearing the questions on any requirements which was not the case earlier. Also as all stakeholders are available during backlog refinement, you get to know the complete flow.
+Areas of Improvement
+
+Currently we are using Atlassian Jira. There we see flat backlog which means requirements are scattered across Jira. So as a tester, if I want to search a particular feature or look at a feature containing multiple/related stories holistically, it becomes difficult.
+Suggestion/Advice
+There are many ways to make sense out of flat backlog and one such option is to use “Story Mapping”. This requires a plugin to be added in Jira. Another option is to use Atlassian Confluence to group user-stories together as epic or feature in Confluence. Confluence provides the option to use “Product Requirements blueprint”. As Confluence provides seamless integration with Jira, group of stories defined using “Product Requirement Blueprint” refers the live Jira stories with their status. If we group stories in such a way, it becomes far easier to make sense of flat backlog with an organized structure in Confluence.
+As we work in test-first approach by having discussions on test-cases with developers early on, we have been able to reduce the defects. However it will help even further if Product Owner involvement could also be there in such discussions as their perspective is also very helpful in defining the test-cases. We’ll discuss this in the retrospective.
+
+Scrum Master Perspective
+Chandan works as a Scrum Master in the project. I had discussion with him from his perspective. Here are discussion points:
+According to Chandan, in Waterfall days, it was very difficult to get the holistic update of the project at any point of time as only way to get that was to talk to everyone on individual basis. Those conversations used to be over emails (considering we have distributed team members working over continents). The email communication was very expensive and used to take a lot of time.
+Now we sync-up every-day and focus on where we are. This is awesome from my point of view. Mails have reduced and most of the queries are resolved in calls.
+Earlier, I was focused mostly on high level around cost, time and scope. As Scrum Master, I feel much more connected with the team on day to day basis on detailed level which is good as I know their problems early and work on them to fix them early.
+As people work as one team, they empathize with each other and help. Requirement change is much easier. Based on the discussion and on the readiness of the story, we prioritize the changes. If the change is small, we accommodate the same in the sprint but it’s big, we move it to the next sprint.
+Areas of Improvement
+Though development team is making progress, there are improvement areas in reducing time taken for managing release activities as they are still managed in silos. Any change after code freeze needs to be approved by multiple parties. Each party may have their own SLA.
+If we want to move towards Continuous Delivery and reduce the production release time, we have to focus on these areas.

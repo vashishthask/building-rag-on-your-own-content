@@ -1,0 +1,59 @@
+TITLE: Agile Principle: Simplicity – The Art of Maximising the Work Not Done
+URL: https://www.agilebuddha.in/agile/agile-principle-simplicity-the-art-of-maximising-the-work-not-done/
+---
+
+Simplicity at work – I h’ve always wondered what does this mean to me, to my team and to my organization. In my quest to know more, I asked this to many Agile Coaches and enthusiasts on various groups.
+In this post, I like to share what I understood and gathered from my interaction with these people: Steve Ash, Charles Bradley, Lynn Shrewsbury, Ruud Rietveld, Philip Ledgerwood, John Hebley, Jeff McKenna, George Dinwiddie, Adam Sroka, Michael James, Matt Anderson and Cass Dalton.
+
+[pullquote]Simplicity is the ultimate sophistication. ~ Leonardo da Vinci[/pullquote]
+Decluttering is a consequence of Simplicity. Simplicity leads to:
+
+Decluttering of products.
+Decluttering of your mind. Not being manipulative – being honest, open and trustworthy.
+Decluttering your workspace, working in open spaces.
+
+[pullquote]Scrum philosophy of working in small teams, small sprints, small stories imbibe simplicity thinking – Thoughtful reduction.[/pullquote]
+The desirability of simplicity is sometimes expressed as the KISS Principle.
+
+Do today only what you absolutely need to do today. No ‘future-proofing’.  No  ‘gold-plating’.
+Achieve Just Barely Good Enough (JBGE). JBGE is actually the most effective possible.
+
+Thanks to Scott Ambler for sharing this term JBGE. You could read more about this in my earlier post Agility is About Identifying and Achieving “Good Enough”
+There is a point in time when any additional effort put into work product will increase its cost without increasing its value. If not zero, the increase in value may be insignificant compared with the increase in cost. This is the point to stop! (Achieving JBGE).
+
+It’s easy to continue developing a product beyond some point. A Standish Group survey in 2009 stated that over 70% of functionality is never or rarely used. Not doing that work is a great opportunity to do more valuable work.
+[pullquote]The simplest way to achieve simplicity is through thoughtful reduction. Thoughtful reduction is increasing the amount of work not done. Inspecting closely to remove waste in the process and product.[/pullquote]
+Few Agile thinking and practices that come to my mind are:
+
+Test Driven Development follows simplicity. You right just enough code to pass your tests. By defining the measure of success first and then coding to that (and only to that), you eliminate a lot of unnecessary work.
+Building working software just enough to get feedback.
+Writing just enough documentation to serve a need.
+Use of story cards (As a customer, I want to do something, so that I can get some value). You don’t do anything unless the value can be clearly stated.
+Using simple task boards to measure progress.
+Backlog refinement: Product Owner decluttering backlog to identify features that will make his product successful. Check my earlier post Scrum Product Owner Has to Kiss Lot of Frogs to Find a Prince
+Having only 3 roles in Scrum (Team, ScrumMaster and Product Owner) on a team is simplicity.
+Thoughtful reduction of hierarchy within the organization is a step towards simplicity.
+
+[pullquote]Simplicity facilitates creating product with minimum functionality that is easy to use and has simple user interfaces and to achieve Minimum Viable Product (MVP)[/pullquote]
+XP-term ‘YAGNI’ (‘You Aren’t Gonna Need It’) defines simplicity. Teams want to create more than what is asked for, because, we are going to need it further down the road. But the road can go in a different direction soon, and then all the work is wasted. Hence better do it simple now and only embellish when it is actually needed.
+
+Keeping design simple eliminates the need for supporting documentation.
+Simple design approach reduces unnecessary work done upfront.
+Doing refactoring now keeps code and design simple and easy to change with less effort.
+
+In software development, teams often add work that can be easily avoided as they are not adding any value. Work such as:
+
+Delivering features that nobody asked for.
+Gold plating things that are already shippable.
+
+When organizations are building software, they do certain things that are necessary in the scheme of things. But, these tasks demand time and effort that could be put to better use.  Not to say that these should be skipped altogether. But, there’s definitely a way to achieve the same purpose in an easier way. What are those tasks? Let’s list them below:
+
+Requirement documents are not necessary to understand the requirements.
+Design documents are not necessary to design software.
+Estimating is not necessary for producing software.
+Documenting test cases are not necessary for testing.
+
+None of the above themselves contribute to the final product. Like I said, they serve a purpose in your organization even though they do not directly lead to working software. Consider their purpose, and consider other ways to achieve the same purpose with less time and effort. Else, you’ll end up with a pile of ‘actual work’ not done.
+There is a tendency within developers to design the generic, scalable framework first, before having more than one real example to implement that uses the framework.  You never really know what generality you really need until you have several data points.  The leaner/agile solution would be to write the first implementation in the simple way just to get the product in front of people.  Once you have a need for a second or third case, then this will have a much better idea of how much of your generic framework is really generic and how much of what you would have written into the framework was either unneeded fluff or actually specific to the first implementation.  In this case, the simplicity allows you to not to over-engineer the software.
+In one of the group conversation, Charles Bradley shared a link from his blog. Check this to find what Ron Jeffries and Chet Hendrickson have to say about Simplicity.
+Please share your story of how did you and your organization applied simplicity principle.

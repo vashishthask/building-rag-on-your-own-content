@@ -1,0 +1,21 @@
+TITLE: Agile Team Dysfunction: Overcoming the &#8220;We vs. They&#8221; Mentality
+URL: https://www.agilebuddha.in/agile-testing/agile-team-dynamics-developers-vs-testersdesigners/
+---
+
+Yesterday I had a conversation with one of my colleagues Prakash who works as a tester in a Scrum team.
+“So how is it going on?”, I asked.
+Prakash took a deep breath and said, “Umm…workwise I think I am getting more confident on the application functionality now. However in one of our retrospectives I realized that I have to improve on some of my personal traits.”
+“Interesting ! – and what are those?”, I asked.
+
+“One of the points, I also felt myself too is – I take a lot more time to solve a problem.
+Second point is a bit confusing to me as team feels that in general I crib a lot but do very little to solve problem. It’s confusing as those same guys tell me to let them know the technical problems I am stuck with and raise alarm before it’s too late. However, I am not able to decipher the exact definition of “too late” here as I don’t know when telling problems to team transforms into cribbing.”, he replied.
+I thought for a moment and continued, “At the outset, these two points look different but essentially they are smell to the problems in team dynamics.
+From my experience, many a times, these problems occur when some developers dominated teams consider testers as second class citizens.
+Whenever in a team we talk about “we vs they” (or testers vs developers), it essentially means that the team is not working for the success of a Sprint. Instead this team consists individuals who feel that developers and testers have to finish their individual work separately.
+So here, the problems of testers do not become the problems of the team but rather become yet another impediment which a Tester has to solve himself. And that’s where the problem of “we vs they” become even more visible.
+It looks like as if the team has forgotten  that the end goal for an Agile team is not about finishing individual goals (which may look good to one’s own ego) but to finish Sprint goals.
+So in your case Prakash, it looks like developers do not have time to hear and solve your technical problems as that’s why they say you crib a lot. When you become very frustrated with their response and lack of help, you try to fix things on your own. Acquiring a new skill especially in another domain takes time. That way, you are bound to take a lot more time than it could be possible with collaboration within the team.
+You could have avoided the problems you have if developers in your team would have been supportive to your cause. It is important in a team that everybody considers himself as a team-member first and developers/testers later. To achieve Sprint goals, everybody has to make efforts and help each other.
+Last but not the least your Scrum Master should have taken steps to help you in fixing your technical impediments.”, I concluded.
+Conclusion
+To be honest it’s pretty common to see this “we vs they” attitude in a lot many Agile teams. It not only happens with testers but also with designers and technical writers too.  In a way, helping out tester/designer looks like an obstruction to the rhythm of developers. However essentially it can be blocker to entire Sprint SUCCESS. Definition of DONE for a customer not only includes the development effort but rather means fully tested software.

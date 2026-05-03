@@ -1,0 +1,18 @@
+TITLE: How to Use Sprint Burndown Chart in Daily Stand-up and Sprint Retrospective
+URL: https://www.agilebuddha.in/agile/sprint-burndown-daily-standup-sprint-retrospective/
+---
+
+Sprint Burndown chart and Daily Stand-up help Scrum teams in Self-Organisation. Never use Sprint burndown chart in sprint review. Sprint Burndown is inward facing, i.e it is for Scrum Team.
+
+This chart summarise overall how team is doing? Every impediment, every challenge team faced, colloboration issues etc all get summarised in this chart. Teams need to update the tasks with time remaining in hours to get this chart. Scrum Master prints and analyses this updated Burndown before daily stand-up and brings it to the meeting.
+
+Team and Scrum Master can take lot of cues from this chart as an input to daily stand-up. If a team is lagging behind then teams can
+
+Re-allocate tasks to address bottlenecks
+Resolve impediments facing the team
+Take expert hands on team or people who have worked on similar tasks earlier to speed-up or they taking complex stories
+De-scope by talking to Product Owner and this should be last step, because team should explore all possibilities to adhere to sprint goals and commitment.
+
+Focus should be to bring back the sprint on schedule. During such conversation there are lot of cues to watch for, like, how team is helping each other, who is taking a lead, honesty, commitment, collaboration etc. 
+Sprint Burndown chart act as a good input for sprint retrospective meetings. Teams can take cues from each small change in the graph to understand what really caused this?
+During such analysis, I see conversations like “initially requirements were not clear”, or “user stories were not detailed enough” or “Sam helped team by finishing the story earlier” or “Story x was less complex then we estimated” and many more such discussions come up. Teams surface lot of good things and things to improve during such analysis.

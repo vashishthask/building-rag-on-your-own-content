@@ -1,0 +1,31 @@
+TITLE: Agile Estimation : 8 Steps to Successful Story Point Estimation
+URL: https://www.agilebuddha.in/agile/agile-estimation-8-steps-to-successful-story-point-estimation/
+---
+
+In Story sizing, team does a comparative analysis between all of the stories for the project. Let’s look at the typical story sizing steps.
+For each story to be sized, do the following as a team(Product Owner, Core Scrum team including developers, testers &amp; scrum master).
+
+1. Identify base stories.
+It is very important to identify one or multiple base or reference story against which you would do relative sizing of the backlog. This story is picked from current product backlog or a different story which we have done earlier. But what is important is the understanding of this sory is same among everyone on the team. Team should be confident of this base story.
+2. Talk through the requirements of the story.
+Product Owner or a business analyst will answer questions and provide explanation about what exactly this story entails.
+3. Discuss and jot down things you want to remember when implementing this story.
+These can be bullet points on the story card or text in the “notes” section of a tool. This is best done by Scrum Master who can add these details as and when discussions are on.
+4. Some of these questions team ask themselves when they start sizing.
+1. Design: What will we have to learn before we can start work on this story?
+2. Coding which include tests: How much code will need to be written for this story? Have we written similar code before?
+3. Acceptance Testing: How much work is involved in helping the customer to automate the acceptance tests for this story?
+4. Integration Points: Does this story have external dependencies?
+5. Expertise: Does anyone of us have done similar story before?
+6. Complexity: Is it a straightforward story or it includes complexity either from business logic perspective or from technical perspective
+7. Uncertainty/risk: How certain we are for instance in getting the dependencies in time or test data we requested.
+5. Find some point of relative comparison.
+If this story is about the same amount of work as one you have already sized, give it the same number of points. If it is more difficult, give it a proportionally higher value. If this story is similar to another but less complex because of the learning from previous story, give it a lower value.
+6. Reach a consensus among entire team present as to the size of the story as per Definition of Done.
+7. Validate that your estimates are internally consistent among stories as you go along.
+8. Periodically ensure that all of the 1’s are about the same, all of the 2’s match, etc.
+Likewise, the team should agree that a five-point story is roughly twice as much work as a two-point story.
+In story point estimates, it does not matter if your estimates are correct or incorrect as long as team arrives to a shared understanding on a user story. We will talk about this and many other aspects of estimation in coming posts.
+So what is your experience in using this technique till now? Please share.
+More on Story Points and Agile Estimation
+This post is a part of a blog post series on story points and agile estimation. To read rest of the posts on the subject, please navigate to All About Story Points and Agile Estimation Series.

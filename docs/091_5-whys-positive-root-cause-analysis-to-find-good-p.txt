@@ -1,0 +1,28 @@
+TITLE: 5 WHYs: Positive Root Cause Analysis To Find Good Practices
+URL: https://www.agilebuddha.in/agile/5-whys-positive-root-cause-analysis-to-find-best-practices/
+---
+
+In my earlier article I shared my opinion about using 5 WHYs to find root causes. What I really missed to point was, it is not just applied to find root cause to problems, but it can be used to find root cause to good things that are happening on the team.
+In sprint retrospectives we usually pick some problem that occurred, try to figure out why it happened, and then understand how we could prevent this problem from happening again in the future. Our root cause analysis meetings are usually always on “What is That Not Going Well”.
+
+Now let’s apply 5 WHYs thinking to this question…
+
+“Why our last few sprints have gone so well?”
+
+Why we are successful?
+
+Because we are able to deliver everything tested with high quality within our 2 weeks sprint
+
+ Why we were able to test everything within a sprint
+
+Because we invested in test automation from start of the project and is paying off
+Also our testing team started testing quite early in the sprint
+
+Why this was possible?
+
+Our developers delivered stories in frequent intervals as they limited work-in-progress (WIP) to two stories instead of three
+Also our stories were small enough to complete in 1-2 days
+
+Here you see new set of good practices like test automation, limiting work-in-progress (WIP), splitting user stories small enough are emerging. Applying this positive root cause analysis on things going well will lead us to practices that are making teams successful.
+Agile Coach can use this to find good practices that are emerging on each team within the organization and start sharing between different teams.
+Good things go viral and positive root cause analysis can make agile adoption faster and easier.

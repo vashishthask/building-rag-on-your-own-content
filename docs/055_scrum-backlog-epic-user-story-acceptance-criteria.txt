@@ -1,0 +1,68 @@
+TITLE: Scrum Backlog: Epic, User Story, Acceptance Criteria
+URL: https://www.agilebuddha.in/agile/scrum-backlog-epic-user-story-acceptance-criteria/
+---
+
+Often, I get to hear questions about level of details that need to go in the product backlog stories.  How detailed should be the acceptance criteria? or how small the story should be? We all know stories matures with time. I really like this post on user story life-cycle. Please take time to read this. Let’s consider an example now.
+
+User Story example: As a Project Owner(PO), I should be able to transfer complete project ownership to my connection, with my role remaining to be just a project creator(author) after transfer.
+Note: At the first sight, it is tough to say whether this is a story or an epic. When this story comes up in backlog grooming meeting, teams might completely miss the magnitude of such stories.  Hence, as the product becomes bigger it is wise to start detailing stories by adding acceptance criteria earlier in grooming meetings itself. Impact of every new story gets wider as product becomes bigger which often gets missed by the team.
+Now, let’s see the description of this story below:
+Description of the story: Currently, authenticated users do not have the ability to be able to transfer the project ownership to their connection. While I may be listed as the Project Owner by default when I create a project, but I should be able to transfer the ownership to any of my Connections by assigning them as the Project Owner. This project should then drop-off my projects dashboard and be available for the new Project Owner.
+The Original Project Creator will still be tracked in the Project. If the Project Owner is again revised, access and edit permissions will be transferred to the new Project Owner. This field will be listed under “Assignment Information” in the Project edit view.
+Acceptance Criteria for the story will be:
+1. Author should have permission
+
+To upload content files
+Download contents, turns and transcripts
+To view assignment, case information and project information block.
+To discuss and collaborate.
+
+2. Author should NOT have permission
+
+To upload transcripts
+To edit project
+To delete any of the files(content,transcript)
+To create/edit turns.
+To search on those projects if he does not have any other role on the project.
+
+Workflow Status Change:
+
+There is no change in status of the project when ownership gets transferred. Earlier workflow remains intact.
+
+System Notifications:
+
+System Notification will be displayed for new project owner after assignment in his notification window.
+Email Notification will be sent for new project owner.
+No notifications to authors for any changes in project after transfer
+
+Discussion:
+
+Project author should be able to discuss on the project And notification is going to all assigned users.
+If any of the assignee add something to discuss, notification is going to assigned users except Author.
+
+Collaborate:
+
+Project author should be able to Collaborate on the project And notification is going to all assigned users.
+If any of the assignee add something to collaborate, notification is going to assigned users except Author.
+
+Project Search:
+
+New PO should be able to search the project after he is been made owner by the project author.
+Unassigned PO  — If a PO (say name abc) transfer her ownership to one of her connections, then, abc should not be able to search the project.
+
+TimeZone:
+
+Create Date/Time of the project should get changed as per the timezone of the new PO
+Due By Date/Time of the project should get changed as per the timezone of the new PO
+
+Dashboard:
+
+Author should not see this project under her Project Listing
+PO should see this project under her project Listing.
+
+Reports:
+
+Any impact on existing reports?
+Creating new report story: Should we create reports to assess how many levels of ownership change has happened?(This can be treated as a separate story). I should be able to track all the ownership changes, how many levels, from whom to whom in the reports.
+
+As you see here, complete  details of the story doneness must go in the acceptance criteria. This lists out all the impacts across the system. But this list looks quite long. Hence this is an Epic and might take more than a quarter of a sprint(this is the thumb rule I follow to pick a story in a sprint). This epic now can we divided into multiple stories like handling dashboard, search and reports. That will bring the size of the above story manageable to implement within the quarter of the sprint. Build basic functionality and then add features incrementally to make them rich.

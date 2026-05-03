@@ -1,0 +1,21 @@
+TITLE: Agile Offshore: Why Distributed Demo / Showcase is so Important?
+URL: https://www.agilebuddha.in/agile/agile-offshore-why-distributed-demo-showcase-is-so-important/
+---
+
+Demo is an integral and important part of Scrum ceremonies. Important because that’s the whole point of being Agile. You get early feedback from Product Owner and stakeholders and fine-tune the product if required. Also this is sometimes the only occasion for offshore team when sponsors and business actually get to see the real contribution of offshore team. There are valid reasons also when someone from onsite team gives the demo. They include:
+
+Language problem. I worked with a French team in which stakeholders and business were more at ease to talk in French.
+Completely opposite time-zones which may not allow a lot of collaboration.
+
+The advantages of distributed demo far outweighs the ones of onsite demo. 
+
+Here are some of them:
+
+Offshore team interacts with Product Owner and stakeholders and present what they have developed in the sprint.
+Provides a sense of achievement to offshore team-members at the end of sprint.
+Team gets direct feedback from Product Owner and Stake Holders instead of getting through filtered channels.
+Offshore team-members get more visibility with customer which is important from trust-building and transparency point of view. Otherwise customer gets very hazy view on what offshore team does which in turn may lead to question their capability.
+Team-members who developed the functionality can provide better answers to the feedback questions.
+
+Along with customer’s node and defining a convenient time which works for both teams, right tooling is essential. For screen-share and video conversation, in the past we have used Skype extensively which is free as well as efficient. Some people have been using Google hangout too. There are some screen-share only softwares also like yuuguu and mikogo. 
+Many enterprises are using Webex quite successfully. In order to make it work efficiently, along with good tools, good bandwidth, right webcam and mics are essential. It’s advisable to set and check infrastructure a little early before the demo time. It’s also good if the same people who developed or tested the functionality give the demo. Again that’s based on comfort of the team.

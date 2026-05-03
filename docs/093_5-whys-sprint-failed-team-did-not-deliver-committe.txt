@@ -1,0 +1,74 @@
+TITLE: 5 Whys: Sprint Failed – Team Did Not Deliver Committed Work
+URL: https://www.agilebuddha.in/agile/5-whys-sprint-failed-team-did-not-deliver-committed-work/
+---
+
+Applying 5 Whys is a good way to address the problems that you are facing on your teams.  This thinking is very simple, just ask WHY multiple times till you reach to root cause. You can read more about 5 Whys here.
+Some benefits of using this Lean technique are:
+
+Helps identify root cause of a problem
+Determine the relationship between different root causes of a problem
+Very simple to use without any statistical analysis
+Very useful when problems involve human factors or interactions
+
+Asking 5 times WHY generally leads you to a root cause. In some cases you may reach in fewer iterations and in some it may take more than 5.
+Now let’s apply this technique to our problem on hand.
+Problem: Team failed in their sprint as they were not able to complete all the work committed.
+
+Let’s see how Team A applies this to identify the root cause:
+
+Why did Sprint fail?
+
+Requirements were not clear. Each team member had different views of the requirement when they got to the implementation.
+
+Why did team have different views?
+
+Team were not able to clarify the requirements with product owner
+
+Why this was not possible?
+
+Because product owner was not available.
+
+Why Product Owner was not accessible?
+
+Product Owner is too busy with multiple teams and other responsibilities. Hence he is running very low on bandwidth.
+
+Here you have reached to a root cause in 4th iteration. Solution in this case could be:
+
+To balance product owner load, so that he spends enough time with the team OR
+If your budget allows you to have a dedicated product owner,  then it’s good. If not can someone on the team step-up and take more responsibilities to help product owner to groom and write acceptance criteria
+or you may come up with something else…..
+
+Each problem can have multiple root causes and multiple solutions depending upon the situation you are in. Now let’s apply same technique to a different team which is also facing same problem.
+Let’s see how Team B applies this to identify the root cause:
+
+Why did Sprint fail?
+
+Because team did not have enough time to test every feature developed
+
+Why did team have less time to test?
+
+Because team delivered most of the stories in last 2 days
+
+Why this was possible?
+
+Each team member was working on a different story
+
+Why each member was on different story?
+
+Because team thought this is the best way to approach implementation to finish all of them
+
+Why team thought this is the best approach?
+
+Each story was big enough to keep developer busy for full sprint
+
+Solution in this case could be:
+
+Team did not try to break big stories to smaller ones. They could have used right techniques to split stories
+Multiple team members could have worked on one story and finished it earlier to give to testing
+more….
+
+Asking WHY repeatedly will lead to a root cause.  Sprint retrospective could be a good place where you can try this after you identified your list of issues.
+Team can also benefit by applying this 5 Whys technique when they are too busy from sprints after sprints and are loosing bigger picture.  You can check my earlier article on Lack of Big Picture Leads to Blind Man Product
+Asking product owner why this user story is in this sprint leads to discussion on release goal–&gt;again WHY leads to Product road map–&gt; again why to Product vision –&gt; and then to Business vision. Now team gets complete bigger picture of their work.
+Identifying root cause is extremely important to agile teams which breathe Inspect and Adapt spirit.
+                                  Have you tried this technique? Do share your story.

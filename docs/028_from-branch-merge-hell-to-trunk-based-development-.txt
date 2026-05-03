@@ -1,0 +1,58 @@
+TITLE: From Branch Merge Hell to Trunk-based Development – A Bank Agile Case Study 2/n
+URL: https://www.agilebuddha.in/agile/from-branch-merge-hell-to-trunk-based-development-a-bank-agile-case-study-2-n/
+---
+
+Lots of organizations are desperately trying to bring agility in their enterprise IT. In many such cases, enterprise IT stands on the worn pillars of traditional Waterfall process and legacy products.
+The business in such orgs sees IT as a black hole where no business need can escape from inside it. The reason being, traditional process, and legacy systems take months of cycle time to deliver almost any business need.
+This results in frustrated and desperate stakeholders who threaten to try anything or everything under the sun to get tangible outcomes.
+This case-study is a story of a bank which was almost on the verge of outsourcing its entire IT. The bank since has moved on to become one of the pioneers in banking innovation space. The bank focuses to serve its customers with innovation and agility in its offerings.
+In the first part of the case-study, we looked at the difficult conditions the team lived in. That was more to do with technical processes they used for handling multiple projects at the same time. This part focuses on how they moved on from the branch merge hell they lived in.
+
+== Part 2==
+It was evident that the code branches just postponed the pain. That pain would eventually become huge but difficult-to-deal-with after a couple of months.
+Over time, the team realized two things from the Continuous Integration (CI) philosophy (yes, I call it a philosophy).
+If it’s hard to do something, you are not doing it often enough!
+If delta is small, so is the risk.
+The team had a hard time in merging feature branches with mainline. That just meant, the team was not doing the code-merge often enough.
+Moving to Trunk Based Development
+After lots of analysis and experiments, the team decided to move towards trunk-based development. They stopped creating feature branches for new projects and started working on the trunk only. The merge-pain in this approach, though multiple times every day, was relatively small. The team would sort them out through active collaboration.
+The idea is to let developers develop and push code in the trunk at regular intervals. That works only when the code has a safety net around. For that purpose, the team built a good test harness.
+In order to get immediate feedback with each code commit, the team implemented Continuous Integration. As and when, a developer pushed the changes to trunk, the CI server would run an automated build and execute the automated test cases.
+In case, the build breaks because of compilation issues or test failures (bugs or regression), the CI server would send a notification to the entire team. The immediate thing the team would do was to fix the build.
+With continuous merge to trunk, multiple times a day, the merge pain became minimal. Soon, the big-bang merge-hell and its undue pressure on deadlines became a thing of the past.
+With good test coverage, the overall application quality improved.
+As integration happened with each code commit, it no longer was a pain anymore it used to be.
+Release to Production
+Initially, team decided to have a 6-weeks production release. Out of 6 weeks, the team would devote 2 weeks on regression cycle. In order to reduce regression cycle further, the team put a dedicated focus improving test coverage.
+The 6 weeks release cycle would arrive like a bus every 6 weeks and would take production-ready features with it. Any feature left that cycle would wait for another bus (release) to arrive.
+
+As part of trunk-based development, the team had 3 branches in total at any point in time. Developers worked on the trunk (mainline) for every project. That included waterfall projects as well.
+When a feature would get ready, the team would cut a temporary stabilization branch. Developers then would run non-functional tests, system tests and UAT on stabilization branch to make the feature ready for the production.
+When ready for production, the team would rename the stabilization branch as the new production branch. Effectively again the team had two branches, namely development (trunk) and production.
+The Defect Fixes
+The team fixed production defects on the production branch. They used stabilization branch to fix any defect coming in UAT (user acceptance testing), system testing or non-functional testing. They would merge these defect fixes in development branch at the same time.
+How Team Handled the Unready Features
+You may ask if every code change happens in the trunk, what happens to incomplete features? These features shouldn’t move to production. Also what happens to features which you don’t want to move to production yet?
+The team used the idea of Feature Toggle. If something was not ready, the team would switch-off that feature in production. When ready, they would switch it to using feature toggle and would make it available in production.
+Trunk-based Development Essentials
+As part of trunk based development, the entire team works on the trunk. It’s important to have a quick feedback cycle in such cases.
+The trunk-based development is all about communication. We use version control to communicate what we’re doing to the rest of the team. To do it regularly enough, we have to work in very small batches.
+-Jez Humble
+The idea is to let developers know if their changes impacted any other functionality. This happens through the automated unit, integration, and functional tests.
+The e-banking team decided to cover any new code with automated tests. Team also decided to cover the legacy code with automated tests as and when they touched it.
+A developer would first take the latest code from trunk and merge incoming changes if any, before committing her changes to trunk. In case of conflicts, developers collaborated to resolve the conflict.
+The e-banking team adopted the approach of frequent and small commits instead of End of Day commits. It was in the spirit of “if the delta is small, so is the risk”.
+Syncing Across Multiple Projects
+As e-banking team worked on multiple projects in parallel, it was important to have a regular sync-up among all e-banking team-members. The team required it to resolve design conflicts across projects in time.
+The team had a daily stand-up in which the team would discuss the design approach, any conflicts they could have, and any problems they faced at that time. The technical architect of the team would help to ensure architectural sanctity and resolve any conflicts.
+Coordination and collaboration became an integral part of the working culture and didn’t limit to daily standup.
+Consequences
+The work got simplified tremendously. Earlier, they had to work and maintain a cobweb of feature branches and environments. Now the team essentially had to maintain at most three branches (development, production, and temporary stabilization).
+
+The team would fix the production defects in the production branch and would merge them to trunk and pre-production (if in use) branches.
+This required lots of collaboration. However as collaboration became the part of the team DNA, it didn’t increase the effort involved.
+Regression testing was continuous and frequent. Initially, frequent regression was time-consuming. After some time, it started decreasing with the increased automated test coverage.
+Feature toggles became de facto standard to release features at will.
+What Next?
+The e-banking team became efficient in their work. The trunk based development helped them a lot in fixing the problems they had. However, the business solutions often involved multiple applications, i.e. a credit card product could potentially involve Payments, e-banking and Loans applications at the same time. The IT was able to make e-banking application efficient but dependencies among applications were taking a toll on the overall efficiency of building a banking product.
+The bank eventually moved towards forming feature teams to resolve dependencies. How? We’ll see the same in the next post.

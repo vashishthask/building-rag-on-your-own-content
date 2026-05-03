@@ -1,0 +1,21 @@
+TITLE: Agile Offshore : Business Analyst &#8211; Complementing the Role of Product Owner
+URL: https://www.agilebuddha.in/agile/agile-offshore-business-analyst-complementing-the-role-of-product-owner/
+---
+
+Let’s take a scenario.
+You have a product owner at distributed location but somehow he is not able to provide sufficient time to distributed team. Because of that team doesn’t get enough understanding of user-story.
+Does it sound familiar?
+Mostly it’s about PO getting involved in too many other things. That results in not having user-stories READY, analysed or communicated properly.
+
+That brings another question related to suitability of people assigned for PO role. Not everybody is good in analysing and writing good user-stories.
+
+For a combination of “not having enough time” and “not having right skills to write user-stories” issues, I observed it’s good to have an additional role which fill this gap. While working in recent projects, I realised that’s the role of Business Analyst.
+Before jumping into solution mode let me clarify that the immediate and ideal solution is to balance actual product owner time. However in reality sometimes that’s just not possible because of many other constraints at customer side. Having a business analyst helping PO doesn’t mean that PO doesn’t interacts with the team. Business Analyst is still part of the team and PO still spends time with the team. However BA takes lead from team perspective in helping PO and shaping user stories.
+In the past, we tried to implement the idea of establishing testers as pseudo Product Owners. But in reality, they have different focus areas and skills. It’s great to have additional business analyst skill along with a tester but not all testers have that kind of mindset and understanding of problem domain. Business Analyst need to have holistic picture in mind while thinking about business solutions. If tester’s mindset is just limited to the tests and finding bugs, it’s difficult to realise BA role with a tester.
+Apart from right mind set, if you work on vendor side, as a tester you may not have sufficient domain skills as projects keep on changing. Community of experienced domain testers is in rarity.
+In that context, I feel it’s important to have the concept of specialised Business Analyst role. Business Analyst continuously has a discussion with PO and team and come out with user-stories. PO provides participates in the discussions, provides all sufficient inputs and engage with related stakeholders. PO also takes the prioritisation decisions based on business priority and cost of the user-story.
+BA becomes the point of contact for the team in case team has any questions related to user-stories.
+I have seen this working well in many projects. However while solving one problem, you may get into yet another problem. The problem is – some times BAs are just focused in transporting information to the team and in process might be working as postmen, which is dangerous.
+The idea of having BA onboard is not having a postman in the team but to provide a good amount of value add to the customer. For instance questioning if the user-story really provides any business value, questioning team if the proposed is the right solution or if there are simpler ways to do the same. Some times technical solution may not be the right solution for a given problem.
+Conclusion
+If Product owner is dedicated to the project and has good analytical skills from functional point of view, that’s ideal. However many companies work in constraints which doesn’t allow them to have a dedicated Product Owner. In that context, I find having a role called Business Analyst works very well for the team, especially for distributed teams where most of the issues are caused because of communication gap, insufficient information and unavailability of the product owner.

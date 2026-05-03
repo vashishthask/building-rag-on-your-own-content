@@ -1,0 +1,22 @@
+TITLE: Appraisals in an Agile Company &#8211; Part 2
+URL: https://www.agilebuddha.in/agile/appraisals-in-an-agile-company-part-2/
+---
+
+In our last post, we discussed about how to break performance measures into team and individual measures to bring more team behavior orientations into appraisals. 
+Today, let’s talk about addressing other two issues: feedback frequency and how to make feedback effective.
+
+Agile thinking is based on building frequent feedback loops within your teams and organization. Few examples of frequent feedback loops are:
+
+Sprint demos every couple of weeks, to get product feedback
+Sprint retros to get process and tool feedback
+TDD/BDD/continuos integration to get code feedback
+Continuous testing to get quality feedback. Check-out our new launched 2 day extensive workshop on agile way of testing
+
+But when it comes to people feedback it is done mostly once a year.  Feedback is better given timely and as much close to the incident, to connect with the context and situation. Once a year feedback is too late for an individual to put corrective measures. In long feedback cycle, both reviewers and reviewee, don’t always remember the important incidents and it’s context which is important for reviewee to discern feedback.
+Long feedback cycle and long appraisal forms makes this once a year process very heavy. Filling long forms are time consuming. Giving feedback is about my perception about that individual. It is very tough to articulate this in written. It NEEDS a discussion.
+Hence it is important to break long process into small, more frequent with Small or No forms.
+Then, can feedback be done every quarter, or more frequent? Yes it can be, provided time taken to collate feedback is less without losing its effectiveness.
+Teams can try sprint retrospective format of Start Doing, Continue Doing and Stop Doing – a 3 column approach to collate feedback by having all the reviewers in the same room. You can try to have the reviewee in the same room or not, depending upon the maturity and org culture. Personally I have facilitated many appraisal sessions in this format and seen it to be very effective. People really debate and reach to the consensus. Also in such group discussions many perceptions gets cleared, feedback gets consensus by the group, and only relevant gets communicated to the individual. Feedback remains short and effective.
+Such sessions can consume lot of time if you do once a year. But if you have such sessions more frequent, then time consumed will be very less and feedback will be more real-time. Try doing quick feedback sessions at the end of every sprint, so that people get feedback many times in a year(Continuous feedback).
+Note: Please don’t wait to give feedback till formal feedback session happens. Please see feedback as a growth engine and keep it constructive.
+Can we all-together remove appraisals? let’s discuss about this in upcoming posts. Till then happy appraisals!

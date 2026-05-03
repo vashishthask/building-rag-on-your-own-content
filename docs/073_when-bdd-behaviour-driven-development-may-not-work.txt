@@ -1,0 +1,30 @@
+TITLE: When BDD (Behaviour Driven Development) may not work?
+URL: https://www.agilebuddha.in/agile-testing/when-bdd-behaviour-driven-development-may-not-work/
+---
+
+For quite some time there have been talks on using BDD in order to have:
+
+Better collaboration between Business Analysts (BAs), developers and testers.
+A common domain language for functional testing and for defining functional acceptance criteria, which everybody in the team understands.
+
+Why BDD?
+BDD offers following advantages:
+
+Ability to write test cases (scenarios) and acceptance criteria before performing any development. This whole idea is termed as Acceptance Test Driven Development (ATDD).
+Provides a common domain language, which everybody across the board (developer, tester, BA and business) understands. As at the end it’s plain English, it’s simplest to learn compared to other DSLs (domain specific languages).BDD example
+
+Helps in eliminating waste by minimizing handshakes. If you take a look at the above-mentioned example, testers and BAs can write a test or acceptance scenario using a BDD template (highlighted in Yellow) with plane English
+
+Developer/tester can then fill in the blanks, i.e. implement the test case using programming language or script.
+Writing text doesn’t require any IDE like Visual Studio or Eclipse. The test/acceptance scenario can be written in a Notepad too and then pushed to Version Control System, which is then picked up by developers/testers to implement.
+As BAs, developers and testers work only one single source of truth (BDD test), it minimizes the handshakes and reduces waste. Also it is well understood by everyone as test-scenario is in plain English.
+
+Some reasons why BDD may not work
+Non-working of BDD has nothing to do with technology itself but has a lot to do with eco-system around. Here are some of those reasons:
+
+Legacy silos in the team
+Many a times, when teams move from waterfall to Agile, team structures continue to remain the same. So for instance testers are managed by a testing head, BAs are managed by similar kind of hierarchy etc. Even though they start working in Agile projects, as part of age-old waterfall legacy, they still continue to work in silos and don’t collaborate. BDD is useful when the testing is not the responsibility of just testers. A domain test language like English based tests are useful when people in business, Business Analysts and developers contribute and collaborate in defining, creating and maintaining these functional test cases. If nobody else other than testers reads them, BDD looks like extra overhead to testing community.
+Maintenance doesn’t get enough support
+This point is applicable to all automated functional test cases. In some organizations, money is pumped to new greenfield initiatives or new projects. And projects in maintenance may lack required resources. In the absence of required attention, automated tests break and if nobody fixes them they are not maintained further. Teams just get away with fixing issues with manual testing and in that way allow software debt to prosper.
+BDD requires scripting skills
+Scripting or some coding skills are basic foundation for new-age test automation. For many organizations moving to scripting is not a big deal but for many other bigger organizations it is. The reason being, 90% of their testers know manual testing only and have been doing so for last 20 odd years. For these organizations, asking their testers to learn coding or scripting skills or else leave, may be a tough and steep strategic decision. For the same very reason, they prefer scripless but expensive test automation tooling.

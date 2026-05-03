@@ -1,0 +1,14 @@
+TITLE: Our Sprint Velocity Never Seems to Change. We don&#8217;t Know Why!
+URL: https://www.agilebuddha.in/agile/our-sprint-velocity-never-seems-to-change-we-dont-know-why/
+---
+
+Story point is about size, not about time.
+At best it can be about a range of time but not about absolute time. In many teams people map story point directly to time and may get into vicious cycle towards burnout.
+Let’s try to understand why.
+Let’s say, the team mapped 1 story point to 1 day. As they do that, the team velocity becomes almost constant. The reason being, the team capacity in terms of number of days remains constant.
+As team mapped 1 story point to a day, the story points to be planned or achieved will always be around the capacity (number of business days available) of the team.
+Management folks may complain that team throughput is not changing. Throughput might have already changed but it will never show up.
+Instead of completing 10 similar sized stories, team may be finishing 14 already but that will never reflect as number of days required to accomplish them remain constant from sprint to sprint.
+So never map a story point to time unit as that will create more problems than it solves.
+More on Story Points and Agile Estimation
+This post is a part of a blog post series on story points and agile estimation. To read rest of the posts on the subject, please navigate to All About Story Points and Agile Estimation Series.

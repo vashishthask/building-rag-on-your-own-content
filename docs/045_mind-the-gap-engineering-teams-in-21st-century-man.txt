@@ -1,0 +1,20 @@
+TITLE: Mind the gap: Engineering Teams in 21st century, Management in 20th century
+URL: https://www.agilebuddha.in/agile/mind-the-gap-engineering-teams-in-21st-century-management-in-20th-century/
+---
+
+Quite often I get to see engineering teams – upto middle management being new to agile, are ready to give it a try. But they have real problem on hand that is – coaches asking them to:
+
+Embrace change from business and at technical practices level
+Question traditional approaches of development
+Do some planning not much
+Do some analysis not much – leading to analysis paralysis  and list goes on…
+
+But engineering teams have to give their management:
+
+Long term plan
+Have to commit to project estimates at the start
+Accept all the scope changes keeping time almost same and goes on….
+
+Saying “NO” to unrealistic expectations, scope and time is biggest cultural change. We see it so often. You can read more about this in my earlier post Sustainable Pace: Does Culture Play Any Role At All 
+One of the biggest myths in the industry or mis-understanding is:  “Agile is for engineering teams”. It is engineering team who has to adopt to agile way of working to deliver sooner than they were doing earlier. It is them who have to accept changes from business. This kind of agile implementation fails miserably. Even business must be ready to accept surprises or changes from the engineering team. If engineering teams hit a roadblock and unable to deliver few stories(assuming product team was informed timely) then management should try to accept this. Business must be flexible to accept change. 
+Hence embracing change is both ways. Management can not be practicing traditional school of thought like “I want everything by this time” – “command-and-control behaviours” and expect their teams to be fast, agile and flexible.

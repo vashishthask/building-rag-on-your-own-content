@@ -1,0 +1,21 @@
+TITLE: Distributed Agile Patterns : Define Overlap Time
+URL: https://www.agilebuddha.in/distributed-agile/distributed-agile-patterns-define-overlap-time/
+---
+
+Distributed Agile teams are reality these days. For sure there are overheads. But it’s all about trade-off between ‘distributed Agile overheads’ vs combination of availability of talent at any given time, scaling teams at will and lower cost.
+Communication overheads are mitigated through phone/Skype/hangout calls with screen-share. It’s usual for people to do remote pair programming. However many times, collaboration fails. 
+Distributed members/stakeholders are not available in time. Work, which could be finished within hours takes days/weeks of cycle time in to-and-fro communication. Product Owner is a busy person all the time. Getting hold of her becomes a very difficult task.
+How to mitigate these challenges?
+
+While working with customers on opposite time-zones (10-½ hours or 12 hours), we figured that it will be almost impossible to collaborate if we don’t define a common overlap time.
+Some teams moved their working in order to accommodate overlap hours. For instance, they began their working day to 11am from 9am. On the other end, US team also started early.
+
+That way, they could find an overlap of 2-3 hours.
+Some teams didn’t move their working hours but still defined overlap time. They do their scheduled meetings during that time. For unscheduled meetings, team-members inform their counterpart in another location during their day time. During overlap time, they get available and talk.
+Here are common threads in both types of teams mentioned:
+
+In overlap time, involved people don’t book any local meeting. So you are rest-assured that Product Owner will always be available during overlap time for answering your questions.
+All distributed meetings happen in overlap time.
+
+Conclusion
+Overlap time is essential if you are collaborating as distributed teams. Some teams do remote pair programming on regular basis when time-zone difference is not that much. For teams with opposite time zones, overlap time is still useful for close collaboration on daily basis.

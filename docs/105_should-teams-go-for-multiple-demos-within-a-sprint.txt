@@ -1,0 +1,18 @@
+TITLE: Should Teams Go for Multiple Demos within a Sprint?
+URL: https://www.agilebuddha.in/agile/should-teams-go-for-multiple-demos-within-a-sprint/
+---
+
+Many scrum teams believe and practice sprint demo as part of sprint review meeting. Because Scrum says so. Formal demo end of sprint is a minimum requirement as per scrum guide. But it is not stopping you from doing more of so.
+I strongly believe in the principle that if you see value in doing something, then do it more often like testing, frequent code commits etc.
+
+Sprint end demo should NOT be the place where you are showcasing the product for the first time to your Product Owner(PO). You Should or Must go for more informal demos all through out the sprint. Product owner should be able to see what is being built all through out the sprint rather than just end of the sprint. Ideally if your user stories are small then you should be able to finish them after very couple of days.
+
+This also called as Just-In-Time reviews.
+You can do so by deploying the build on QA or Staging servers where PO can view and play with what you have just built. If you have good automated deployment scripts and right done criteria defined then this should be very easy to follow. Keep this highly informal and PO can take a look at this alone, don’t need to have team to formally showcase it.
+Deploying stories as and when they get finished on staging would give a chance for product owners to have a look at the features as they are built. If you as a team are successful in doing so, then you would have product owner speaking on behalf of the team during sprint end demo and not acting as customer PO.
+Hence it is very important to see story acceptance chart. If you see the above graph, the green bar indicates the rate at which the stories are getting accepted. This graph indicates multiple things:
+
+Level of Product Owner involvement. 
+Teams are working on small stories and are able to finish them after every 2-3 days. Which is a very good sign. This indicates maturity of the team to be able to break user stories to small enough, valuable &amp; completed with testing.
+
+Do you or your teams are doing something similar or have tried doing so? Share those experiences…..

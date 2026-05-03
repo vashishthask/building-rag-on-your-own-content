@@ -1,0 +1,8 @@
+TITLE: Agile Testing is achieving quality in everything
+URL: https://www.agilebuddha.in/agile-testing/agile-testing-is-achieving-quality-in-everything/
+---
+
+We know “Testing As An Activity” is important, and why we should all test. The old axiom that “Testers Test and Programmers Code” is so outdated now and everyone needs to change. Testers are the testing experts in a team, and can help enable the whole team to own quality but they are certainly not the only one’s who should be testing. Like, developers need to contribute towards testing by unit testing their code and also pair testing to minimize defects and minimize test – defect-fix cycle.
+
+Testing in agile, addresses the processes that produce software and also products of those processes. Hence I ask my teams to not just focus on validating software after development, but also check processes that produce software like, quality of stories, requirement/impact analysis, acceptance criteria(using behavior-driven-development to address “3 amigos problem), and more.
+Take a look at our agile testing workshop which is a detailed 2 day course which focusses on test automation strategies, lean approach to defect prevention, various tools and techniques to automate, BDD(behavior-driven-development) and how to use various frameworks – Linear Scripting, Test Library Architecture, Data-Driven Testing, Keyword/Table-Driven and Hybrid automation frameworks.

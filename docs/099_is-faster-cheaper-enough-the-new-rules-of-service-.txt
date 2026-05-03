@@ -1,0 +1,23 @@
+TITLE: Is “Faster, Cheaper” Enough? The New Rules of Service Differentiation with Kano Model
+URL: https://www.agilebuddha.in/agile/faster-time-to-market-or-lower-cost-of-development-is-a-delighter-anymore/
+---
+
+Service companies offerings and messages often says “Faster Time to Market” or “Reduce your Cost of Development“…. Do you think it is a game changer NOW? I would agree if it was couple of years back. But is it still? Applying Kano analysis here could reveal few thoughts.
+For those not familiar with the Kano Analysis, there are three types of features or needs. This is more easily depicted in below picture:
+
+Exciters/Delighters (Creates WOW effect):
+These are those features a user doesn’t know he wants, until he sees it. Users will not be disappointed if they don’t see this feature.
+But having couple of such features will create great customer satisfaction and often commands premium price for the product. They are Unknown Needs.
+Linear or Performance:
+The more of it, the better. Customer satisfaction is correlated linearly with the quantity of features. Product Price is related to linear features.
+Threshold or Mandatory or Must Have or Basic:
+Must be present as these are core features of the product. After some time, having them more will not increase satisfaction. Not having them will create dissatisfaction and customers will not use this product
+As per Kano, some of the needs which are exciters or delighters with time become linear features and then must have.
+
+I see similar trend in business or service offerings also. Fast time to market or Lower cost of development was delighter couple of years back. Companies with such offerings (now almost everyone speaks the same) were delighting customers. Not anymore.
+These needs have become Must Have or Linear (more the better). Companies conveying them as differentiator are NOT differentiators any more.
+Differentiators are delighters which give WOW feeling to our customers. These delighters can demand premium pricing too. They provide a competitive advantage and a unique selling proposition.
+Taking products to market faster is a need now as markets are changing at a rapid pace. As I discussed in my earlier post, being early in the market is not good enough, you need to have product which is simple.
+You have to churn out features which are delighters and hence need for innovation is always there. Because Unknown needs or Delighters will become known or must have soon.
+Customers are looking for service companies who have agility in their thinking and execution too!
+You can read my earlier post to know how good culture contributes to productivity.

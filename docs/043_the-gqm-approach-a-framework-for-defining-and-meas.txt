@@ -1,0 +1,34 @@
+TITLE: The GQM Approach: A Framework for Defining and Measuring Effective Software Metrics
+URL: https://www.agilebuddha.in/software-metrics/which-software-metrics-and-why-introducing-basilis-gqm-approach/
+---
+
+Software metrics are important, as they tell you the transparent truth of software delivery. The question remains – which metrics should I use, and why?
+
+Sometimes people just look for an available or known set of metrics and then add more as and when they discover anything new. But does it really make sense to try and apply those known metrics to any scenario?
+
+Let’s take the analogy of medical tests to explain it a bit more.
+Would a doctor conduct a set of medical tests and use them for any scenario? Of course not.
+Instead, after you describe the problem you are suffering, the doctor would suggest a set of tests accordingly.
+So for diabetes, a doctor would suggest a blood sugar test; for a fever, the doctor would conduct a set of tests to verify what kind of fever you have.
+If that’s the case, why should we search for metrics? Instead, we need to first define the problem statement.
+In the case of software development, different stakeholders have different sets of goals. So a Project Manager may have a completely different set of goals compared to the VP Engineering from a software project.
+For instance, your goal may be to “reduce total cost of testing efforts.” In order to satisfy this goal, you may need to answer the following questions:
+
+Which functional areas have the most defects?
+How long does it take to repair defects?
+How much percentage of regression tests are automated?
+What’s the code coverage with automated tests?
+In order to answer these questions, you require metrics.
+
+As you can see, measurements must drive from goals. In other words, the goal (outcome) should be the focus not the measurements. If any particular measurement is not helping the goal, you may want to replace or remove the measurement.
+There are a variety of mechanisms for defining measurable goals that have appeared in the literature. Out of them, Basili’s Goal Question Metric (GQM) approach is the most recommended and popular one.
+A GQM model is a hierarchical structure, starting with a goal (i.e., specifying the purpose of the measurement, the object to be measured, the issue to be measured, and the viewpoint from which the measure is taken).
+
+The goal is then refined into several questions, which usually break down the issue into its major components. Each question is then refined into metrics — some of them objective, some of them subjective.
+The same metric can be used to answer different questions under the same goal.
+Several GQM models can also have questions and metrics in common.
+Here’s an example of the GQM approach. As the Project Manager, I would like to know the functional quality of the current version in the production:
+
+In above example, the goal is to know the quality of the software. In order to satisfy this goal, two questions are asked. One looks for the number of defects in the production, which is answered by having a metric called “defect leakage.” The other question is to identify if there has been any improvement in the quality compared to the last release, which is answered by having defect leakage trend and severity trend metrics. These metrics look like logical extensions of a Project Manager’s goal.
+Summary
+We know that each stakeholder in a software project has different goals, which get decided based on various factors. Most of the time, stakeholders are interested in knowing if their goals related to the project are getting achieved or not. It’s important to have some form of acceptance criteria corresponding to those goals. That acceptance criteria is defined in the form of questions in the GQM approach, and those questions are answered using measurements called metrics. GQM is a logical approach to define metrics that otherwise are sometimes based on some vague criteria.

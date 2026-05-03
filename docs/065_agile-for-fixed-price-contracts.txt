@@ -1,0 +1,54 @@
+TITLE: Agile for Fixed Price Contracts
+URL: https://www.agilebuddha.in/agile/agile-for-fixed-bid-projects/
+---
+
+The basic premise of Scrum is to help in developing complex software through an incremental and iterative approach based on regular feedback. The feedback comes from sprint review as part of the Increment inspection. That may translate into adaptation in Product Backlog if needed. Agile manifesto has a key tenet around change, i.e. “Responding to change over following a plan”.
+Fixed-price projects are all about fixed scope, money and time. In such a contradictory scenario, the question is, how should we accommodate continual changes in the Product Backlog?
+Is it even possible to work in a fixed price Agile mode? If so, how?
+
+This post outlines the most common challenges in executing fixed price Agile projects. It also suggests ways to handle them.
+
+Agile became popular for product development as it enabled teams to quickly and effectively adapt to the business changes. Agile works pretty well within “time and material” mode. In this approach, projects are funded based on the time and resources utilized in building an application.
+However, in reality, many customers (especially orgs that review and establish their IT budgets once per year only) prefer to work in fixed-price mode. Even though several arguments can be made against fixing cost, scope, and time, the reality is that many organizations still continue to work this way.
+Challenges in Fixed-Price Agile Project
+Let’s take a look at some of the key reasons why teams struggle with fixed-price Agile projects.
+Vague Product Backlog Items (PBIs)
+One of the basic premises of Agile is to do “just enough” analysis, design, or development to avoid excess inventory or waste. As such, team elaborates work just in time as part of backlog refinement.
+We need to understand that in fixed-price projects, team has to size the project at the beginning itself when requirements either are not that clear or are not visible. Because of the inherent “just enough and elaborate later” mindset, some teams size one-liner backlog items without understanding them enough. As a result, vague PBIs move to Product Backlog which mostly are under-sized.
+Accommodating Changes in Fixed-Price Projects
+Agility means “ability to move quickly and easily” (online dictionary), with an emphasis on changing direction. Projects are set up such that teams could easily respond to change.
+The cycle goes like this: Agile teams work within small iterations or cycles in order to provide the customer with frequent deliveries; these frequent deliveries lead to customer feedback; and the customer feedback often leads to change.
+Shouldn’t the team working in fixed-price project be able to accommodate changes? Ideally yes. However, for such projects, pre-set timelines and budget limit the team’s ability to accommodate change. The question is, “Is there any other viable alternative that works in such a context?”
+How to Handle Fixed-Price Challenges?
+Fix Size, NOT Scope
+In a traditional fixed-price project, the related costs, time, and scope are fixed. The idea is – one edge of the triangle cannot be modified without affecting the other two.
+To leverage agility and accommodate incoming changes, one of the alternate is to fix “size” and not “scope”, i.e. you may change scope within a defined size.
+
+For instance, if a project’s size is 3,000 story points, you can make scope changes within the 3,000 story points boundary by replacing existing PBIs with new PBIs of similar size.
+Accommodate Changes Using “Exchange Model”
+Agile is feedback-driven (sprint-review in Scrum). Feedback is often empirical and translates into requirement changes. The team then based on collaborative conversation with PO size the changes into story points.
+These incoming changes then can be accommodated in the product backlog with the PBI exchange model. Although, the size of a product backlog remains constant, Product Owner (PO) can exchange the stories of  higher business value with the existing PBIs of similar size.
+For instance, in order to add a story of 8 story point size, you need to remove a story of similar size from the backlog.
+
+While sizing and exchanging the PBI, it’s important to consider the impact of a new PBI on the current design.
+Define the Product Backlog Size Through a Discovery Workshop
+It’s important to move away from traditional “elaborate on PBIs later” mindset and understand enough feature details before estimating the project. While analyzing the PBIs, teams should collaborate closely with the customer to understand the PBIs. While sizing PBIs, it’s also important to mutually discuss and agree upon the “Definition of DONE” for individual stories, increments, and releases.
+Go for discovery workshop rather than committing numbers upfront discourages vendor selection just based on costing. Asking clients to enter into a discovery phase with them for 1-2 weeks to understand business problem very well, to brainstorm solutions together, and to come-up with a more clear understanding of the system which guides in providing confident estimates makes sense. This also gives the client a first taste of the company, their working model, culture and lot more. Also this is a good time to take client through this team based staffing with variable scope and fixed size (a narrow range).
+Creating a good team which focusses on maximizing value is what Agile organizations look for. Then our contract model should reflect this thinking too. Exploring multiple contracts incrementally with the same client is a good idea too.
+
+First contract –  Only discovery phase. Expected outcome is ordered, sized product backlog with supporting artifacts. Then,
+Second contract –Fixed size + variable scope for rest of the project.
+
+Early client education is key. Convincing clients to go for a discovery workshop is the need and hence your sales team must have deep knowledge about agile too.
+Prioritize the Backlog Using MoSCoW principle
+It’s always a good idea to categorize backlog with the MoSCow principle (i.e., “must have, should have, could have, won’t have”) and then to size it in story points. In general, “must have” requirements do not exceed 60% of the effort. However, this does not mean that the customer can only expect “must have” requirements to be delivered. Unless there are very challenging circumstances involved, the team can usually deliver more than “must have” requirements.
+If “should have” requirements take 20% of the total team effort, the combined “must have” and “should have” requirements will represent no more than 80% of the total effort. The remaining 20% effort that is associated with the “could have” requirements becomes a contingency with which to protect the more important requirements.
+The idea is to first focus on “must have” requirements and then on “should have” and “could have”. That way, even if entire backlog could not get finished in time, at least must-have requirements will be finished and only low value requirements will be remaining .
+Set Expectations Around Customer Collaboration
+Many customers who move from a traditional waterfall background towards Agile may not be aware of what exactly is expected from them. If a team’s management doesn’t set the right expectations at the beginning of the project, it becomes difficult moving forward.
+For example, the customer PO may already be working on many other initiatives and therefore may not be able to provide dedicated time to the team. Even though the project’s scope is defined at the beginning of project, it’s important for the PO to be aware that he/she will be required to participate in the sprint-backlog prioritization, be available to answer any questions from the team, and participate in the sprint review.
+It’s also appropriate to help educate the customer on how Agile methodology works and how it will affect him/her. With open, honest communication around the topic, you avoid issues like knee-jerk reactions around the initial team productivity, how the team prioritizes the sprint-backlog, how to work as the PO, etc.
+Conclusion
+Fixed-price contracts are often considered challenging, and many Agile adopters suggest avoiding them altogether. In reality, many large organizations still prefer fixed-price models even as they try working with Agile methodologies. Based on our experience, Agile fixed-price projects are in fact feasible if the development team manages customer expectations through early discovery workshop, leverages the MoSCow technique, and implements a PBI exchange model.
+More on Story Points and Agile Estimation
+This post is a part of a blog post series on story points and agile estimation. To read rest of the posts on the subject, please navigate to All About Story Points and Agile Estimation Series.

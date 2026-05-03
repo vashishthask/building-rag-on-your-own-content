@@ -1,0 +1,31 @@
+TITLE: Traditional Testing will be Dead Soon!!
+URL: https://www.agilebuddha.in/agile/traditional-testing-will-be-dead-soon/
+---
+
+Repeated software-development tasks are becoming automated through the application of Continuous Delivery and DevOps. If developers are taking more and more testing responsibilities into their hands, I wonder what will be the role of traditional (manual **only**) testing  and testers moving forward?
+
+This question has been troubling me since I looked at the testing pyramid, a concept coined by Mike Kohn in his book Succeeding with Agile. Its essential point is that you should have 70-80% unit tests, followed by 10% integration tests, 5% system-level tests, and 5% GUI-level tests.
+
+Although the percentages of preciseness may differ, the point is that you should have many more low-level unit tests than high-level end-to-end tests running through a GUI.
+Testing is all about risk mitigation. Instead of mitigating risks using just manual testing or GUI-based testing, the test pyramid looks at risk mitigation from a holistic point-of-view. Testers in themselves are not the last line of defence; developers also have to play an important role by laying out a strong, quality foundation in the form of unit, integration, and workflow tests.
+Having said that, risk mitigation remains the primary responsibility of the tester role. If a tester doesn’t know how to read unit / integration tests and understand how they can be used in mitigating part of the risk, he / she will never be confident in releasing code to production based on developer-oriented automated testing, plus automated functional testing. 
+There are two ways to resolve this challenge. 
+
+If a tester has programming skills, he / she can make sense of automated unit and integration tests.
+Developers also write their tests in natural language (BDD) using Gherkin syntax (given, when, then) which then both developers and testers could understand. These tests should be separate from normal development xUnit and integration tests.
+In both above mentioned cases, collaboration between developer and tester is important in identifying and defining the test scenarios. That helps in defining if a risk (test-scenario) gets mitigated at unit/integration level or at GUI test level.
+
+It will be important to mention here yet another interesting development lately. In some cases, people are removing queues or hand-offs in development as mentioned in LeSS queuing theory. In process they are moving away from the tester role completely. That’s getting surprisingly a bit common in many startups these days and also is used in Microsoft these days.
+As part of the evolution of engineering roles, both developer and tester roles will soon have coding as a prerequisite. The only difference between the two roles will be that test engineers will put testing first, and vice versa. Apart from doing manual exploratory testing, testers will spend a good deal of their time writing code in the form of automation scripts and code that drives usage scenarios. 
+Just to clarify, manual testing in the forms of exploratory and UI testing will still be alive; it’s just that testers will also value programming as an important skill.
+In my opinion, a tester who has following characteristics will soon be irrelevant:
+
+Accepts a regression suite run taking longer than 15 hours
+Does not collaborate with rest of the team members
+Has to be the “quality gate” (i.e., cannot explain risk and mitigation)
+Believes that automating all tests is a worthwhile endeavour
+Does not work towards improving quality by engaging with others
+
+Conclusion
+Gone are the days when manual testing was enough, and the testing cycle used to take months. Now almost the entire regression is automated. Out of that, only 5-10% is covered through end-to-end test cases. The boundaries between developers and tester are getting blurred day by day.
+Testers need to also be good programmers moving forward. Just being familiar with programming will not be sufficient. Test engineers need to be product experts, quality advisers, and analyzers of risk. They should be able to learn and evolve latest automation frameworks and work with scripting technologies to stay relevant.

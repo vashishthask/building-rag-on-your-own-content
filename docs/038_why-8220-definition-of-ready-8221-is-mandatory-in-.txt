@@ -1,0 +1,12 @@
+TITLE: Why &#8220;Definition of Ready&#8221; is Mandatory in Distributed Agile?
+URL: https://www.agilebuddha.in/agile/definition-of-ready-is-essential-element-of-distributed-agile/
+---
+
+In one of our earlier posts I discussed the elements and benefits of “Definition of Ready”. However it’s quite common to see totally opposite views of purists as they believe that Definition of Ready is not required at all.
+
+I agree to their views to some extent if it’s all about collocated teams supported by dedicated product owner in the same time zone.
+However, distributed Agile is a different beast altogether. It’s quite common in India to work with customers in opposite time-zones. Distributed communication essentially is an overhead. So the clarification which you receive in minutes face-to-face with collocated product-owner may require multiple iterations of distributed communication. Multiple iterations essentially mean multiple days.
+So a READY user-story which could be finished in 2 hours now takes days to complete because of to and fro communication between distributed team-members to resolve unresolved queries.
+Definition of Ready in such cases helps in bringing clarity and in keeping team members and product owner on the same page. Any absence of clarity essentially complicates the cycle time and throughput of a sprint.
+More on Backlog Refinement, Story Points and Agile Estimation
+This post is a part of a blog post series on story points and agile estimation. To read rest of the posts on the subject, please navigate to All About Story Points and Agile Estimation Series.

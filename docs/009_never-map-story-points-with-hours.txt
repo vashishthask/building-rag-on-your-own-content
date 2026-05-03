@@ -1,0 +1,25 @@
+TITLE: Never Map Story Points with Hours
+URL: https://www.agilebuddha.in/agile/never-map-story-points-with-hours/
+---
+
+As long as a customer trusts the team, whatever way you size or estimate or don’t estimate, doesn’t really matter.
+But that doesn’t happen very often. Whenever a customer questions about team throughput for whatever reasons, it becomes challenging to answer it using hour-based estimation as the number of hours (capacity of a team) remains constant.
+Now if we move towards story point sizing (relative sizing) technique, it’s important not to map with time.
+Here is why:
+
+Perception of Lower Throughput
+Let’s say, in Sprint 1 team decided to map 1 story point with 1 day. At that time, the team estimated 5 story points for story-A which they translated to 5 days. By the time the team moves to Sprint 10, they get experienced both from technology and domain understanding standpoint.
+Now stories similar to story-A may take 3 days due to their improved experience and understanding, which translates to 3 story points.
+So you see, even though throughput improved, the number of story points decreased. Instead of 5 story points, the story gets 3 story points. Though the team performed better compared to Sprint 1, that doesn’t get translated into better velocity.
+Keep in mind, velocity improvement is not linear. Also it doesn’t improve beyond a point and the curve flattens. So project management should have appropriate expectation set with the customer.
+
+Velocity Remains Constant if One Maps Story Points to Hours
+
+As and when a team maps a story point with time, its velocity becomes almost constant just because the time (capacity of the team in working hours) remains constant.
+The team management may complain that team throughput is not changing. Throughput may have already changed but it will never show up.
+Instead of completing 10 similar sized stories, team may be finishing 14 already but that will never reflect as number of days required to accomplish them remain constant from sprint to sprint.
+So never map a story point to time unit as that will create more problems than it solves.
+So What’s the Alternative?
+You may want to begin with a collaborative guess as mentioned in the other post of this blog series.
+More on Story Points and Agile Estimation
+📖 If this series sparked your curiosity, you’ll love my book Agile Estimation Distilled — everything about Agile estimation in one place.

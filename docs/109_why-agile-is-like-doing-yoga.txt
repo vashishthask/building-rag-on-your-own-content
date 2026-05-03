@@ -1,0 +1,6 @@
+TITLE: Why Agile is Like Doing Yoga
+URL: https://www.agilebuddha.in/agile/agile-is-like-doing-yoga/
+---
+
+Agile is so natural that you can apply them into any discipline, in your personal lives, in other industries etc. Why we are seeing mass movement within and across companies to adopt agile. Because people are realizing it as natural way of building software in this imperfect world. My experience in last 7 years taught me that it is like doing meditation or yoga. It relies a lot on honesty, rhythm, openness, flexibility, sustainability, complete control on self etc.
+Please check my earliest post on the same. Scrum is Yogic way of doing software development.

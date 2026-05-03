@@ -1,0 +1,18 @@
+TITLE: Distributed Scrum: A Day In The Life Of A Distributed Team
+URL: https://www.agilebuddha.in/agile/a-day-in-the-life-of-a-distributed-scrum-team/
+---
+
+In my earlier post on “How to Address People and Communication Challenges on Distributed Scrum Teams” we discussed about importance of communication in building trust. Quality and Quantity of communication needs get amplified as soon your team gets distributed.
+Distributed teams I have worked with have organized their schedule and overlapping hours some thing like below.
+
+Defining overlapping hours for teams to communicate becomes a dire need. Distributed stand-up between teams during those overlapping hours is a good way to bring both team on same page. High energy stand-up facing big screens will rub-off good vibes for a team starting their day other side.
+As you see in the above picture, team that starts their day first, ends up doing stand-up twice.
+
+One local stand-up, which will define plan for the day and helps in local self-organization
+Distributed stand-up,  to let other team members know and hear from them on how we as a team are doing.  Important issues or changes are communicated which everyone on the team should be aware of. This helps self-organization at muti-team level
+This allows members of the other team to hear your impediments and offer suggestions.
+During distributed stand-up team could decide who would pair up for distributed pair programming on specific stories/tasks too.
+
+[pullquote]During distributed stand-up, try alternate speaking between the sub-teams in order to reinforce the feeling of a single team.[/pullquote]
+Doing stand-up twice on distributed teams, helps improve communication. Product Owner will get good complete overview of how teams are moving. It is worth to spend 15 minutes together in interest of building good distributed scrum team.
+Hold cross-team technical discussions immediately after daily sync. This serves as a carry-over to the current synchronization conversation and it also avoids another session at a different time.

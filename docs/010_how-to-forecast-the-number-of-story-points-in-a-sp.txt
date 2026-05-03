@@ -1,0 +1,32 @@
+TITLE: How to Forecast the Number of Story Points in a Sprint?
+URL: https://www.agilebuddha.in/agile/how-to-forecast-the-number-of-story-points-in-a-sprint/
+---
+
+Question – Estimation in the form of anything else other than time may be helpful, but we can’t use it to answer questions about when a project shall be delivered.
+In our previous post, we saw that Story Point is all about the relative size of a Product Backlog Item (PBI) which depends on the amount of the work involved, complexity and uncertainty/risk. This relative size remains same irrespective of the person working on it. Essentially
+Story point is about relative sizing and not about relative effort.
+Effort for any piece of work varies from person to person. One senior guy may finish a task in an hour, while an inexperienced guy may take a full day to complete the same task.
+If story point has no relation with time, how do we get to know the number of story points a team should be able to forecast to accomplish?
+In this post, let’s see how to do that.
+Begin with a Guess
+When a new team doesn’t have any historical data available around its velocity, the sprint forecast can be done based on a collaborative guess from the entire team, i.e. how many story points the team may possibly deliver in the first sprint.
+This estimate can just be a collaborative guess or can be more elaborate for some teams, i.e. identifying sub-tasks of the PBIs, assign hours to them and then find out if the resultant number of hours are within the team capacity or not.
+Remember, there is no right and wrong method as both methods will have a variance of 50% of meeting the sprint goal, i.e. the team will have a 50% chance of accomplishing the sprint goal and vice-versa.
+
+Let’s take an example to make it a bit more clear.
+Let’s say a team (no historical data available for their velocity) guessed 20 story points for sprint 1.
+If they finish early, they can pull more PBIs from the product backlog after having a due conversation with the Product Owner.
+On the other hand, if they couldn’t finish all, empiricism (i.e. knowledge comes from experience and making decisions based on what is known) helps them to know the number of story points they could possibly plan for their next sprint.
+Suppose, the team completed 15 points in sprint 1. The team now gives a consideration to the Yesterday’s Weather (15 story points) to forecast for their second sprint.
+Apart from considering the yesterday’s weather, the team considers its capacity in the current sprint and above all, the team’s mandate on how many story points they can forecast to accomplish as a team. They do similar exercise for the third sprint as well.
+Let’s say, the team completed 20 and 18 points during sprint 2 and 3. The average story points (team velocity) completed during the last 3 sprints will be 18 (15+20+18 divided by 3).
+Now say, you need a capacity of 198 story points for a release. Based on 18 point velocity, the team may take 11 sprints to complete the release backlog.
+In the next post, we’ll see how to do release sizing in detail with story points.
+Conclusion
+In order to forecast the number of sprints a team is going to take to accomplish a set of sized stories, a team may resort to the following ideas:
+
+If a team doesn’t have any historical data available about the team velocity, they may begin with a collaborative guess OR with tasking and assigning hours to them. Based on empiricism, they will learn and will be able to forecast better.
+If a team already has historical data available on team velocity, it considers the same, capacity of the team in the current sprint and above all team’s mandate on how much they can accomplish, to forecast the number of story points in a sprint.
+
+More on Story Points and Agile Estimation
+📖 If this series sparked your curiosity, you’ll love my book Agile Estimation Distilled — everything about Agile estimation in one place.

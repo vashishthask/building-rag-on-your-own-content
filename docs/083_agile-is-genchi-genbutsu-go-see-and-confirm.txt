@@ -1,0 +1,24 @@
+TITLE: Agile is Genchi-Genbutsu: Go, See and Confirm
+URL: https://www.agilebuddha.in/agile/agile-is-genchi-genbutsu-go-see-and-confirm/
+---
+
+Genchi-Genbutsu is the Japanese expression for a practice of finding your answers right down at the source, rather than relying on second-hand reports or charts of data to achieve true understanding. This practice emphasizes going to a place(gemba) where you watch, observe and ask “WHY” five times. I shared few posts earlier on 5 Whys.
+Most of the time we are hidden in our project plans and design documents to find root causes. Traditional methods assumed that having a great plan and good documentation is the secret to project success. They alienated themselves from implementation and real world.
+
+Agile, on the other hand, believes in delivering some thing early on to confirm our understanding. It inherits the expression Genchi-Genbutsu.
+
+For example: 
+
+Working software is a way of confirming your product
+Sprint retrospective is a way of confirming your process.
+
+Does it work? What is working? What we should do to make it work?
+“Gemba attitude” reflects the idea that whatever reports and measures and ideas are transmitted to management, they are only an abstraction of what is actually going on in the gemba to create value.
+Few anti-patterns that you see often:
+
+ScrumMaster sitting in a cabin rather than sitting with the team. Not having Gemba attitude
+Team and management working on a problem manifestation rather than finding root cause
+
+You actually do a sprint, observe patterns and anti-patterns to find actual reasons. Curious folks will not spend time on creating a long plan or documents and sit on it for few months. They’d rather want to go and explore to find the truth by actually implementing it.
+I believe we need Curious People on our Agile teams over Smart people. But, how many of us have the privilege of remaining curious after years of schooled conditioning? Take a look at the TED talk by Ken Robinson, in which he asserts that schools do not allow creativity to thrive.
+I have come to understand this in my home-schooling  journey with our daugther – that Learning is NOT locked up in books (and, for that matter – in documents or in Project Plans). Why, then, do we see learning separate from living?

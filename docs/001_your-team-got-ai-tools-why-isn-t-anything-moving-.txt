@@ -1,0 +1,55 @@
+TITLE: Your Team Got AI Tools. Why Isn’t Anything Moving?
+URL: https://www.agilebuddha.in/ai/your-team-got-ai-tools-why-isnt-anything-moving/
+---
+
+I was recently working with a software team that just received AI coding tool licences, one for every developer on the team. Their leadership was excited. The CTO had made the call personally. AI-assisted development was going to change everything.
+Sprint 1 ended. Not a single story was done.
+Not in review. Not in testing. Not deployed. Done.
+I want to tell you this had nothing to do with AI coding tool. 
+The team did not know how to use it well yet – that was true – but that was not the reason.
+The real reason was that the constraint was somewhere else entirely. 
+
+The standup was a status report. Stories had no shared ownership. Every developer worked in swim-lanes on the board, not together as team . Testing was a separate, downstream activity. In such a context, work continues to remain in “In Progress” regardless of what tool sat on top of it.
+AI coding tool had nowhere useful to land.
+We Are In the Middle of a Buying Cycle That Outpaced the Thinking
+Across teams and organisations right now, a version of this story is repeating itself. AI tools are being purchased – sometimes thoughtfully, sometimes because someone at the board level asked “what are we doing about AI?” The licenses arrive. The velocity graph does not move.
+And then comes the question nobody wants to ask out loud: did we buy the wrong thing, or are we using it wrong, or is something else going on?
+Usually, it is the third option.
+Here is the principle that Goldratt spent a career making visible, and that manufacturing figured out long before software did: if you improve something that is not the bottleneck, output does not increase. You just pile up more inventory in front of the actual constraint. Speed up a non-bottleneck and you get busier, not faster.
+AI tools, in many teams I am seeing, are being applied to non-bottlenecks.
+The Bottleneck Is Usually Human Coordination
+When a team is not delivering, the gap is rarely in how fast developers can write code. It is almost always somewhere in how the team coordinates — how work flows from idea to done, how blockers surface and get resolved, how knowledge moves between people.
+Deming saw this clearly decades ago. He estimated that 94% of problems belong to the system — the structure, the incentives, the processes, the culture. Only 6% belong to individuals. The uncomfortable implication: when a team is stuck, the people are almost never the problem. The system they are working inside is the problem.
+And here is the thing – no AI tool touches the system. Only leadership can change the system.
+AI Does Not Fix Teams. It Amplifies Them.
+This is the shift in thinking I want to offer.
+AI is not a fixer. It is an amplifier. It takes what is already there and makes more of it, faster, at higher volume. If your team already works well – stories flow end-to-end, the standup drives real replanning, people swarm on blockers, knowledge is shared across the team – then AI tooling will compound those advantages significantly. You will get real acceleration.
+If your team has coordination problems, siloed specialists, and a WIP board that looks like a parking lot – AI will produce more half-finished work, faster. The same dysfunction, at higher velocity.
+This is not a criticism of AI tools. It is a statement about where they deliver value and where they do not.
+The Principles People Are Starting to Question
+Here is what concerns me more than the missed sprint.
+As AI tools have become ubiquitous, I am hearing questions that would not have been asked three years ago:
+“Why do we still pair program when the developer already has an AI navigator?”
+“Why run a mob session when the AI can generate options for the whole team?”
+“Why invest in T-shaped skills when the AI can fill in the gaps?”
+These questions sound reasonable. They are not.
+The error in each of them is the same: they confuse individual output with team capability.
+Copilot gives one developer a faster coding loop. It gives the team nothing. No shared mental model. No collective understanding of why the code is structured the way it is. No cross-training. No psychological safety from working through a hard problem together. When that developer is unavailable — or when the code they wrote with AI assistance needs to be changed by someone else — the team is exactly as fragile as it was before.
+Pair programming was never only about writing better code faster. It was about two people building a shared understanding of the problem and the solution. Swarming was never only about unblocking a ticket. It was about the team developing a reflex — when someone is stuck, we go help — that compounds over many sprints into genuine cohesion. Mob programming on a hard problem was never about efficiency in the moment. It was about a team walking away with the same picture in their heads.
+These outcomes do not have an AI equivalent. The tools are genuinely good at what they do. Building shared understanding is not what they do.
+So What Should Engineering Leaders Actually Do?
+Should we “do less AI” then? I think, that is not the point.
+The point is sequencing.
+AI tooling works exceptionally well in teams that are already functioning well as Agile teams. 
+Teams that have real collaborative standups. Teams where work flows through the system rather than piling up. Teams where people have T-shaped skills and can cover for each other. Teams that have automated test suites, functioning pipelines, and a baseline understanding of their own delivery metrics. Teams that already celebrate sprint goals over individual output.
+For those teams, AI is a genuine accelerant. It lands in a system that can absorb and multiply it. The investment makes sense.
+For teams that do not yet have those things — the higher-leverage investment is not AI tooling. It is fixing the standup. Introducing WIP limits. Normalising pairing on the hard stories. Building the culture where asking for help is a strength, not a signal of weakness. Getting pipelines and test automation in place. Learning to read your own delivery data.
+These are not old ideas that the AI era has superseded. They are the prerequisite for the AI era to actually deliver.
+Before the Next License, One Honest Question
+Before your team purchases the next AI tool — or before you try to understand why the tools you already have are not moving the graph — it is worth asking one honest question:
+Is this team already working well as a team?
+Not “are individuals productive?” Individual productivity has never been the constraint in most of the teams I have seen struggle. The constraint is almost always coordination, shared ownership, flow, and culture.
+If the answer to that question is yes — then invest in AI, invest hard, and track what happens.
+If the answer is no, or you are not sure — then the most valuable thing you can do right now is spend one sprint watching where the work actually gets stuck. Not in the code. In the handoffs. In the conversations that are not happening. In the board that tells you everything is in progress and nothing is done.
+Fix that first. Then accelerate it.
+The tools will still be there. And they will finally have somewhere useful to land.

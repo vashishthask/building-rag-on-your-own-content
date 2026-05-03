@@ -1,0 +1,6 @@
+TITLE: Distributed Agile Patterns &#8211; Presentation @AgileIndia2015 Live
+URL: https://www.agilebuddha.in/agile/distributed-agile-patterns-presentation-agileindia2015-live/
+---
+
+This year I delivered a presentation on “Distributed Agile Patterns” in Agile India conference held in Bangalore based on different patterns evolved or discovered during my Agile journey.
+The video is available now. You may want to have a look and provide your feedback.

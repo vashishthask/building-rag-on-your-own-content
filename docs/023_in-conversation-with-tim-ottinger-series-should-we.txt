@@ -1,0 +1,62 @@
+TITLE: In Conversation with Tim Ottinger Series: Should We Really Care for Agile Maturity?
+URL: https://www.agilebuddha.in/agile/should-we-really-care-for-agile-maturity/
+---
+
+We keep facing real world challenges in Agile world. For some challenges, the rule-books provide straightforward answers but empirical evidences show the contrary. That’s where Tim steps in and helps us in understanding the nuances and demystifying the problem space.
+In recent past, we have had many such conversations with Tim on our Slack group “Agile Commune”. All those are full of insights and very helpful. We’re making some of them public as part of “In Conversation with Tim Ottinger Series“. Looking forward for your comments and experiences on these topics.
+
+Shrikant: Hi Tim. The tools (like Scrum, Kanban, TOC, XP etc) are to solve business problems. They themselves are not the goal. How do you define agility?
+Tim: To me “Agility is a means to an end, not an end unto itself.”
+I would say that agility is a process goal, not a business goal.
+To be able to change direction at the drop of a hat is powerful — provided your organization plans to do some pivoting.
+Agile methods have the goal of creating some agility in the business, or at least the conditions making it possible.
+Some methods are better at using agility than others.
+But remember that a skateboard is more agile than a freight train, but a freight train is bigger and faster than a skateboard. 
+Be sure you know what you want.
+
+Shrikant: You enter in any enterprise Agile transformation, the transformation team starts measuring the team’s progress with some kind of Agile maturity model. Do you think agile maturity should be the goal for teams?
+Tim: Agile maturity is a funny idea. A lot of people use it in reference to the CMMI maturity model, which I think is a poor model for agility.
+In the CMMI maturity model, you start with conformity. Everything starts to be processed, documented, standardized, automated.  Then you become consistent and more fully automated to become “consistent”, and then processes are measured and controlled.
+And only then, according to the model,  are you ready to focus on process improvement. But by then every person and machine has settled into a process that has significant investment and inertia.
+In other words, you can start to make changes after you have created a system to resist those changes.
+These people look for conformance to a known agile framework or methodology as “agile maturity.” I don’t think it is reasonable to define agile maturity as the absence of agility. Conformance to a process is not a useful definition of agile maturity.
+But agile fluency is perhaps the better model here. Being fluent is the ability to move with grace and without a lot of inhibition toward a goal.
+As an analogy: when you speak in the language you use best, you are fluent and it is effortless. When you speak in one you have just learned, you aren’t so fluent so you struggle to translate the new language to the old one.
+
+If I were going to run parkour (the activity or sport of moving rapidly through an area, negotiating obstacles by running, leaping, vaulting, and climbing), I probably want to work on strength, endurance, burst speed, leg muscles, etc.
+But since I’m not going to run parkour, I don’t need the same level of agility and strength.
+So the degree of agility depends on your context.
+Coming back to business world, maybe you don’t know what your business goals will be in 5 years, but you know that you have got to respond to a fast-changing market.
+In that case, investing in agility might be the most important thing you can do.
+If your company’s revenue stream comes from it being consistent, unchanging, compliant to road-maps, reliable, and stable, then maybe you don’t bother being agile.
+Maybe the CMMI kind of “maturity” makes sense if there is no intention to change.
+Shrikant: To summarize, are you saying that agility should be the goal and not maturity? Also is it fair to combine both and have a term called agility maturity or it’s better to focus on agility only (you are either there or still trying to)?
+Tim: Yes, agility is the goal, and any worthwhile agile process or framework should help us achieve it.
+There is a risk to combining “agile” and “maturity”, since a lot of people see the words as opposites.
+I think it is fair to also talk about how far one has come with agility, which I guess could be seen as a different kind of  ‘agile maturity.’ For instance, there was a recent article that characterized agile maturity as a matter of how often you can deliver working code.
+Modern agile has 4 guiding principles, one of which is “deliver value continuously.” The article described delivering software continuously. Since software features create value, that kind of maturity approximates a modern agile guiding principle in a limited way.
+We don’t have a “modern agile maturity model” and probably won’t, but if we did, I would like to see it based on measuring how an organization seeks to maximize their effectiveness.
+I don’t want to see a maturity model be based on how well one sticks to a particular process or framework. If there is a maturity model, it should be one that all the frameworks and methods should aspire to and direct people toward.
+That sounds like a much better approach. It would reach past authorship and marketing and certification and all the cruft that methods have been promoting and go straight to the heart of the matter.
+Shrikant: I believe just doing the motion or ceremonies should not be the goal of agility. What’s your take?
+Tim:
+The ceremonies would never be the goal. Having planning meetings, standups, and retros has almost nothing to do with agility.
+When you say “agility” do you mean “the ceremonies and titles of agile methods”?  Because I certainly do not.
+For instance, you can do scrum for five years and never be agile. A number of organizations who claim to be using agile methods don’t collect feedback – or don’t act on it if they do – and use scrum mechanisms to pressure people to work harder.
+I can’t recognize anything resembling agility in that model. It sounds a lot more like a sweatshop.
+I think that someday we will outgrow the ceremonies and processes. They aren’t the core of agility anyway. I don’t think we’ll miss them.
+Shrikant: Is there any reference or help in defining the agility?
+Tim:  The Modern Agile values define agility. The manifesto does too (especially the 12 principles).
+The first line of the agile manifesto says  “We are finding better ways of developing software by doing it and helping others do it.”
+This is not past tense.  Agile is a search. Any process we currently use to achieve “agility” is temporary, to be tolerated until we find a simpler, faster, more certain way to get great results.
+Compare it to google search. If you go to the google web page, you don’t see google search. You see a box where you can send google search a parameter. When you complete a search, you see the first N results of the search, you don’t see the search.
+Those results are not google search. They are the temporary artifacts of having used google search.
+This describes agile frameworks/methods also. They are the temporary artifacts of having used agility. Standardizing on the output doesn’t replace the search algorithm.
+Any specific agile process isn’t “agility.”
+A process is just a process. And as we know, processes and tools take a back seat in agile software development.
+I would like “agile maturity” as a term if maturity was measured by the number of useful, simplifying innovations that come out of an organization that engages in this constant search for better ways of making software.
+Learning and sharing better (more lightweight) ways of working is the core agile mission.  Is there a maturity model that promotes that ideal? If there is, then I will get behind it.
+About Tim
+Tim is a programmer, author, trainer and globally recognized coach with over 35 years of real software development experience.
+Tim is an active speaker and author with writing credits in Clean Code, Pragmatic Bookshelf magazine, the C++ Report, Software Quality Connection, and other publications over the years. He is the originator and co-author of Agile In A Flash. 
+He continues his work helping teams around the world find better ways of working along with an impressive constellation of Modern Agilists at Industrial Logic.

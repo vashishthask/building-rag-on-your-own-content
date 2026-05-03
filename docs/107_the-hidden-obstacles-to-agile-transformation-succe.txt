@@ -1,0 +1,15 @@
+TITLE: The Hidden Obstacles to Agile Transformation Success
+URL: https://www.agilebuddha.in/agile/hidden_obstacles_to_agile_transformation_success/
+---
+
+Let’s say one day you wake up and think, ‘I want to be healthier.’ You decide, ‘I’ll start eating an apple every day.’
+You stick to this routine for months while continuing all your old habits, such as staying up late, eating junk food, drinking alcohol, smoking, and so on.
+
+Do you think having all these habits and eating an apple a day will keep doctor away?
+Definitely NO.
+And after a while you might even get disappointed and frustrated, and you will decide to stop eating apples claiming that “a healthy lifestyle simply doesn’t work for you” or “eating apples is not really helping you”.
+
+Following a few practices alone does not yield results.
+Simply performing practices like stand-ups and retrospectives is not enough. Old habits, such as a lack of psychological safety, accountability, or ownership, poor collaboration, avoiding questions, not saying ‘no,’ disrespecting time, and dishonesty, do not disappear just by performing some Agile events.
+A company or team only gets the most out of being Agile when its mindset is deeply rooted in the Agile principles stated in the Agile Manifesto.
+They include continuous learning at all levels in the organization, business and IT working closely together, delivering the highest business value first, welcoming change, and creating an environment where motivated individuals can be creative and self-directing.

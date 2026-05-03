@@ -1,0 +1,39 @@
+TITLE: All About Story Points and Agile Estimation Series
+URL: https://www.agilebuddha.in/agile/all-about-story-points-and-estimation/
+---
+
+Lots of Scrum teams have been using story points and planning poker for relative sizing.
+However, this is one of the concepts like pointers in C, which troubles most of the teams and they all have their own interpretations on the subject. Lots of material has been written. However it becomes difficult to join all the dots together for any team-member to digest at one place. This series of posts is an attempt to simplify learning and make the concept as clear as possible.
+Some of the posts were written in the past and some I am writing now in order to have completeness around the subject. This list will keep getting updated as I write new posts on the subject.
+
+Please share your queries/doubts (which you don’t see in this list) in the comments and I’ll work on creating a post on them.
+
+Why to Use Relative Sizing? – New*
+Agile Estimation: 9 Reasons Why You Should Use Story Points
+What is a Story Point? – New*
+Who all Participate in Story Point Sizing Activity – New*
+How to do Story Point Sizing with Planning Poker? – New*
+
+Improve Sprint Throughput with “Definition of Ready”
+Why “Definition of Ready” is Mandatory in Distributed Agile?
+Planning Poker is NOT about Agile Estimation!
+
+When Story Point Estimation Doesn’t Work!
+Should We Use T-Shirt Sizing Instead of Story Points
+Agile Estimation : 8 Steps to Successful Story Point Estimation
+How to Forecast the Number of Story Points for a Sprint – New*
+Never Map Story Points with Hours – New*
+
+Story Point Mapping with Hours – Key Ingredient to Burnouts?
+Our Sprint Velocity Never Seems to Change. We don’t Know Why!
+Story Points and Man Hours – When To Use Them and Why?
+
+How to Handle Changes by PO During Running Sprint
+Story Points for Bugs or Defects
+How should We Size Non-Functional Stories
+Should We Revisit the Story Point Baseline as the Team Matures
+Should We Count Story Points for Unfinished Stories? – New*
+Agile Contracting
+
+Agile Contracting: Discovery, Fixed Budget, Variable Scope
+Agile for Fixed Bid Projects

@@ -1,0 +1,29 @@
+TITLE: Should We Count Story Points for Unfinished Stories?
+URL: https://www.agilebuddha.in/agile/should-we-count-story-points-for-unfinished-stories/
+---
+
+Unfinished stories is a smell and the root cause in general may lie somewhere else. Why don’t we try to fix the root cause first as much as possible?
+This generally happens when a team practices “swim-lane Scrum”(an anti-pattern) instead of collaborative Scrum. In “swim-lane” Scrum, each team member individually takes the ownership of a story through the stages of the process. That results in WIP (Work in Process) equal to the number of team members, at any point of time.
+If an individual gathers up multiple stories, or tries doing all the tasks in the story at once, you can get the context switching that comes from having too much work in progress. All that results in even higher WIP.
+This higher WIP results to leakage in form of unfinished stories.
+Let’s take an example. A team of three practices “swim-lane” Scrum. Each team members picks one story at a time and move that to in-progress.
+
+As you see in above picture, this team has a high probability of leakage. There is a probability of not finishing all 3 in-progress stories at the end of a sprint.
+Any leakage in form of unfinished story is a waste for the business for that sprint.
+Reducing the Leakage through One Piece Flow
+Let’s see how to reduce this leakage to the extent possible.
+This team of 3 changes the stance and starts practicing One-Piece Flow. They swarm around one story at a time and finish it earlier than the time it would have taken for one person to finish.
+
+The WIP in this case is 1 (lower) which otherwise would have been 3 in case every individual would have picked one story.
+As this swarm picks and finishes one story at a time. At any point of time, they will have at most 1 unfinished story compared to probable 3 unfinished story if all 3 people would have worked on individual story. This improves overall throughput (as you finish more) and reduces waste.
+Reducing WIP here reduces leakage because neither of the 3 developers may deliver anything even though they are 90% done, whereas having everyone work together raises the chances that they will deliver at least the first two.
+What should we do for last unfinished story?
+With One-piece flow idea we could reduce the amount of leakage. However there is still a probability of last story to remain unfinished. Should we count the story points of unfinished story then in current sprint? Or should we divide the story points, e.g. out of 5 story points 3 are done and the remaining 2 are moved to next sprint?
+The problem is – anything undone is not DONE and is not potentially shippable. Instead of counting partial story points, how about moving entire unfinished story to the next sprint. So in above case, no story point gets counted in the current sprint and entire undone story moves to next sprint.
+People may ask why not count the work done in the current sprint? The issue is – this creates more problems than it solves. The team may remain content in delivering undone stories as their story points for undone stories are counted anyways. The focus for a team moves to accomplishing the story points in a sprint instead of delivering business value.
+Another point to remember is – velocity is NOT an absolute number for a team. Instead it’s the average of story points finished in last 3 sprints. So even if entire story moves to next sprint, the average may still remain same. Let’s take an example to understand it.
+Let’s say a team forecasted 20 story points to complete in a sprint. For some reason, they could finish 15 story points only and last story with 5 story point still had 2 hours of work remaining. As it remained undone, the Product Owner decided to move it to the next sprint.
+The team decided to take 20 story points for the next sprint as well. And they took this undone story of 5 story points as well alongside. So the total story points they collaboratively planned to do were 25. In this sprint, the team finished 25 story point. Similarly in sprint 3 they finished 20 points.
+If you take the average of 3 sprints, the number of average story points is 20 which is completely fine.
+More on Story Points and Agile Estimation
+📖 If this series sparked your curiosity, you’ll love my book Agile Estimation Distilled — everything about Agile estimation in one place.

@@ -1,0 +1,28 @@
+TITLE: Metrics to Build Great Agile Teams: Measure Influence, Not Control
+URL: https://www.agilebuddha.in/agile/metrics-to-build-great-agile-teams-measure-influence-not-control/
+---
+
+Couple of weeks back, I noticed an incident that triggered this post. Senior Management in a company applauded people for showing individual heroics on the project.
+Some of them were:
+
+Staying late in office to address a client request?
+Responding to project emails at late night..
+Rewarding testers on number of bugs found and more.
+
+And then, managers shared this privately with rest of the organisation too. Treating this as accepted, rewarding behaviour invited more such incidents and frustrated many of those who don’t do this. Below comic strip summarises it well.
+“You Will Get What You Measure(or Reward)!”
+
+I recently heard an another incident of how testing team kept an very important bug under the carpet before bringing it up just a week before release, and then getting rewards for the same. Such behaviours more likely are the candidates for root cause analysis than rewards.
+Definitely, we all have numerous such incidents to share.  How can we design a reward system to get team level behaviour more and less of individual heroics?
+There is no greater de-motivator than a reward system which is perceived to be unfair. It doesn’t matter if the system is fair or not, if there is a perception of unfairness, then those who think that they have been treated unfairly will rapidly lose motivation.
+Great products are developed through collaborative efforts of many people. So in a development environment, individual rewards will inevitably leave overlooked people feeling that they have been treated unfairly. Moreover, individual rewards fosters competition in an environment where co-operation is essential for success.
+Conventional wisdom says that people should be rewarded based on the results that are under their control.  However, information sharing and co-operation are essential, rewards must be based on span of influence rather than his or her span of control.
+
+For example instead of rewarding testers on number of defects found, but rather developers and testers should be measured on team’s ability to create defect-free code. Instead of rewarding developers with technical success of their efforts; whole team should be rewarded based on business success of it efforts.
+
+                                        Team behaviours over individual heroics
+                                 Building defect-free code over finding bugs
+                                  Accepted stories over delivering stories
+                                    Business success over technical success
+
+Building collaborative team is the corner stone of hyper-productive agile teams. Hence middle and senior management has to be extra cautious in their Agile Transformation approach. Implementing scrum with conventional wisdom metrics will not get what we want – A Hyper-Productive Agile Team.

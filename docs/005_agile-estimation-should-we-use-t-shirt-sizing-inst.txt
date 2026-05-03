@@ -1,0 +1,16 @@
+TITLE: Agile Estimation: Should We Use T-Shirt Sizing Instead of Story Points?
+URL: https://www.agilebuddha.in/estimation/should-we-use-t-shirt-sizing-instead-of-story-points/
+---
+
+As we have seen in the earlier chapter, it doesn’t make sense to map story points with time just because they are not the same thing. It’s like comparing apples with oranges.
+Some teams may be okay with these problems and still may want to get ahead with mapping a story point with time. However some teams may want to fix that.
+In my experience, the teams which are already mapping a story point with time, it becomes difficult to unlearn the mapping even if the team wants to.
+Recently, in one such new team, instead of story points, we began with the idea of T-shirt size based relative estimation.
+
+Rather than using numbers in the fibonacci series, here, Items are classified into t-shirt sizes: XS, S, M, L, XL.
+
+In the planning-poker exercise as well, instead of using fibonacci numbers, we used T-shirt sizing. Surprisingly everybody got the idea without any problems just because T-shirt sizing seems to be all about size and not about time.
+These T-shirt sizes can further be mapped with story points. So XS becomes 1-2, S becomes 3, M becomes 5, L becomes 13 and XL becomes 20. Anything beyond, has to be broken down further.
+I find it helpful to use T-shirt sizing instead of numbers as everyone in the team seems to get the message clearly.
+More on Story Points and Agile Estimation
+📖 If this series sparked your curiosity, you’ll love my book Agile Estimation Distilled — everything about Agile estimation in one place.

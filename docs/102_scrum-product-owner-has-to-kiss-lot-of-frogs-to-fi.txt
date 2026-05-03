@@ -1,0 +1,23 @@
+TITLE: Scrum Product Owner Has to Kiss Lot of Frogs to Find a Prince
+URL: https://www.agilebuddha.in/product-owner/scrum-product-owner-has-to-kiss-lot-of-frogs-to-find-a-prince/
+---
+
+I, am going to draw an interesting parallel – between a fairy tale princess and a Scrum Product Owner (PO). Just as the fairy tale princess may need to kiss many frogs before she finds her prince charming; a Scrum Product Owner has to do a lot of de-cluttering of backlog to identify features that will make his product successful.
+
+Innovations go through several attempts before light bulb moments strike. Steve Jobs said, “Innovation is not about saying yes to everything, it’s about saying NO to all but the most crucial features.”
+Backlog grooming and it’s prioritization directs the team and keeps it focused. Certainly, there are different aspects you need to consider for prioritization like uncertainty, risk, dependencies, effort, releasability and value etc.
+
+But what really works is common sense and simplicity.
+Simplicity is one of the 12 principles of agile. You can achieve simplicity by creatively filtering features, focusing only on core product features – its essence. 
+I believe, successful companies like Google, Apple really excel in this area – Simplicity. The conceptualization of chrome browser, first generation iPhone etc reflect this focus clearly.
+As a product owner, when you have a new idea or a requirement, ask yourself “is this functionality critical for the success of the product?” If not, discard it.
+Pruning and Simplifying your backlog results in:
+
+Lean and smart product
+Faster time-to-market
+Early revenue-generation
+Less effort
+Better cash flow
+
+By reducing time-to-market, we get to hear our customers sooner and incorporate their feedback in a timely way.
+Leaner products are easier to change.

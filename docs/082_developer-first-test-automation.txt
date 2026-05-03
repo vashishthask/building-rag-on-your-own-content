@@ -1,0 +1,15 @@
+TITLE: Developer First Test Automation
+URL: https://www.agilebuddha.in/agile-testing/developer-first-test-automation/
+---
+
+Waterfall made a clear demarcation between developers and testers. While moving from waterfall to Agile, both development and testing has to be grinded in a way that you can’t separate from testing activity from development.
+People in Agile projects are moving away from “developers vs testers” (we vs they) culture and are collaborating in order to deliver the product at the end of sprint. Sprint success is major goal instead of developer or tester success.
+That has been a great change in the recent years and which also means some more miles to go before reaching the state of true collaboration. Even today, quality is considered to be the major responsibility of testers which in reality shouldn’t be the case.
+As developer is primarily involved in developing the functionality, (s)he needs to have tremendous commitment in building quality into source code and if bugs come, primary responsibility should be of developers. It doesn’t mean that testers don’t have any responsibility. They need to move away from their traditional role of just finding bugs and instead should be able to focus on creating infrastructure, frameworks for building quality within and also focus on exploratory testing, improving product etc.
+In Automation testing, though automation test creation is the responsibility of the testers, developers lay the foundation of creating those test cases. 
+Sometimes this demarcation doesn’t work in a smooth way. While developing the automation tests, tester discovers many basic foundational pieces missing, which eventually hampers the tester in developing those tests.
+
+In one of the teams I worked with, team came out with a norm which helped the testers a lot.
+Developers suggested to write the first functional test of the user-story themselves, which laid the foundation and provided all required resources to build further tests. While developing those tests, developers identified many issues which otherwise would have blocked testers. As developers eventually fix these issues, it made much more sense that they themselves discover those issues.
+Based on this basic foundation, testers further elaborate the test cases and create more automation tests. The norm worked pretty well for the team and also helped developers understanding the issues testers face on daily basis.
+It’s step ahead towards ATDD. However this team was not using BDD or tools required for ATDD and was not planning to move towards them in near future. Developer-first norm worked quite well for them.

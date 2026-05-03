@@ -1,0 +1,27 @@
+TITLE: Agile Transformation: 8 Mindset-Shifts You Make In Your Agile Adoption Journey
+URL: https://www.agilebuddha.in/agile/agile-transformation-8-mindset-shifts-you-make-in-your-agile-adoption-journey/
+---
+
+1. Senior Management
+Agile is a silver bullet that will fix all issues is a myth. But Senior Management perceive this as fact. Agile and its frameworks have a great knack of bringing forward hidden organization issues like tendency to command and control, developers/testers taking short cut to quality, less focus &amp; preparedness to test automation etc. Agile need for cross-functional roles and collaboration within the company can create issues in strictly functional organization structures. Companies need to adopt matrix structure
+2. Senior and Middle Management
+Their affinity towards metrics to compare productivity between different teams or an attempt to measure productivity at individual level may derail your agile efforts as it can be easily misinterpreted by teams and can work against Agile values.
+3. Project Manager
+Given focus on transparency and on pushing responsibility to the team, the Project Manager will be less of a task manager, and more of a problem solver, and will have to “let go” of a lot of previously held control. There is an increased emphasis on honesty, openness, and trust that may feel very different. Operating in an adaptive planning environment will feel very uncomfortable to many.
+
+Project Manager skills shift notably. The focus shifts to be more outward, to the business. Managers must have more polished skills of expectation management with business, as there is much more frequent interaction and transparency. Relationship skills are more important than being a hard task-master. The Manager will shift ownership to his team and focus less on “command and control” and more on teams’ skills of working with the business.
+Project Mangers with agile mindset and experience either take up Scrum Master Role or as Agile Coach or remain as Project Managers as there are other responsibilities like budgeting, resourcing, contracting, pre-sales, hiring, program management, account management etc which they can take up. In-fact Agile gives very good platform for middle management to explore and experience new skills.
+4. Product Manager
+Playing this role becomes tough particularly if you need to play both Product Owner (inward facing) and Product Manager (outward facing) role. Agile increased focus on collaboration and customer involvement asks for product owner proximity to clients and more engagement with users. Need for guidance, good training &amp; coaching becomes dire need to produce mature product owners and helps them in playing this role effectively without putting team at risk.
+5. Developer
+Developers will work hand in hand with testers and cannot declare a piece of code “done” until the tester gives the green light. Also developers need to assist testers in finishing testing by themselves testing and help the team in achieving sprint goals. Hence developers no more can wash their hands-off by just writing code. It is their responsibility to see it through till end
+6. Tester
+Testers who are used to having a more clearly specified set of requirements will struggle, as the Agile tester role involves more thought, planning, and business knowledge. The tester becomes a true partner with the developers in building the application. Testers focus moves away from logging bugs, to work with developers and business to build a great high quality product. No more Them vs I divide.
+Testers proximity to the product and the need to acquire very good domain knowledge makes them strong contenders for product management roles in the future.
+7. Business Analyst(BA)
+Working just in time on requirements will feel very unnatural. Working hand in hand with developers to define requirements and then to help test them will feel very foreign. BA has to acquire new skills like backlog grooming, writing user stories, writing/reviewing acceptance criteria etc and need to interact with PO, developers, testers &amp; technical writers quite often.
+Business analyst from past era can either grow into Product Manager or act as team members and in rare cases act as proxy product owner. Proxy product owner role is a trap and hence need to be very careful in taking up this role.
+8. Technical Lead
+In Agile the technical lead has a lot of freedom to decide the level of depth to go to for. Some technical leads may not have sufficient experience to comfortably operate in this more ambiguous situation. Technical Leads will also need to support their teams more with challenging concepts such as Test Driven Development.
+Having great Agile leader at Senior Management, good agile project managers at middle layer and team oriented developers is the key to successful transformation.
+“Follow Agile” mindset will only help you get into the water, but “Being Agile” mindset will help you swim in the current.

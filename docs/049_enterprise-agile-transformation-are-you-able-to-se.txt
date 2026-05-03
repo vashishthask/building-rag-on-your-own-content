@@ -1,0 +1,26 @@
+TITLE: Enterprise Agile Transformation – Are You Able to See Big Elephant?
+URL: https://www.agilebuddha.in/agile/enterprise-agile-transformation-are-you-able-to-see-big-elephant/
+---
+
+Implementing Agile in a big enterprise is not an easy task. The metaphor I sometimes use for big enterprise is to compare it with Elephant. It’s very easy for a small living being to move and maneuver. However when it comes to elephant, it requires time to build momentum and when it actually moves, it moves slowly.
+People involved in Agile transformation get frustrated because of all perceived delays. Frustration is understandable but not sure if much can be done other than understanding the simple reality that you are dealing with an elephant and not a tiger or mouse.
+
+Now comes other bit. People are limited in their understanding of big elephant just because of their boundaries (silos) in the big environment. Agile transformation in big enterprises might get myopic as most of the people involved are not able to see problems in totality. That translates in focusing issues which require a lot of effort to solve but may not bring the business value you are looking for on board.
+Some ideas which help in executing this area of Enterprise Agile transformation are as follows:
+
+Look at the value chain as a whole
+Ability to clearly define the problems in hand
+Are we focusing on the right problem?
+
+Let’s take an example
+Based on the feedback of the customers or based on market trends, business comes out with an idea or a problem statement which needs to be solved. Now for many technical people, the obvious solution may be complex technical solution but in reality solution can be completely non-technical (process improvement) or mix of both technical and non-technical. Most of the times software development is just a part of bigger solution.
+The business idea is explained to technology people and they start working on a software project. That’s the place where most of the Scrum, XP techniques are placed. Most of the times focus of optimization remains technology. People try to automate everything whatever is perceived as manual step.
+However as you move further or before in the value chain, there are other very important steps of solution. For instance after software delivery, change management activities (training, marketing of the new product, using the product) have very important role.
+From the inception of the business idea to its implementation and further using it, important components of the chain may not be knowing each other very well because of their explicit boundaries. People try to understand this whole bigger picture but at the end of it, they may just look like blind men trying to understand an elephant.
+Real Story
+Here’s a real story of one big enterprise Agile project I worked with.
+In this project Agile was instrumental in delivering the software product in a record time and with tight budget. People coming from waterfall background were very skeptical about it but at the end everybody was happy to see the project delivered within half time of what it could be delivered with waterfall methodology. People were happy and cheered. As project finished, people involved moved on and started working on other projects.
+At one fine day I came to know from one of my peers that though software was delivered technically but it couldn’t still go to production as training logistics will take additional 3 more months. Other than that there were other issues because of which the realistic time to put system live became 3-5 months.
+I was shocked and then wondered if optimizing technical work only should the right focus for Agile teams. Instead of looking at just one part (software delivery) of the whole solution, shouldn’t we be worried more on time to market. That actually translates to program management than just pure project management. In this case, if training could be considered earlier as part of solution (program) planning, intuitive UI could be the focus of software delivery. That could lead in the reduction of both training cost and time.
+Conclusion
+Optimization should be considered for whole value chain instead of just one isolated piece of the chain. This is one of the key ‘Lean Software Development’ principle as well. It’s important to begin with Value Stream Mapping which helps in finding the bottlenecks in the whole value chain. Silos must be broken possibly using Feature Team approach.

@@ -1,0 +1,28 @@
+TITLE: When Story Point Estimation Doesn’t Work!
+URL: https://www.agilebuddha.in/estimation/when-story-point-estimation-doesnt-work/
+---
+
+Story points are used to arrive at a shared understanding around a PBI. This works well when a team works collaboratively. Such teams take a PBI and swarm together to complete it. For instance, a front-end developer does her job, along with a designer and a back-end developer. In other similar scenarios, a team can have a mix of specialists and full-stack developers. These folks pair up and keep switching from one story to another as part of pair switching. 
+In all these scenarios, having a shared understanding on a PBI helps. That’s the reason why planning poker and in turn story points work.
+
+Scenario 1
+
+What about a scenario in which each individual is assigned to work on a specific list of PBIs as part of the planning? So a developer works on one specific area. Another developer may be working on another techno-functional area and in general they don’t collaborate with each other. 
+In such cases, instead of a team you see individuals stacked in a group working on completely different items from one another. These team-members in general don’t have any idea on the detailing of areas other people are working in. Also they may not show any interest for those areas just because it doesn’t concern them.
+In all such cases, people who are assigned PBIs to work on, estimate on their own. 
+Instead of looking at a team’s capacity, individual capacity is looked at and based on that, individuals are assigned PBIs to work on. As estimation is not a shared understanding exercise anymore, it doesn’t matter if they estimate in story points, in days or anything else. In the name of story point, people map a story point with time (e.g. 1 story point = 4 hours) to simplify matters for them. 
+Such teams may be violating so many things at the same time:
+
+It’s a typical command and control setup. Such teams are not self-organizing ones.
+Developers are assigned work. They don’t pull work from the team board.
+Their stand-ups in general are more of status-update meetings.
+People may not be working as a team. They just may be a part of a group of individuals which is termed as a team.
+As there is no knowledge sharing/management among team members, people leaving such teams becomes a painful experience for these teams.
+Such teams may have a narrow perspective in terms of understanding of the PBI, its design as the rest of the team members may not be collaborating together.
+Such teams don’t work towards a Sprint goal.
+
+In such scenarios, the idea of using story points doesn’t really help.
+Scenario 2
+There are teams which may be slicing their work at such a fine grain level that any story doesn’t stay bigger than couple of days. In such cases though collaborative discussion on PBI still helps, story pointing may not be required just because all stories are of similar size. That’s the idea of #noestimates.
+More on Story Points and Agile Estimation
+📖 If this series sparked your curiosity, you’ll love my book Agile Estimation Distilled — everything about Agile estimation in one place.
