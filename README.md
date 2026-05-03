@@ -26,6 +26,7 @@ something that works in a demo.
 ## What I learned
 
 **Access permissions are a hidden corpus problem**
+
 111 public posts made it in. Content behind logins, internal 
 wikis, and restricted SharePoints never reached the corpus. 
 The most valuable organisational knowledge is often the most 
@@ -33,6 +34,7 @@ protected. RAG built on accessible content misses exactly
 what matters most.
 
 **Volume is not depth**
+
 207 chunks from 111 posts — less than 2 chunks per post on 
 average. Organisations measure knowledge by document count. 
 RAG exposes that quantity and depth are completely different 
@@ -40,6 +42,7 @@ things. Thousands of Confluence pages may represent genuine
 expertise in only a handful of areas.
 
 **Model switching has integration cost**
+
 Switching from Claude to Groq required changing the response 
 parsing format. Same concept, different API contract. 
 Enterprises assuming they can swap models freely will find 
